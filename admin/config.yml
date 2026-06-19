@@ -24,8 +24,8 @@ auth:
 local_backend: true
 media_folder: "uploads"
 public_folder: "uploads"
-site_url: "https://jianjianpanpan.github.io/nicolas-portfolio"
-display_url: "https://jianjianpanpan.github.io/nicolas-portfolio"
+site_url: "https://nicolasfurukawa.com"
+display_url: "https://nicolasfurukawa.com"
 logo_url: https://decapbridge.com/decapcms-with-bridge.svg
 search: false
 
