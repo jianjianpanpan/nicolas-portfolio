@@ -1683,7 +1683,7 @@
       startHeroCarousel();
     };
 
-    fetch("content/site.json")
+    fetch(`content/site.json?v=${Date.now()}`)
       .then((response) => response.ok ? response.json() : Promise.reject(new Error("Content file not found")))
       .then((site) => {
         renderSiteContent(site);
