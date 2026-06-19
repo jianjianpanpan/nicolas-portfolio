@@ -1,0 +1,1532 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nicolas Furukawa | International Project Portfolio</title>
+  <meta name="description" content="International project management portfolio for Nicolas Furukawa, organized from CV sections and public project links.">
+  <style>
+    :root {
+      --ink: #11151c;
+      --muted: #5d6675;
+      --paper: #f5f6f2;
+      --panel: #ffffff;
+      --line: #d9dde3;
+      --deep: #17241f;
+      --teal: #0d6b70;
+      --brick: #93423f;
+      --gold: #b48834;
+      --blue: #28506f;
+      --soft: #ebece7;
+      --shadow: 0 18px 60px rgba(17, 21, 28, 0.12);
+      --radius: 8px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: var(--paper);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.55;
+    }
+
+    img {
+      display: block;
+      max-width: 100%;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: 292px minmax(0, 1fr);
+      min-height: 100vh;
+      min-width: 0;
+    }
+
+    .sidebar {
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      gap: 22px;
+      padding: 28px 24px;
+      color: var(--ink);
+      background: rgba(255, 255, 252, 0.9);
+      border-right: 1px solid rgba(17, 21, 28, 0.1);
+      box-shadow: 18px 0 60px rgba(17, 21, 28, 0.08);
+      backdrop-filter: blur(18px);
+      min-width: 0;
+    }
+
+    .identity {
+      display: grid;
+      gap: 12px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid rgba(17, 21, 28, 0.12);
+    }
+
+    .identity img {
+      width: 88px;
+      height: 88px;
+      object-fit: cover;
+      object-position: center top;
+      border: 2px solid rgba(17, 21, 28, 0.12);
+      border-radius: 50%;
+    }
+
+    .identity strong {
+      font-size: 1.06rem;
+      line-height: 1.1;
+    }
+
+    .identity span {
+      color: var(--muted);
+      font-size: 0.86rem;
+    }
+
+    .section-status {
+      display: grid;
+      gap: 4px;
+      padding: 12px;
+      border: 1px solid rgba(17, 21, 28, 0.1);
+      border-radius: var(--radius);
+      background: rgba(255, 255, 255, 0.72);
+    }
+
+    .section-status span {
+      color: var(--muted);
+      font-size: 0.74rem;
+      font-weight: 760;
+      text-transform: uppercase;
+    }
+
+    .section-status strong {
+      font-size: 0.95rem;
+    }
+
+    .side-nav {
+      display: grid;
+      gap: 6px;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .side-nav a {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      min-height: 42px;
+      padding: 0 12px;
+      border: 1px solid transparent;
+      border-radius: 999px;
+      color: #4d5968;
+      font-size: 0.9rem;
+      font-weight: 740;
+      transition: background 180ms ease, border-color 180ms ease, color 180ms ease;
+    }
+
+    .side-nav a::after {
+      content: "";
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: rgba(17, 21, 28, 0.18);
+    }
+
+    .side-nav a:hover,
+    .side-nav a.active {
+      color: var(--ink);
+      border-color: rgba(17, 21, 28, 0.12);
+      background: rgba(17, 21, 28, 0.06);
+    }
+
+    .side-nav a.active::after {
+      background: var(--gold);
+    }
+
+    .sidebar-footer {
+      margin-top: auto;
+      display: grid;
+      gap: 8px;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+
+    .sidebar-footer a {
+      color: var(--teal);
+      font-weight: 760;
+    }
+
+    .main {
+      min-width: 0;
+    }
+
+    .section {
+      scroll-margin-top: 24px;
+      padding: 76px clamp(24px, 5vw, 72px);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .section-inner {
+      width: min(1120px, 100%);
+      margin: 0 auto;
+    }
+
+    .section-kicker {
+      margin: 0 0 12px;
+      color: var(--teal);
+      font-size: 0.78rem;
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+
+    h1,
+    h2,
+    h3 {
+      margin: 0;
+      line-height: 1.05;
+    }
+
+    h1 {
+      max-width: 900px;
+      font-size: clamp(2.7rem, 7vw, 6.2rem);
+      font-weight: 790;
+    }
+
+    h2 {
+      font-size: clamp(2rem, 4.4vw, 4rem);
+      font-weight: 780;
+    }
+
+    h3 {
+      font-size: 1.22rem;
+    }
+
+    p {
+      margin: 0;
+    }
+
+    .muted {
+      color: var(--muted);
+    }
+
+    .hero {
+      min-height: 100vh;
+      display: grid;
+      align-items: center;
+      position: relative;
+      overflow: hidden;
+      color: #ffffff;
+      background: var(--deep);
+      border-bottom: 0;
+    }
+
+    .hero::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      z-index: 1;
+      background:
+        linear-gradient(90deg, rgba(7, 13, 18, 0.9), rgba(7, 13, 18, 0.62) 48%, rgba(7, 13, 18, 0.24)),
+        linear-gradient(0deg, rgba(7, 13, 18, 0.9), rgba(7, 13, 18, 0) 38%);
+      pointer-events: none;
+    }
+
+    .hero-bg {
+      position: absolute;
+      inset: 0;
+      z-index: 0;
+      background: #1e2b29;
+    }
+
+    .hero-slide {
+      position: absolute;
+      inset: 0;
+      opacity: 0;
+      background-position: center;
+      background-size: cover;
+      transform: scale(1.04);
+      transition: opacity 1200ms ease, transform 6200ms ease;
+    }
+
+    .hero-slide.active {
+      opacity: 1;
+      transform: scale(1);
+    }
+
+    .hero-content {
+      display: grid;
+      gap: 30px;
+      position: relative;
+      z-index: 2;
+    }
+
+    .hero-text {
+      max-width: 780px;
+      color: rgba(255, 255, 255, 0.82);
+      font-size: clamp(1.02rem, 2vw, 1.25rem);
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 42px;
+      padding: 0 16px;
+      border: 1px solid rgba(255, 255, 255, 0.34);
+      border-radius: 999px;
+      color: #ffffff;
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(14px);
+      font-size: 0.9rem;
+      font-weight: 760;
+    }
+
+    .button.primary {
+      color: var(--ink);
+      background: #ffffff;
+      border-color: #ffffff;
+    }
+
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      border-top: 1px solid rgba(255, 255, 255, 0.22);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.22);
+      background: transparent;
+      backdrop-filter: none;
+    }
+
+    .metric {
+      padding: 20px;
+      border-right: 1px solid rgba(255, 255, 255, 0.22);
+    }
+
+    .metric:last-child {
+      border-right: 0;
+    }
+
+    .metric strong {
+      display: block;
+      font-size: clamp(1.5rem, 3vw, 2.7rem);
+      line-height: 1;
+    }
+
+    .metric span {
+      display: block;
+      margin-top: 8px;
+      color: rgba(255, 255, 255, 0.72);
+      font-size: 0.86rem;
+    }
+
+    .about-grid {
+      display: grid;
+      grid-template-columns: minmax(260px, 0.45fr) minmax(0, 1fr);
+      gap: 36px;
+      align-items: start;
+    }
+
+    .portrait-panel {
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--panel);
+      box-shadow: var(--shadow);
+    }
+
+    .portrait-panel img {
+      width: 100%;
+      aspect-ratio: 1 / 1.06;
+      object-fit: cover;
+      object-position: center top;
+    }
+
+    .contact-card {
+      display: grid;
+      gap: 12px;
+      padding: 20px;
+    }
+
+    .contact-row {
+      display: grid;
+      gap: 2px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .contact-row:last-child {
+      padding-bottom: 0;
+      border-bottom: 0;
+    }
+
+    .contact-row span {
+      color: var(--muted);
+      font-size: 0.78rem;
+      font-weight: 760;
+      text-transform: uppercase;
+    }
+
+    .contact-row strong {
+      font-size: 0.96rem;
+    }
+
+    .about-copy {
+      display: grid;
+      gap: 24px;
+    }
+
+    .about-copy > p {
+      max-width: 820px;
+      color: var(--muted);
+      font-size: 1.08rem;
+    }
+
+    .skill-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+    }
+
+    .skill-pill {
+      min-height: 48px;
+      display: flex;
+      align-items: center;
+      padding: 0 14px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--panel);
+      color: #384251;
+      font-size: 0.94rem;
+      font-weight: 720;
+    }
+
+    .summary-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 0.78fr) minmax(280px, 0.48fr);
+      gap: 34px;
+      align-items: start;
+    }
+
+    .prose {
+      display: grid;
+      gap: 18px;
+      color: var(--muted);
+      font-size: 1.05rem;
+    }
+
+    .language-card {
+      display: grid;
+      gap: 12px;
+      padding: 22px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--panel);
+      box-shadow: var(--shadow);
+    }
+
+    .language-card h3 {
+      color: var(--teal);
+    }
+
+    .language-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .language-list li,
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      min-height: 30px;
+      padding: 0 10px;
+      border-radius: 999px;
+      color: #ffffff;
+      background: var(--teal);
+      font-size: 0.8rem;
+      font-weight: 780;
+    }
+
+    .achievement-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 14px;
+      margin-top: 32px;
+    }
+
+    .achievement {
+      min-height: 210px;
+      display: grid;
+      gap: 16px;
+      align-content: start;
+      padding: 22px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--panel);
+      box-shadow: 0 12px 36px rgba(17, 21, 28, 0.08);
+    }
+
+    .achievement strong {
+      color: var(--brick);
+      font-size: clamp(1.45rem, 3vw, 2.4rem);
+      line-height: 1;
+    }
+
+    .achievement p {
+      color: var(--muted);
+    }
+
+    .timeline {
+      display: grid;
+      gap: 18px;
+      margin-top: 34px;
+    }
+
+    .timeline-item {
+      display: grid;
+      grid-template-columns: 230px minmax(0, 1fr);
+      gap: 24px;
+      padding: 24px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--panel);
+      box-shadow: 0 12px 36px rgba(17, 21, 28, 0.08);
+    }
+
+    .timeline-date {
+      display: grid;
+      gap: 6px;
+      align-content: start;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .timeline-date strong {
+      color: var(--ink);
+      font-size: 1rem;
+    }
+
+    .timeline-body {
+      display: grid;
+      gap: 16px;
+    }
+
+    .timeline-body h3 {
+      color: var(--ink);
+      font-size: 1.35rem;
+    }
+
+    .role-block {
+      display: grid;
+      gap: 8px;
+    }
+
+    .role-block h4 {
+      margin: 0;
+      color: var(--teal);
+      font-size: 0.86rem;
+      text-transform: uppercase;
+    }
+
+    .role-block ul,
+    .education-list,
+    .resource-list {
+      display: grid;
+      gap: 8px;
+      margin: 0;
+      padding-left: 18px;
+      color: var(--muted);
+    }
+
+    .landmarks {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 2px;
+    }
+
+    .education-card {
+      display: grid;
+      gap: 10px;
+      padding: 22px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--panel);
+      box-shadow: 0 12px 36px rgba(17, 21, 28, 0.08);
+    }
+
+    .education-card h3 {
+      font-size: 1.15rem;
+    }
+
+    .education-card p {
+      color: var(--muted);
+    }
+
+    .portfolio-intro {
+      display: grid;
+      grid-template-columns: minmax(0, 0.72fr) minmax(240px, 0.38fr);
+      gap: 28px;
+      align-items: end;
+      margin-bottom: 28px;
+    }
+
+    .filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: flex-end;
+    }
+
+    .filter {
+      min-height: 38px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 0 14px;
+      color: var(--muted);
+      background: var(--panel);
+      font: inherit;
+      font-size: 0.88rem;
+      font-weight: 760;
+      cursor: pointer;
+    }
+
+    .filter[aria-pressed="true"] {
+      color: #ffffff;
+      border-color: var(--ink);
+      background: var(--ink);
+    }
+
+    .project-grid {
+      display: grid;
+      grid-template-columns: repeat(12, 1fr);
+      gap: 16px;
+    }
+
+    .project-card {
+      grid-column: span 4;
+      display: grid;
+      grid-template-rows: 220px 1fr;
+      min-height: 510px;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--panel);
+      box-shadow: var(--shadow);
+    }
+
+    .project-card.featured {
+      grid-column: span 8;
+    }
+
+    .project-media {
+      overflow: hidden;
+      background: var(--soft);
+    }
+
+    .project-media img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 420ms ease;
+    }
+
+    .project-card:hover .project-media img {
+      transform: scale(1.04);
+    }
+
+    .project-body {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      padding: 22px;
+    }
+
+    .project-body h3 {
+      font-size: clamp(1.18rem, 2vw, 1.65rem);
+    }
+
+    .project-body p {
+      color: var(--muted);
+    }
+
+    .project-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: auto;
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      min-height: 28px;
+      padding: 0 10px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      color: #46505d;
+      background: #fbfbfa;
+      font-size: 0.78rem;
+      font-weight: 720;
+    }
+
+    .card-link {
+      display: inline-flex;
+      align-items: center;
+      width: fit-content;
+      min-height: 40px;
+      padding: 0 14px;
+      border-radius: 999px;
+      color: #ffffff;
+      background: var(--ink);
+      font-size: 0.88rem;
+      font-weight: 760;
+    }
+
+    .resource-panel {
+      margin-top: 26px;
+      padding: 24px;
+      border: 1px solid rgba(255, 255, 255, 0.14);
+      border-radius: var(--radius);
+      color: #ffffff;
+      background: var(--deep);
+    }
+
+    .resource-panel h3 {
+      margin-bottom: 12px;
+    }
+
+    .resource-list {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      padding-left: 0;
+      list-style: none;
+    }
+
+    .resource-list a {
+      display: flex;
+      min-height: 42px;
+      align-items: center;
+      padding: 0 12px;
+      border: 1px solid rgba(255, 255, 255, 0.14);
+      border-radius: 999px;
+      color: #f3d58f;
+      font-size: 0.9rem;
+      font-weight: 760;
+    }
+
+    .editor-toolbar {
+      position: fixed;
+      right: clamp(14px, 3vw, 28px);
+      bottom: clamp(14px, 3vw, 28px);
+      z-index: 30;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      max-width: min(520px, calc(100vw - 28px));
+      padding: 10px;
+      border: 1px solid rgba(17, 21, 28, 0.14);
+      border-radius: 8px;
+      background: rgba(255, 255, 255, 0.92);
+      box-shadow: 0 18px 48px rgba(17, 21, 28, 0.18);
+      backdrop-filter: blur(16px);
+    }
+
+    .editor-toolbar button {
+      min-height: 36px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 0 12px;
+      color: var(--ink);
+      background: var(--panel);
+      font: inherit;
+      font-size: 0.82rem;
+      font-weight: 760;
+      cursor: pointer;
+    }
+
+    .editor-toolbar button[aria-pressed="true"],
+    .editor-toolbar button.primary-editor {
+      color: #ffffff;
+      border-color: var(--ink);
+      background: var(--ink);
+    }
+
+    .edit-status {
+      flex-basis: 100%;
+      color: var(--muted);
+      font-size: 0.75rem;
+      text-align: center;
+    }
+
+    body.editing [data-editable="true"] {
+      outline: 1px dashed rgba(13, 107, 112, 0.74);
+      outline-offset: 3px;
+      cursor: text;
+    }
+
+    body.editing [data-editable="true"]:focus {
+      outline: 2px solid var(--gold);
+      background: rgba(184, 136, 52, 0.12);
+    }
+
+    @media (max-width: 1080px) {
+      .layout {
+        grid-template-columns: minmax(0, 1fr);
+      }
+
+      .sidebar {
+        position: sticky;
+        top: 0;
+        z-index: 20;
+        height: auto;
+        padding: 14px 18px;
+      }
+
+      .identity {
+        grid-template-columns: 54px minmax(0, 1fr);
+        align-items: center;
+        padding-bottom: 12px;
+      }
+
+      .identity img {
+        width: 54px;
+        height: 54px;
+      }
+
+      .section-status,
+      .sidebar-footer {
+        display: none;
+      }
+
+      .side-nav {
+        display: flex;
+        gap: 8px;
+        overflow-x: auto;
+        padding-bottom: 4px;
+        max-width: 100%;
+        min-width: 0;
+      }
+
+      .side-nav a {
+        flex: 0 0 auto;
+        white-space: nowrap;
+      }
+    }
+
+    @media (max-width: 860px) {
+      .section {
+        padding: 58px 20px;
+      }
+
+      .hero {
+        min-height: 88vh;
+      }
+
+      .metrics,
+      .about-grid,
+      .summary-grid,
+      .timeline-item,
+      .portfolio-intro {
+        grid-template-columns: 1fr;
+      }
+
+      .metric {
+        border-right: 0;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.22);
+      }
+
+      .metric:last-child {
+        border-bottom: 0;
+      }
+
+      .achievement-grid,
+      .skill-grid,
+      .resource-list {
+        grid-template-columns: 1fr;
+      }
+
+      .filters {
+        justify-content: flex-start;
+      }
+
+      .project-card,
+      .project-card.featured {
+        grid-column: span 6;
+      }
+    }
+
+    @media (max-width: 620px) {
+      .project-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .project-card,
+      .project-card.featured {
+        grid-column: 1;
+        grid-template-rows: 215px auto;
+        min-height: auto;
+      }
+
+      .editor-toolbar {
+        left: 14px;
+        right: 14px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar" aria-label="Section navigation">
+      <div class="identity">
+        <img src="image1.jpg" alt="Portrait of Nicolas Furukawa">
+        <div>
+          <strong data-editable="true">Nicolas Furukawa</strong>
+          <span data-editable="true">Senior Project Manager | Tokyo, Japan</span>
+        </div>
+      </div>
+
+      <div class="section-status" aria-live="polite">
+        <span>Current section</span>
+        <strong id="currentSection">About Me</strong>
+      </div>
+
+      <nav>
+        <ul class="side-nav">
+          <li><a class="active" href="#about" data-section-link="about">About Me</a></li>
+          <li><a href="#summary" data-section-link="summary">Summary</a></li>
+          <li><a href="#achievements" data-section-link="achievements">Core Achievements</a></li>
+          <li><a href="#experience" data-section-link="experience">Professional Experience</a></li>
+          <li><a href="#education" data-section-link="education">Education</a></li>
+          <li><a href="#portfolio" data-section-link="portfolio">Portfolio</a></li>
+        </ul>
+      </nav>
+
+      <div class="sidebar-footer">
+        <span data-editable="true">Available for international project leadership, stakeholder engagement, and business development roles.</span>
+        <a href="mailto:paris.nick.25@gmail.com">paris.nick.25@gmail.com</a>
+      </div>
+    </aside>
+
+    <main class="main">
+      <section class="section hero" id="about" data-section-name="About Me">
+        <div class="hero-bg" aria-hidden="true">
+          <div class="hero-slide active" style="background-image: url('https://www.nikken.co.jp/en/projects/tg1is20000004r7a-img/pj0288_00_ogp.jpg');"></div>
+          <div class="hero-slide" style="background-image: url('https://www.nikken.co.jp/en/projects/tg1is20000002vpq-img/pj0203_00_ogp.jpg');"></div>
+          <div class="hero-slide" style="background-image: url('https://www.nikken.co.jp/en/projects/p4iusj0000001gfr-img/pj0023_00_top.jpg');"></div>
+          <div class="hero-slide" style="background-image: url('https://www.nikken.co.jp/en/projects/tg1is20000003667-img/pj0243_00_ogp.jpg');"></div>
+          <div class="hero-slide" style="background-image: url('https://www.nikken.co.jp/en/projects/tg1is20000002xgf-img/pj0208_00_ogp.jpg');"></div>
+        </div>
+        <div class="section-inner hero-content">
+          <div>
+            <p class="section-kicker" data-editable="true" style="color: #d8eeee;">About Me</p>
+            <h1 data-editable="true">I bridge Japanese organizations and Middle Eastern stakeholders.</h1>
+          </div>
+          <p class="hero-text" data-editable="true">I am a native Arabic speaker with over two decades of professional experience in Japan, serving as a bridge between Japanese organizations and stakeholders across the Middle East.</p>
+          <div class="hero-actions">
+            <a class="button primary" href="#portfolio">View portfolio</a>
+            <a class="button" href="mailto:paris.nick.25@gmail.com">Email me</a>
+          </div>
+          <div class="metrics" aria-label="Profile highlights">
+            <div class="metric">
+              <strong data-editable="true">18+</strong>
+              <span data-editable="true">years of international leadership</span>
+            </div>
+            <div class="metric">
+              <strong data-editable="true">USD 5B+</strong>
+              <span data-editable="true">combined project value</span>
+            </div>
+            <div class="metric">
+              <strong data-editable="true">50+</strong>
+              <span data-editable="true">professionals directed across regions</span>
+            </div>
+            <div class="metric">
+              <strong data-editable="true">4</strong>
+              <span data-editable="true">languages: Arabic, Japanese, English, French</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-inner about-grid">
+          <div class="portrait-panel">
+            <img src="image1.jpg" alt="Portrait of Nicolas Furukawa">
+            <div class="contact-card">
+              <div class="contact-row">
+                <span>Role</span>
+                <strong data-editable="true">Senior Project Manager</strong>
+              </div>
+              <div class="contact-row">
+                <span>Email</span>
+                <strong><a href="mailto:paris.nick.25@gmail.com">paris.nick.25@gmail.com</a></strong>
+              </div>
+              <div class="contact-row">
+                <span>Phone</span>
+                <strong data-editable="true">+81 70 9007 8889</strong>
+              </div>
+              <div class="contact-row">
+                <span>Base</span>
+                <strong data-editable="true">Tokyo, Japan</strong>
+              </div>
+            </div>
+          </div>
+          <div class="about-copy">
+            <div>
+              <p class="section-kicker" data-editable="true">Skills</p>
+              <h2 data-editable="true">International project leadership with cross-cultural execution.</h2>
+            </div>
+            <p data-editable="true">My work combines international project leadership, strategic relationship management, business development, executive stakeholder engagement, and cross-cultural communication.</p>
+            <div class="skill-grid">
+              <span class="skill-pill" data-editable="true">International Project Leadership</span>
+              <span class="skill-pill" data-editable="true">Strategic Relationship Management</span>
+              <span class="skill-pill" data-editable="true">Business Development</span>
+              <span class="skill-pill" data-editable="true">Executive Stakeholder Engagement</span>
+              <span class="skill-pill" data-editable="true">Cross-Cultural Communication</span>
+              <span class="skill-pill" data-editable="true">Commercial Administration</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="summary" data-section-name="Summary">
+        <div class="section-inner summary-grid">
+          <div>
+            <p class="section-kicker" data-editable="true">Summary</p>
+            <h2 data-editable="true">International project and business management across the Middle East, Europe, and Asia.</h2>
+          </div>
+          <div class="prose">
+            <p data-editable="true">I am an international project and business management professional with over 18 years of experience delivering complex developments and strategic initiatives across the Middle East, Europe, and Asia.</p>
+            <p data-editable="true">I have extensive experience leading multinational stakeholders, managing client relationships, negotiating contracts, and coordinating large-scale projects for globally recognized developments including One Za'abeel in Dubai, Tadawul Tower in Riyadh, and Camp Nou in Barcelona.</p>
+            <p data-editable="true">Beyond project management, I bring proven expertise in international business relations, executive-level stakeholder engagement, public relations, proposal development, and cross-cultural leadership. I have regularly represented Nikken Sekkei in interactions with government officials, royal family representatives, institutional clients, and private investors across multiple regions.</p>
+            <div class="language-card">
+              <h3 data-editable="true">Languages</h3>
+              <ul class="language-list">
+                <li data-editable="true">Arabic</li>
+                <li data-editable="true">Japanese</li>
+                <li data-editable="true">English</li>
+                <li data-editable="true">French</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="achievements" data-section-name="Core Achievements">
+        <div class="section-inner">
+          <p class="section-kicker" data-editable="true">Core Achievements</p>
+          <h2 data-editable="true">Measurable leadership across landmark international developments.</h2>
+          <div class="achievement-grid">
+            <article class="achievement">
+              <strong data-editable="true">18+ years</strong>
+              <p data-editable="true">International leadership experience across the Middle East, Europe, and Asia.</p>
+            </article>
+            <article class="achievement">
+              <strong data-editable="true">USD 5B+</strong>
+              <p data-editable="true">Led stakeholder engagement and client relationships on landmark developments with combined project values exceeding USD 5 billion.</p>
+            </article>
+            <article class="achievement">
+              <strong data-editable="true">50+ experts</strong>
+              <p data-editable="true">Directed multidisciplinary teams of architects, engineers, consultants, and specialists from proposal development to construction completion.</p>
+            </article>
+            <article class="achievement">
+              <strong data-editable="true">4 landmarks</strong>
+              <p data-editable="true">Played key management roles in One Za'abeel, Tadawul Tower, Camp Nou, and E-JUST Campus.</p>
+            </article>
+            <article class="achievement">
+              <strong data-editable="true">Executive relations</strong>
+              <p data-editable="true">Represented Nikken Sekkei in engagements involving royal family representatives, government leaders, institutional investors, and major corporate stakeholders.</p>
+            </article>
+            <article class="achievement">
+              <strong data-editable="true">PR leadership</strong>
+              <p data-editable="true">Led overseas public relations initiatives, including award submissions, corporate publications, project marketing materials, and executive client tours.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="experience" data-section-name="Professional Experience">
+        <div class="section-inner">
+          <p class="section-kicker" data-editable="true">Professional Experience</p>
+          <h2 data-editable="true">From international project delivery to geopolitical risk intelligence.</h2>
+          <div class="timeline">
+            <article class="timeline-item">
+              <div class="timeline-date">
+                <strong data-editable="true">Nikken Sekkei Ltd</strong>
+                <span data-editable="true">Tokyo, Japan</span>
+                <span data-editable="true">Apr 2007 - Present</span>
+              </div>
+              <div class="timeline-body">
+                <h3 data-editable="true">Senior Project Manager</h3>
+                <div class="role-block">
+                  <h4 data-editable="true">Leadership and Delivery</h4>
+                  <ul>
+                    <li data-editable="true">Led multidisciplinary project teams throughout design, procurement, construction, and delivery phases.</li>
+                    <li data-editable="true">Directed multidisciplinary teams of 50+ professionals across Japan, the Middle East, and Europe.</li>
+                    <li data-editable="true">Managed project delivery from proposal stage through construction completion.</li>
+                  </ul>
+                </div>
+                <div class="role-block">
+                  <h4 data-editable="true">Commercial and Client Management</h4>
+                  <ul>
+                    <li data-editable="true">Negotiated contracts and managed commercial administration for major international developments.</li>
+                    <li data-editable="true">Supported business development initiatives and client acquisition efforts across MENA markets.</li>
+                  </ul>
+                </div>
+                <div class="role-block">
+                  <h4 data-editable="true">Executive Relations and Representation</h4>
+                  <ul>
+                    <li data-editable="true">Represented Nikken Sekkei in engagements involving royal family representatives, government leaders, and institutional investors.</li>
+                  </ul>
+                </div>
+                <div class="role-block">
+                  <h4 data-editable="true">Selected Landmark Projects</h4>
+                  <div class="landmarks">
+                    <span class="chip" data-editable="true">One Za'abeel, Dubai</span>
+                    <span class="chip" data-editable="true">Tadawul Tower, Riyadh</span>
+                    <span class="chip" data-editable="true">Camp Nou, Barcelona</span>
+                    <span class="chip" data-editable="true">E-JUST Campus, Egypt</span>
+                  </div>
+                </div>
+              </div>
+            </article>
+
+            <article class="timeline-item">
+              <div class="timeline-date">
+                <strong data-editable="true">Tokio Marine Nichido</strong>
+                <span data-editable="true">Tokyo, Japan</span>
+                <span data-editable="true">Apr 2003 - Mar 2007</span>
+              </div>
+              <div class="timeline-body">
+                <h3 data-editable="true">Risk Intelligence Analyst</h3>
+                <ul>
+                  <li data-editable="true">Conducted geopolitical, security, and natural disaster risk assessments focused on the Middle East and East Asia.</li>
+                  <li data-editable="true">Delivered strategic intelligence and analytical reports for corporate clients and Japanese government agencies.</li>
+                  <li data-editable="true">Supported overseas business planning and risk management through cross-border political and environmental risk analysis.</li>
+                </ul>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="education" data-section-name="Education">
+        <div class="section-inner">
+          <p class="section-kicker" data-editable="true">Education</p>
+          <h2 data-editable="true">Academic foundation in oceanography, biochemistry, and Japanese language study.</h2>
+          <div class="timeline">
+            <article class="education-card">
+              <h3 data-editable="true">Master in Oceanography (satellite programming)</h3>
+              <p data-editable="true">Division of Marine Science and Technology, Nagasaki University, Nagasaki, Japan</p>
+              <p data-editable="true">Apr 2001 - Mar 2003</p>
+            </article>
+            <article class="education-card">
+              <h3 data-editable="true">Bachelor in Ocean Biochemistry</h3>
+              <p data-editable="true">Division of Biochemistry, Faculty of Fisheries, Nagasaki University, Nagasaki, Japan</p>
+              <p data-editable="true">Apr 1997 - Mar 2001</p>
+            </article>
+            <article class="education-card">
+              <h3 data-editable="true">Monbushou Scholarship</h3>
+              <p data-editable="true">Acquired first-level certificate in Japanese language as a foreign student, Tokyo University of Foreign Studies, Fuchu, Japan</p>
+              <p data-editable="true">Apr 1996</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="portfolio" data-section-name="Portfolio">
+        <div class="section-inner">
+          <div class="portfolio-intro">
+            <div>
+              <p class="section-kicker" data-editable="true">Portfolio</p>
+              <h2 data-editable="true">Public project outcomes and communications materials.</h2>
+              <p class="muted" data-editable="true">These selected public links show project outcomes, brochures, and publications connected to my international project management and overseas public relations work.</p>
+            </div>
+            <div class="filters" role="group" aria-label="Filter projects by category">
+              <button class="filter" type="button" data-filter="all" aria-pressed="true">All</button>
+              <button class="filter" type="button" data-filter="Built">Built</button>
+              <button class="filter" type="button" data-filter="MENA">MENA</button>
+              <button class="filter" type="button" data-filter="Master Plan">Master Plan</button>
+              <button class="filter" type="button" data-filter="Sports">Sports</button>
+            </div>
+          </div>
+
+          <div class="project-grid">
+            <article class="project-card featured" data-tags="Built MENA Mixed Use Tall Buildings">
+              <div class="project-media">
+                <img src="https://www.nikken.co.jp/en/projects/tg1is20000004r7a-img/pj0288_00_ogp.jpg" alt="One Za'abeel towers in Dubai">
+              </div>
+              <div class="project-body">
+                <span class="tag" data-editable="true">Mixed Use / TOD</span>
+                <h3 data-editable="true">One Za'abeel</h3>
+                <p data-editable="true">An elegant tower development in Dubai, connected by THE LINK and positioned as a new symbol of the city.</p>
+                <div class="project-meta">
+                  <span class="chip" data-editable="true">Dubai</span>
+                  <span class="chip" data-editable="true">Completed 2024</span>
+                  <span class="chip" data-editable="true">530,700 sq.m.</span>
+                </div>
+                <a class="card-link" href="https://www.nikken.co.jp/en/projects/mixed_use/one_zaabeel.html" target="_blank" rel="noopener">Open project page</a>
+              </div>
+            </article>
+
+            <article class="project-card" data-tags="MENA Residential Tall Buildings">
+              <div class="project-media">
+                <img src="https://www.nikken.co.jp/en/projects/tg1is2000000445u-img/pj0265_00_ogp.jpg" alt="New Dubai Skyline residential tower rendering">
+              </div>
+              <div class="project-body">
+                <span class="tag" data-editable="true">Residential</span>
+                <h3 data-editable="true">New Dubai Skyline</h3>
+                <p data-editable="true">A high-grade residential tower project conceived under the theme "Above the Clouds."</p>
+                <div class="project-meta">
+                  <span class="chip" data-editable="true">Dubai</span>
+                  <span class="chip" data-editable="true">Tall Buildings</span>
+                </div>
+                <a class="card-link" href="https://www.nikken.co.jp/en/projects/residential/new_dubai_skyline.html" target="_blank" rel="noopener">Open project page</a>
+              </div>
+            </article>
+
+            <article class="project-card" data-tags="MENA Master Plan Urban Design">
+              <div class="project-media">
+                <img src="https://www.nikken.co.jp/en/projects/tg1is20000002xgf-img/pj0208_00_ogp.jpg" alt="Jumeirah Gardens Technoprenour City master plan">
+              </div>
+              <div class="project-body">
+                <span class="tag" data-editable="true">Urban Design</span>
+                <h3 data-editable="true">Jumeirah Gardens: Technoprenour City</h3>
+                <p data-editable="true">An aerodynamic sustainable city concept for Jumeirah Gardens.</p>
+                <div class="project-meta">
+                  <span class="chip" data-editable="true">Dubai</span>
+                  <span class="chip" data-editable="true">Master Plan</span>
+                </div>
+                <a class="card-link" href="https://www.nikken.co.jp/en/projects/urban_design_and_planning/jumeirah_gardens_technoprenour_city.html" target="_blank" rel="noopener">Open project page</a>
+              </div>
+            </article>
+
+            <article class="project-card" data-tags="MENA Master Plan Tall Buildings">
+              <div class="project-media">
+                <img src="https://www.nikken.co.jp/en/projects/tg1is20000002vuw-img/tg1is20000002vv3.jpg" alt="Cool City and Eco-towers concept">
+              </div>
+              <div class="project-body">
+                <span class="tag" data-editable="true">Sustainable City</span>
+                <h3 data-editable="true">Cool City and Eco-towers</h3>
+                <p data-editable="true">A sustainability-focused urban proposal exploring energy savings and architecture at city scale.</p>
+                <div class="project-meta">
+                  <span class="chip" data-editable="true">Urban Strategy</span>
+                  <span class="chip" data-editable="true">Eco-towers</span>
+                </div>
+                <a class="card-link" href="https://www.nikken.co.jp/en/projects/cool_city_and_eco-towers.html" target="_blank" rel="noopener">Open project page</a>
+              </div>
+            </article>
+
+            <article class="project-card" data-tags="Built MENA Office Tall Buildings">
+              <div class="project-media">
+                <img src="https://www.nikken.co.jp/en/projects/tg1is20000002vpq-img/pj0203_00_ogp.jpg" alt="Tadawul Tower exterior">
+              </div>
+              <div class="project-body">
+                <span class="tag" data-editable="true">Office</span>
+                <h3 data-editable="true">Tadawul Tower</h3>
+                <p data-editable="true">The Saudi stock market epicenter in Riyadh, recognized as a major office and tall-building project.</p>
+                <div class="project-meta">
+                  <span class="chip" data-editable="true">Riyadh</span>
+                  <span class="chip" data-editable="true">Awarded</span>
+                </div>
+                <a class="card-link" href="https://www.nikken.co.jp/en/projects/office/tadawul_tower.html" target="_blank" rel="noopener">Open project page</a>
+              </div>
+            </article>
+
+            <article class="project-card" data-tags="Mixed Use Tall Buildings">
+              <div class="project-media">
+                <img src="https://www.nikken.co.jp/en/projects/tg1is200000043ep-img/pj0261_00_ogp.jpg" alt="Mongol Tower exterior rendering">
+              </div>
+              <div class="project-body">
+                <span class="tag" data-editable="true">Mixed Use / TOD</span>
+                <h3 data-editable="true">Mongol Tower</h3>
+                <p data-editable="true">A mixed-use tower positioned as an icon of modern Mongolia.</p>
+                <div class="project-meta">
+                  <span class="chip" data-editable="true">Mongolia</span>
+                  <span class="chip" data-editable="true">Tall Buildings</span>
+                </div>
+                <a class="card-link" href="https://www.nikken.co.jp/en/projects/mixed_use/mongol_tower.html" target="_blank" rel="noopener">Open project page</a>
+              </div>
+            </article>
+
+            <article class="project-card" data-tags="Sports Europe">
+              <div class="project-media">
+                <img src="https://www.nikken.co.jp/en/projects/p4iusj0000001gfr-img/pj0023_00_top.jpg" alt="Futur Camp Nou stadium design">
+              </div>
+              <div class="project-body">
+                <span class="tag" data-editable="true">Cultural / Sports</span>
+                <h3 data-editable="true">Futur Camp Nou</h3>
+                <p data-editable="true">A stadium remodel concept designed to open the venue to the city and the people.</p>
+                <div class="project-meta">
+                  <span class="chip" data-editable="true">Barcelona</span>
+                  <span class="chip" data-editable="true">Sports</span>
+                </div>
+                <a class="card-link" href="https://www.nikken.co.jp/en/projects/sports/futur_camp_nou.html" target="_blank" rel="noopener">Open project page</a>
+              </div>
+            </article>
+
+            <article class="project-card" data-tags="Built MENA Education">
+              <div class="project-media">
+                <img src="https://www.nikken.co.jp/en/projects/tg1is20000003667-img/pj0243_00_ogp.jpg" alt="E-JUST campus architecture">
+              </div>
+              <div class="project-body">
+                <span class="tag" data-editable="true">Education</span>
+                <h3 data-editable="true">E-JUST Campus</h3>
+                <p data-editable="true">The Egypt-Japan University of Science and Technology campus, described as a twin-culture campus.</p>
+                <div class="project-meta">
+                  <span class="chip" data-editable="true">Egypt</span>
+                  <span class="chip" data-editable="true">Campus</span>
+                </div>
+                <a class="card-link" href="https://www.nikken.co.jp/en/projects/education/e-just_university_campus.html?cat=Education" target="_blank" rel="noopener">Open project page</a>
+              </div>
+            </article>
+          </div>
+
+          <div class="resource-panel">
+            <h3 data-editable="true">Publications and Brochures</h3>
+            <ul class="resource-list">
+              <li><a href="https://www.nikken.jp/ja/dbook/nj202303/html5m.html#page=1" target="_blank" rel="noopener">Nikken Journal 54</a></li>
+              <li><a href="https://www.nikken.jp/ja/dbook/one_zaabeel/#page=1" target="_blank" rel="noopener">One Za'abeel Brochure</a></li>
+              <li><a href="https://www.nikken.jp/ja/dbook/tadawul_tower/#page=1" target="_blank" rel="noopener">Tadawul Tower Brochure</a></li>
+              <li><a href="https://www.nikken.co.jp/en/about/tg1is20000003n57-att/Residential_Brochure.pdf" target="_blank" rel="noopener">Residential Brochure</a></li>
+              <li><a href="https://www.nikken.co.jp/en/about/tg1is200000002uf-att/MENA_Brochure_2017.pdf" target="_blank" rel="noopener">MENA Brochure</a></li>
+              <li><a href="https://www.nikken.jp/ja/dbook/hospitality_brochure/html5m.html#page=1" target="_blank" rel="noopener">Hospitality Brochure</a></li>
+              <li><a href="https://www.nikken.jp/ja/dbook/vietnam_brochure/#page=1" target="_blank" rel="noopener">Vietnam Brochure</a></li>
+              <li><a href="https://www.nikken.co.jp/en/about/index.html" target="_blank" rel="noopener">Nikken Sekkei Website</a></li>
+            </ul>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <div class="editor-toolbar" data-editor-ui>
+    <button type="button" id="editToggle" aria-pressed="false">Edit text</button>
+    <button type="button" id="saveEdits">Save</button>
+    <button type="button" id="saveToFile" class="primary-editor">Save to file</button>
+    <button type="button" id="downloadEdited" class="primary-editor">Download HTML</button>
+    <button type="button" id="resetEdits">Reset</button>
+    <span class="edit-status" id="editStatus">Edit mode is off</span>
+  </div>
+
+  <script>
+    const sectionLinks = [...document.querySelectorAll("[data-section-link]")];
+    const sectionStatus = document.querySelector("#currentSection");
+    const sections = [...document.querySelectorAll("[data-section-name]")];
+
+    const setActiveSection = (id) => {
+      const section = document.querySelector(`#${id}`);
+      sectionLinks.forEach((link) => {
+        link.classList.toggle("active", link.dataset.sectionLink === id);
+      });
+      if (sectionStatus && section) {
+        sectionStatus.textContent = section.dataset.sectionName;
+      }
+    };
+
+    const updateActiveFromScroll = () => {
+      const marker = window.innerHeight * 0.34;
+      let active = sections[0];
+      sections.forEach((section) => {
+        if (section.getBoundingClientRect().top <= marker) {
+          active = section;
+        }
+      });
+      if (active) {
+        setActiveSection(active.id);
+      }
+    };
+
+    window.addEventListener("scroll", updateActiveFromScroll, { passive: true });
+    window.addEventListener("resize", updateActiveFromScroll);
+    window.addEventListener("load", () => {
+      if (window.location.hash) {
+        document.querySelector(window.location.hash)?.scrollIntoView();
+      }
+      updateActiveFromScroll();
+    });
+    window.addEventListener("hashchange", () => {
+      window.setTimeout(updateActiveFromScroll, 80);
+    });
+    updateActiveFromScroll();
+
+    const heroSlides = [...document.querySelectorAll(".hero-slide")];
+    let heroSlideIndex = 0;
+    const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+    if (heroSlides.length > 1 && !prefersReducedMotion) {
+      window.setInterval(() => {
+        heroSlides[heroSlideIndex].classList.remove("active");
+        heroSlideIndex = (heroSlideIndex + 1) % heroSlides.length;
+        heroSlides[heroSlideIndex].classList.add("active");
+      }, 6000);
+    }
+
+    const filters = document.querySelectorAll(".filter");
+    const cards = document.querySelectorAll(".project-card");
+
+    filters.forEach((button) => {
+      button.addEventListener("click", () => {
+        const value = button.dataset.filter;
+        filters.forEach((item) => item.setAttribute("aria-pressed", String(item === button)));
+
+        cards.forEach((card) => {
+          const visible = value === "all" || card.dataset.tags.includes(value);
+          card.style.display = visible ? "" : "none";
+        });
+      });
+    });
+
+    const editStorageKey = "nicolas-portfolio-text-edits-v2";
+    const editToggle = document.querySelector("#editToggle");
+    const saveEditsButton = document.querySelector("#saveEdits");
+    const saveToFileButton = document.querySelector("#saveToFile");
+    const downloadEditedButton = document.querySelector("#downloadEdited");
+    const resetEditsButton = document.querySelector("#resetEdits");
+    const editStatus = document.querySelector("#editStatus");
+    const editableElements = [...document.querySelectorAll("[data-editable='true']")];
+
+    editableElements.forEach((element, index) => {
+      element.dataset.editId = `text-${index}`;
+    });
+
+    const setStatus = (message) => {
+      if (editStatus) {
+        editStatus.textContent = message;
+      }
+    };
+
+    const readEdits = () => {
+      try {
+        return JSON.parse(localStorage.getItem(editStorageKey) || "{}");
+      } catch {
+        return {};
+      }
+    };
+
+    const writeEdits = () => {
+      const edits = {};
+      editableElements.forEach((element) => {
+        edits[element.dataset.editId] = element.innerHTML;
+      });
+      localStorage.setItem(editStorageKey, JSON.stringify(edits));
+      setStatus("Saved in this browser");
+    };
+
+    const applyStoredEdits = () => {
+      const edits = readEdits();
+      editableElements.forEach((element) => {
+        const value = edits[element.dataset.editId];
+        if (value !== undefined) {
+          element.innerHTML = value;
+        }
+      });
+    };
+
+    const setEditing = (enabled) => {
+      document.body.classList.toggle("editing", enabled);
+      editableElements.forEach((element) => {
+        element.contentEditable = String(enabled);
+        element.spellcheck = true;
+      });
+      editToggle?.setAttribute("aria-pressed", String(enabled));
+      if (editToggle) {
+        editToggle.textContent = enabled ? "Editing on" : "Edit text";
+      }
+      setStatus(enabled ? "Click any highlighted text to edit" : "Edit mode is off");
+    };
+
+    const buildCleanHtml = () => {
+      writeEdits();
+      const clone = document.documentElement.cloneNode(true);
+      clone.querySelectorAll("[data-editor-ui]").forEach((element) => element.remove());
+      clone.querySelectorAll("[contenteditable]").forEach((element) => element.removeAttribute("contenteditable"));
+      clone.querySelectorAll("[data-editable], [data-edit-id]").forEach((element) => {
+        element.removeAttribute("data-editable");
+        element.removeAttribute("data-edit-id");
+      });
+      clone.querySelector("body")?.classList.remove("editing");
+      return `<!doctype html>\n${clone.outerHTML}`;
+    };
+
+    const downloadEditedHtml = () => {
+      const html = buildCleanHtml();
+      const blob = new Blob([html], { type: "text/html" });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.href = url;
+      link.download = "portfolio-edited.html";
+      link.click();
+      URL.revokeObjectURL(url);
+      setStatus("Downloaded edited HTML");
+    };
+
+    const saveEditedHtmlToFile = async () => {
+      const html = buildCleanHtml();
+      setStatus("Saving to local file...");
+      try {
+        const response = await fetch("http://localhost:8766/save", {
+          method: "POST",
+          headers: { "Content-Type": "text/html; charset=utf-8" },
+          body: html
+        });
+        if (!response.ok) {
+          throw new Error(`Save failed: ${response.status}`);
+        }
+        const result = await response.json();
+        setStatus(`Saved: ${result.file}`);
+      } catch (error) {
+        setStatus("Local save service is not running");
+      }
+    };
+
+    applyStoredEdits();
+
+    editableElements.forEach((element) => {
+      element.addEventListener("input", () => {
+        writeEdits();
+      });
+      element.addEventListener("paste", (event) => {
+        event.preventDefault();
+        const text = event.clipboardData.getData("text/plain");
+        document.execCommand("insertText", false, text);
+      });
+    });
+
+    editToggle?.addEventListener("click", () => {
+      setEditing(!document.body.classList.contains("editing"));
+    });
+
+    saveEditsButton?.addEventListener("click", writeEdits);
+    saveToFileButton?.addEventListener("click", saveEditedHtmlToFile);
+    downloadEditedButton?.addEventListener("click", downloadEditedHtml);
+    resetEditsButton?.addEventListener("click", () => {
+      localStorage.removeItem(editStorageKey);
+      window.location.reload();
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,244 @@
+{
+  "title": "Nicolas Furukawa | International Project Portfolio",
+  "description": "International project management portfolio for Nicolas Furukawa, organized from CV sections and public project links.",
+  "identity": {
+    "name": "Nicolas Furukawa",
+    "subtitle": "Senior Project Manager | Tokyo, Japan",
+    "portrait": "image1.jpg",
+    "sidebar_note": "Available for international project leadership, stakeholder engagement, and business development roles.",
+    "email": "paris.nick.25@gmail.com"
+  },
+  "about": {
+    "kicker": "About Me",
+    "headline": "I bridge Japanese organizations and Middle Eastern stakeholders.",
+    "intro": "I am a native Arabic speaker with over two decades of professional experience in Japan, serving as a bridge between Japanese organizations and stakeholders across the Middle East.",
+    "metrics": [
+      { "value": "18+", "label": "years of international leadership" },
+      { "value": "USD 5B+", "label": "combined project value" },
+      { "value": "50+", "label": "professionals directed across regions" },
+      { "value": "4", "label": "languages: Arabic, Japanese, English, French" }
+    ]
+  },
+  "contact": {
+    "role": "Senior Project Manager",
+    "phone": "+81 70 9007 8889",
+    "base": "Tokyo, Japan"
+  },
+  "skills": {
+    "kicker": "Skills",
+    "headline": "International project leadership with cross-cultural execution.",
+    "intro": "My work combines international project leadership, strategic relationship management, business development, executive stakeholder engagement, and cross-cultural communication.",
+    "items": [
+      "International Project Leadership",
+      "Strategic Relationship Management",
+      "Business Development",
+      "Executive Stakeholder Engagement",
+      "Cross-Cultural Communication",
+      "Commercial Administration"
+    ]
+  },
+  "summary": {
+    "kicker": "Summary",
+    "headline": "International project and business management across the Middle East, Europe, and Asia.",
+    "paragraphs": [
+      "I am an international project and business management professional with over 18 years of experience delivering complex developments and strategic initiatives across the Middle East, Europe, and Asia.",
+      "I have extensive experience leading multinational stakeholders, managing client relationships, negotiating contracts, and coordinating large-scale projects for globally recognized developments including One Za'abeel in Dubai, Tadawul Tower in Riyadh, and Camp Nou in Barcelona.",
+      "Beyond project management, I bring proven expertise in international business relations, executive-level stakeholder engagement, public relations, proposal development, and cross-cultural leadership. I have regularly represented Nikken Sekkei in interactions with government officials, royal family representatives, institutional clients, and private investors across multiple regions."
+    ],
+    "language_heading": "Languages",
+    "languages": ["Arabic", "Japanese", "English", "French"]
+  },
+  "achievements": {
+    "kicker": "Core Achievements",
+    "headline": "Measurable leadership across landmark international developments.",
+    "items": [
+      { "value": "18+ years", "description": "International leadership experience across the Middle East, Europe, and Asia." },
+      { "value": "USD 5B+", "description": "Led stakeholder engagement and client relationships on landmark developments with combined project values exceeding USD 5 billion." },
+      { "value": "50+ experts", "description": "Directed multidisciplinary teams of architects, engineers, consultants, and specialists from proposal development to construction completion." },
+      { "value": "4 landmarks", "description": "Played key management roles in One Za'abeel, Tadawul Tower, Camp Nou, and E-JUST Campus." },
+      { "value": "Executive relations", "description": "Represented Nikken Sekkei in engagements involving royal family representatives, government leaders, institutional investors, and major corporate stakeholders." },
+      { "value": "PR leadership", "description": "Led overseas public relations initiatives, including award submissions, corporate publications, project marketing materials, and executive client tours." }
+    ]
+  },
+  "experience": {
+    "kicker": "Professional Experience",
+    "headline": "From international project delivery to geopolitical risk intelligence.",
+    "roles": [
+      {
+        "company": "Nikken Sekkei Ltd",
+        "location": "Tokyo, Japan",
+        "dates": "Apr 2007 - Present",
+        "title": "Senior Project Manager",
+        "sections": [
+          {
+            "heading": "Leadership and Delivery",
+            "bullets": [
+              "Led multidisciplinary project teams throughout design, procurement, construction, and delivery phases.",
+              "Directed multidisciplinary teams of 50+ professionals across Japan, the Middle East, and Europe.",
+              "Managed project delivery from proposal stage through construction completion."
+            ]
+          },
+          {
+            "heading": "Commercial and Client Management",
+            "bullets": [
+              "Negotiated contracts and managed commercial administration for major international developments.",
+              "Supported business development initiatives and client acquisition efforts across MENA markets."
+            ]
+          },
+          {
+            "heading": "Executive Relations and Representation",
+            "bullets": [
+              "Represented Nikken Sekkei in engagements involving royal family representatives, government leaders, and institutional investors."
+            ]
+          }
+        ],
+        "landmarks": ["One Za'abeel, Dubai", "Tadawul Tower, Riyadh", "Camp Nou, Barcelona", "E-JUST Campus, Egypt"]
+      },
+      {
+        "company": "Tokio Marine Nichido",
+        "location": "Tokyo, Japan",
+        "dates": "Apr 2003 - Mar 2007",
+        "title": "Risk Intelligence Analyst",
+        "bullets": [
+          "Conducted geopolitical, security, and natural disaster risk assessments focused on the Middle East and East Asia.",
+          "Delivered strategic intelligence and analytical reports for corporate clients and Japanese government agencies.",
+          "Supported overseas business planning and risk management through cross-border political and environmental risk analysis."
+        ]
+      }
+    ]
+  },
+  "education": {
+    "kicker": "Education",
+    "headline": "Academic foundation in oceanography, biochemistry, and Japanese language study.",
+    "items": [
+      {
+        "title": "Master in Oceanography (satellite programming)",
+        "institution": "Division of Marine Science and Technology, Nagasaki University, Nagasaki, Japan",
+        "dates": "Apr 2001 - Mar 2003"
+      },
+      {
+        "title": "Bachelor in Ocean Biochemistry",
+        "institution": "Division of Biochemistry, Faculty of Fisheries, Nagasaki University, Nagasaki, Japan",
+        "dates": "Apr 1997 - Mar 2001"
+      },
+      {
+        "title": "Monbushou Scholarship",
+        "institution": "Acquired first-level certificate in Japanese language as a foreign student, Tokyo University of Foreign Studies, Fuchu, Japan",
+        "dates": "Apr 1996"
+      }
+    ]
+  },
+  "portfolio": {
+    "kicker": "Portfolio",
+    "headline": "Public project outcomes and communications materials.",
+    "intro": "These selected public links show project outcomes, brochures, and publications connected to my international project management and overseas public relations work.",
+    "projects": [
+      {
+        "title": "One Za'abeel",
+        "category": "Mixed Use / TOD",
+        "description": "An elegant tower development in Dubai, connected by THE LINK and positioned as a new symbol of the city.",
+        "image": "https://www.nikken.co.jp/en/projects/tg1is20000004r7a-img/pj0288_00_ogp.jpg",
+        "image_alt": "One Za'abeel towers in Dubai",
+        "url": "https://www.nikken.co.jp/en/projects/mixed_use/one_zaabeel.html",
+        "tags": "Built MENA Mixed Use Tall Buildings",
+        "featured": true,
+        "meta": ["Dubai", "Completed 2024", "530,700 sq.m."]
+      },
+      {
+        "title": "New Dubai Skyline",
+        "category": "Residential",
+        "description": "A high-grade residential tower project conceived under the theme \"Above the Clouds.\"",
+        "image": "https://www.nikken.co.jp/en/projects/tg1is2000000445u-img/pj0265_00_ogp.jpg",
+        "image_alt": "New Dubai Skyline residential tower rendering",
+        "url": "https://www.nikken.co.jp/en/projects/residential/new_dubai_skyline.html",
+        "tags": "MENA Residential Tall Buildings",
+        "featured": false,
+        "meta": ["Dubai", "Tall Buildings"]
+      },
+      {
+        "title": "Jumeirah Gardens: Technoprenour City",
+        "category": "Urban Design",
+        "description": "An aerodynamic sustainable city concept for Jumeirah Gardens.",
+        "image": "https://www.nikken.co.jp/en/projects/tg1is20000002xgf-img/pj0208_00_ogp.jpg",
+        "image_alt": "Jumeirah Gardens Technoprenour City master plan",
+        "url": "https://www.nikken.co.jp/en/projects/urban_design_and_planning/jumeirah_gardens_technoprenour_city.html",
+        "tags": "MENA Master Plan Urban Design",
+        "featured": false,
+        "meta": ["Dubai", "Master Plan"]
+      },
+      {
+        "title": "Cool City and Eco-towers",
+        "category": "Sustainable City",
+        "description": "A sustainability-focused urban proposal exploring energy savings and architecture at city scale.",
+        "image": "https://www.nikken.co.jp/en/projects/tg1is20000002vuw-img/tg1is20000002vv3.jpg",
+        "image_alt": "Cool City and Eco-towers concept",
+        "url": "https://www.nikken.co.jp/en/projects/cool_city_and_eco-towers.html",
+        "tags": "MENA Master Plan Tall Buildings",
+        "featured": false,
+        "meta": ["Urban Strategy", "Eco-towers"]
+      },
+      {
+        "title": "Tadawul Tower",
+        "category": "Office",
+        "description": "The Saudi stock market epicenter in Riyadh, recognized as a major office and tall-building project.",
+        "image": "https://www.nikken.co.jp/en/projects/tg1is20000002vpq-img/pj0203_00_ogp.jpg",
+        "image_alt": "Tadawul Tower exterior",
+        "url": "https://www.nikken.co.jp/en/projects/office/tadawul_tower.html",
+        "tags": "Built MENA Office Tall Buildings",
+        "featured": false,
+        "meta": ["Riyadh", "Awarded"]
+      },
+      {
+        "title": "Mongol Tower",
+        "category": "Mixed Use / TOD",
+        "description": "A mixed-use tower positioned as an icon of modern Mongolia.",
+        "image": "https://www.nikken.co.jp/en/projects/tg1is200000043ep-img/pj0261_00_ogp.jpg",
+        "image_alt": "Mongol Tower exterior rendering",
+        "url": "https://www.nikken.co.jp/en/projects/mixed_use/mongol_tower.html",
+        "tags": "Mixed Use Tall Buildings",
+        "featured": false,
+        "meta": ["Mongolia", "Tall Buildings"]
+      },
+      {
+        "title": "Futur Camp Nou",
+        "category": "Cultural / Sports",
+        "description": "A stadium remodel concept designed to open the venue to the city and the people.",
+        "image": "https://www.nikken.co.jp/en/projects/p4iusj0000001gfr-img/pj0023_00_top.jpg",
+        "image_alt": "Futur Camp Nou stadium design",
+        "url": "https://www.nikken.co.jp/en/projects/sports/futur_camp_nou.html",
+        "tags": "Sports Europe",
+        "featured": false,
+        "meta": ["Barcelona", "Sports"]
+      },
+      {
+        "title": "E-JUST Campus",
+        "category": "Education",
+        "description": "The Egypt-Japan University of Science and Technology campus, described as a twin-culture campus.",
+        "image": "https://www.nikken.co.jp/en/projects/tg1is20000003667-img/pj0243_00_ogp.jpg",
+        "image_alt": "E-JUST campus architecture",
+        "url": "https://www.nikken.co.jp/en/projects/education/e-just_university_campus.html?cat=Education",
+        "tags": "Built MENA Education",
+        "featured": false,
+        "meta": ["Egypt", "Campus"]
+      }
+    ],
+    "resources_heading": "Publications and Brochures",
+    "resources": [
+      { "label": "Nikken Journal 54", "url": "https://www.nikken.jp/ja/dbook/nj202303/html5m.html#page=1" },
+      { "label": "One Za'abeel Brochure", "url": "https://www.nikken.jp/ja/dbook/one_zaabeel/#page=1" },
+      { "label": "Tadawul Tower Brochure", "url": "https://www.nikken.jp/ja/dbook/tadawul_tower/#page=1" },
+      { "label": "Residential Brochure", "url": "https://www.nikken.co.jp/en/about/tg1is20000003n57-att/Residential_Brochure.pdf" },
+      { "label": "MENA Brochure", "url": "https://www.nikken.co.jp/en/about/tg1is200000002uf-att/MENA_Brochure_2017.pdf" },
+      { "label": "Hospitality Brochure", "url": "https://www.nikken.jp/ja/dbook/hospitality_brochure/html5m.html#page=1" },
+      { "label": "Vietnam Brochure", "url": "https://www.nikken.jp/ja/dbook/vietnam_brochure/#page=1" },
+      { "label": "Nikken Sekkei Website", "url": "https://www.nikken.co.jp/en/about/index.html" }
+    ]
+  },
+  "hero_images": [
+    { "url": "https://www.nikken.co.jp/en/projects/tg1is20000004r7a-img/pj0288_00_ogp.jpg" },
+    { "url": "https://www.nikken.co.jp/en/projects/tg1is20000002vpq-img/pj0203_00_ogp.jpg" },
+    { "url": "https://www.nikken.co.jp/en/projects/p4iusj0000001gfr-img/pj0023_00_top.jpg" },
+    { "url": "https://www.nikken.co.jp/en/projects/tg1is20000003667-img/pj0243_00_ogp.jpg" },
+    { "url": "https://www.nikken.co.jp/en/projects/tg1is20000002xgf-img/pj0208_00_ogp.jpg" }
+  ]
+}

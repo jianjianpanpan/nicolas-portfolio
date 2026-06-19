@@ -1,0 +1,172 @@
+backend:
+  name: github
+  repo: jianjianpanpan/nicolas-portfolio
+  branch: main
+
+local_backend: true
+media_folder: "uploads"
+public_folder: "uploads"
+site_url: "https://jianjianpanpan.github.io/nicolas-portfolio"
+display_url: "https://jianjianpanpan.github.io/nicolas-portfolio"
+search: false
+
+collections:
+  - name: "settings"
+    label: "Website Content"
+    files:
+      - name: "site"
+        label: "Portfolio Page"
+        file: "content/site.json"
+        format: "json"
+        fields:
+          - { label: "Browser Title", name: "title", widget: "string" }
+          - { label: "Meta Description", name: "description", widget: "text" }
+          - label: "Identity"
+            name: "identity"
+            widget: "object"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Subtitle", name: "subtitle", widget: "string" }
+              - { label: "Portrait", name: "portrait", widget: "image", required: false }
+              - { label: "Sidebar Note", name: "sidebar_note", widget: "text" }
+              - { label: "Email", name: "email", widget: "string" }
+          - label: "Hero / About Me"
+            name: "about"
+            widget: "object"
+            fields:
+              - { label: "Kicker", name: "kicker", widget: "string" }
+              - { label: "Headline", name: "headline", widget: "text" }
+              - { label: "Intro", name: "intro", widget: "text" }
+              - label: "Metrics"
+                name: "metrics"
+                widget: "list"
+                fields:
+                  - { label: "Value", name: "value", widget: "string" }
+                  - { label: "Label", name: "label", widget: "string" }
+          - label: "Contact"
+            name: "contact"
+            widget: "object"
+            fields:
+              - { label: "Role", name: "role", widget: "string" }
+              - { label: "Phone", name: "phone", widget: "string" }
+              - { label: "Base", name: "base", widget: "string" }
+          - label: "Skills"
+            name: "skills"
+            widget: "object"
+            fields:
+              - { label: "Kicker", name: "kicker", widget: "string" }
+              - { label: "Headline", name: "headline", widget: "text" }
+              - { label: "Intro", name: "intro", widget: "text" }
+              - label: "Skill Items"
+                name: "items"
+                widget: "list"
+                field: { label: "Skill", name: "skill", widget: "string" }
+          - label: "Summary"
+            name: "summary"
+            widget: "object"
+            fields:
+              - { label: "Kicker", name: "kicker", widget: "string" }
+              - { label: "Headline", name: "headline", widget: "text" }
+              - label: "Paragraphs"
+                name: "paragraphs"
+                widget: "list"
+                field: { label: "Paragraph", name: "paragraph", widget: "text" }
+              - { label: "Language Heading", name: "language_heading", widget: "string" }
+              - label: "Languages"
+                name: "languages"
+                widget: "list"
+                field: { label: "Language", name: "language", widget: "string" }
+          - label: "Core Achievements"
+            name: "achievements"
+            widget: "object"
+            fields:
+              - { label: "Kicker", name: "kicker", widget: "string" }
+              - { label: "Headline", name: "headline", widget: "text" }
+              - label: "Achievement Cards"
+                name: "items"
+                widget: "list"
+                fields:
+                  - { label: "Value / Title", name: "value", widget: "string" }
+                  - { label: "Description", name: "description", widget: "text" }
+          - label: "Professional Experience"
+            name: "experience"
+            widget: "object"
+            fields:
+              - { label: "Kicker", name: "kicker", widget: "string" }
+              - { label: "Headline", name: "headline", widget: "text" }
+              - label: "Roles"
+                name: "roles"
+                widget: "list"
+                fields:
+                  - { label: "Company", name: "company", widget: "string" }
+                  - { label: "Location", name: "location", widget: "string" }
+                  - { label: "Dates", name: "dates", widget: "string" }
+                  - { label: "Title", name: "title", widget: "string" }
+                  - label: "Sections"
+                    name: "sections"
+                    widget: "list"
+                    required: false
+                    fields:
+                      - { label: "Heading", name: "heading", widget: "string" }
+                      - label: "Bullets"
+                        name: "bullets"
+                        widget: "list"
+                        field: { label: "Bullet", name: "bullet", widget: "text" }
+                  - label: "Bullets"
+                    name: "bullets"
+                    widget: "list"
+                    required: false
+                    field: { label: "Bullet", name: "bullet", widget: "text" }
+                  - label: "Landmark Projects"
+                    name: "landmarks"
+                    widget: "list"
+                    required: false
+                    field: { label: "Project", name: "project", widget: "string" }
+          - label: "Education"
+            name: "education"
+            widget: "object"
+            fields:
+              - { label: "Kicker", name: "kicker", widget: "string" }
+              - { label: "Headline", name: "headline", widget: "text" }
+              - label: "Schools / Degrees"
+                name: "items"
+                widget: "list"
+                fields:
+                  - { label: "Title", name: "title", widget: "string" }
+                  - { label: "Institution", name: "institution", widget: "text" }
+                  - { label: "Dates", name: "dates", widget: "string" }
+          - label: "Portfolio"
+            name: "portfolio"
+            widget: "object"
+            fields:
+              - { label: "Kicker", name: "kicker", widget: "string" }
+              - { label: "Headline", name: "headline", widget: "text" }
+              - { label: "Intro", name: "intro", widget: "text" }
+              - label: "Projects"
+                name: "projects"
+                widget: "list"
+                fields:
+                  - { label: "Title", name: "title", widget: "string" }
+                  - { label: "Category", name: "category", widget: "string" }
+                  - { label: "Description", name: "description", widget: "text" }
+                  - { label: "Image URL", name: "image", widget: "string" }
+                  - { label: "Image Alt", name: "image_alt", widget: "string" }
+                  - { label: "Project URL", name: "url", widget: "string" }
+                  - { label: "Tags for Filter", name: "tags", widget: "string" }
+                  - { label: "Featured Card", name: "featured", widget: "boolean", default: false }
+                  - label: "Meta Chips"
+                    name: "meta"
+                    widget: "list"
+                    field: { label: "Chip", name: "chip", widget: "string" }
+              - { label: "Resources Heading", name: "resources_heading", widget: "string" }
+              - label: "Resources"
+                name: "resources"
+                widget: "list"
+                fields:
+                  - { label: "Label", name: "label", widget: "string" }
+                  - { label: "URL", name: "url", widget: "string" }
+          - label: "Hero Background Images"
+            name: "hero_images"
+            widget: "list"
+            fields:
+              - { label: "Image URL", name: "url", widget: "string" }
