@@ -71,9 +71,7 @@
       {
         "image_alt": "One Za'abeel towers in Dubai",
         "meta": [
-          "Dubai",
-          "Completed 2024",
-          "530,700 sq.m."
+          "Dubai, U.A.E."
         ],
         "featured": true,
         "url": "https://www.nikken.co.jp/en/projects/mixed_use/one_zaabeel.html",
@@ -86,8 +84,7 @@
       {
         "image_alt": "New Dubai Skyline residential tower rendering",
         "meta": [
-          "Dubai",
-          "Tall Buildings"
+          "Dubai, U.A.E."
         ],
         "featured": false,
         "url": "https://www.nikken.co.jp/en/projects/residential/new_dubai_skyline.html",
@@ -98,66 +95,9 @@
         "category": "Residential"
       },
       {
-        "image_alt": "Jumeirah Gardens Technoprenour City master plan",
-        "meta": [
-          "Dubai",
-          "Master Plan"
-        ],
-        "featured": false,
-        "url": "https://www.nikken.co.jp/en/projects/urban_design_and_planning/jumeirah_gardens_technoprenour_city.html",
-        "title": "Jumeirah Gardens: Technoprenour City",
-        "tags": "MENA Master Plan Urban Design",
-        "image": "https://www.nikken.co.jp/en/projects/tg1is20000002xgf-img/pj0208_00_ogp.jpg",
-        "description": "An aerodynamic sustainable city concept for Jumeirah Gardens.",
-        "category": "Urban Design"
-      },
-      {
-        "image_alt": "Cool City and Eco-towers concept",
-        "meta": [
-          "Urban Strategy",
-          "Eco-towers"
-        ],
-        "featured": false,
-        "url": "https://www.nikken.co.jp/en/projects/cool_city_and_eco-towers.html",
-        "title": "Cool City and Eco-towers",
-        "tags": "MENA Master Plan Tall Buildings",
-        "image": "https://www.nikken.co.jp/en/projects/tg1is20000002vuw-img/tg1is20000002vv3.jpg",
-        "description": "A sustainability-focused urban proposal exploring energy savings and architecture at city scale.",
-        "category": "Sustainable City"
-      },
-      {
-        "image_alt": "Tadawul Tower exterior",
-        "meta": [
-          "Riyadh",
-          "Awarded"
-        ],
-        "featured": false,
-        "url": "https://www.nikken.co.jp/en/projects/office/tadawul_tower.html",
-        "title": "Tadawul Tower",
-        "tags": "Built MENA Office Tall Buildings",
-        "image": "https://images.skyscrapercenter.com/building/NIK_027_050922@Gerry-O'Leary230418-100418.jpg",
-        "description": "The Saudi stock market epicenter in Riyadh, recognized as a major office and tall-building project.",
-        "category": "Office"
-      },
-      {
-        "image_alt": "Mongol Tower exterior rendering",
-        "meta": [
-          "Mongolia",
-          "Tall Buildings"
-        ],
-        "featured": false,
-        "url": "https://www.nikken.co.jp/en/projects/mixed_use/mongol_tower.html",
-        "title": "Mongol Tower",
-        "tags": "Mixed Use Tall Buildings",
-        "image": "https://www.nikken.co.jp/en/projects/tg1is200000043ep-img/pj0261_00_ogp.jpg",
-        "description": "A mixed-use tower positioned as an icon of modern Mongolia.",
-        "category": "Mixed Use / TOD"
-      },
-      {
         "image_alt": "Futur Camp Nou stadium design",
         "meta": [
-          "Barcelona",
-          "Sports"
+          "Barcelona, Spain"
         ],
         "featured": false,
         "url": "https://www.nikken.co.jp/en/projects/sports/futur_camp_nou.html",
@@ -170,8 +110,7 @@
       {
         "image_alt": "E-JUST campus architecture",
         "meta": [
-          "Egypt",
-          "Campus"
+          "Cairo, Egypt"
         ],
         "featured": false,
         "url": "https://www.nikken.co.jp/en/projects/education/e-just_university_campus.html?cat=Education",
@@ -180,6 +119,58 @@
         "image": "https://www.nikken.co.jp/en/projects/tg1is20000003667-img/pj0243_00_ogp.jpg",
         "description": "The Egypt-Japan University of Science and Technology campus, described as a twin-culture campus.",
         "category": "Education"
+      },
+      {
+        "image_alt": "Mongol Tower exterior rendering",
+        "meta": [
+          "Ulaanbaatar, Mongolia"
+        ],
+        "featured": false,
+        "url": "https://www.nikken.co.jp/en/projects/mixed_use/mongol_tower.html",
+        "title": "Mongol Tower",
+        "tags": "Mixed Use Tall Buildings",
+        "image": "https://www.nikken.co.jp/en/projects/tg1is200000043ep-img/pj0261_00_ogp.jpg",
+        "description": "A mixed-use tower positioned as an icon of modern Mongolia.",
+        "category": "Mixed Use / TOD"
+      },
+      {
+        "image_alt": "Tadawul Tower exterior",
+        "meta": [
+          "Riyadh, K.S.A."
+        ],
+        "featured": false,
+        "url": "https://www.nikken.co.jp/en/projects/office/tadawul_tower.html",
+        "title": "Tadawul Tower",
+        "tags": "Built MENA Office Tall Buildings",
+        "image": "https://images.skyscrapercenter.com/building/NIK_027_050922@Gerry-O'Leary230418-100418.jpg",
+        "description": "The Saudi stock market epicenter in Riyadh, recognized as a major office and tall-building project.",
+        "category": "Office"
+      },
+      {
+        "image_alt": "Cool City and Eco-towers concept",
+        "meta": [
+          "Urban Strategy"
+        ],
+        "featured": false,
+        "url": "https://www.nikken.co.jp/en/projects/cool_city_and_eco-towers.html",
+        "title": "Cool City and Eco-towers",
+        "tags": "MENA Master Plan Tall Buildings",
+        "image": "https://www.nikken.co.jp/en/projects/tg1is20000002vuw-img/tg1is20000002vv3.jpg",
+        "description": "A sustainability-focused urban proposal exploring energy savings and architecture at city scale.",
+        "category": "Sustainable City"
+      },
+      {
+        "image_alt": "Jumeirah Gardens Technoprenour City master plan",
+        "meta": [
+          "Dubai, U.A.E."
+        ],
+        "featured": false,
+        "url": "https://www.nikken.co.jp/en/projects/urban_design_and_planning/jumeirah_gardens_technoprenour_city.html",
+        "title": "Jumeirah Gardens: Technoprenour City",
+        "tags": "MENA Master Plan Urban Design",
+        "image": "https://www.nikken.co.jp/en/projects/tg1is20000002xgf-img/pj0208_00_ogp.jpg",
+        "description": "An aerodynamic sustainable city concept for Jumeirah Gardens.",
+        "category": "Urban Design"
       }
     ],
     "resources_heading": "Publications and Brochures",
@@ -235,7 +226,7 @@
       {
         "title": "Monbushou Scholarship",
         "institution": "Acquired first-level certificate in Japanese language as a foreign student, Tokyo University of Foreign Studies, Fuchu, Japan",
-        "dates": "Apr 1996"
+        "dates": "Apr 1996 - Mar 1997"
       }
     ]
   },
@@ -246,7 +237,7 @@
       {
         "company": "Nikken Sekkei Ltd",
         "location": "Tokyo, Japan",
-        "dates": "Apr 2007 - Present",
+        "dates": "Apr 2007 - Aug 2026",
         "title": "Senior Project Manager",
         "sections": [
           {
@@ -272,10 +263,10 @@
           }
         ],
         "landmarks": [
-          "One Za'abeel, Dubai",
-          "Tadawul Tower, Riyadh",
-          "Camp Nou, Barcelona",
-          "E-JUST Campus, Egypt"
+          "One Za'abeel, Dubai, U.A.E.",
+          "Tadawul Tower, Riyadh, K.S.A.",
+          "Camp Nou, Barcelona, Spain",
+          "E-JUST Campus, Cairo, Egypt"
         ]
       },
       {
