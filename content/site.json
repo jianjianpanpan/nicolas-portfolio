@@ -49,7 +49,7 @@
   },
   "summary": {
     "kicker": "Summary",
-    "headline": "International project & business management across the Middle East, Europe, and Asia.",
+    "headline": "International project & business management across the Middle East, Europe, and Asia",
     "paragraphs": [
       "I am an international project and business management professional with over 20 years of experience delivering complex developments and strategic initiatives across the Middle East, Europe, and Asia",
       "I have extensive experience leading multinational stakeholders, managing client relationships, negotiating contracts, and coordinating large-scale projects for globally recognized developments including One Za'abeel in Dubai, Tadawul Tower in Riyadh, and Camp Nou in Barcelona",
@@ -108,19 +108,6 @@
         "category": "Cultural / Sports"
       },
       {
-        "image_alt": "Tadawul Tower exterior",
-        "meta": [
-          "Riyadh, K.S.A."
-        ],
-        "featured": false,
-        "url": "https://www.nikken.co.jp/en/projects/office/tadawul_tower.html",
-        "title": "Tadawul Tower",
-        "tags": "Built MENA Office Tall Buildings",
-        "image": "https://images.skyscrapercenter.com/building/NIK_027_050922@Gerry-O'Leary230418-100418.jpg",
-        "description": "The Saudi stock market epicenter in Riyadh, recognized as a major office and tall-building project",
-        "category": "Office"
-      },
-      {
         "image_alt": "E-JUST campus architecture",
         "meta": [
           "Cairo, Egypt"
@@ -132,6 +119,19 @@
         "image": "https://www.nikken.co.jp/en/projects/tg1is20000003667-img/pj0243_00_ogp.jpg",
         "description": "The Egypt-Japan University of Science and Technology campus, described as a twin-culture campus",
         "category": "Education"
+      },
+      {
+        "image_alt": "Tadawul Tower exterior",
+        "meta": [
+          "Riyadh, K.S.A."
+        ],
+        "featured": false,
+        "url": "https://www.nikken.co.jp/en/projects/office/tadawul_tower.html",
+        "title": "Tadawul Tower",
+        "tags": "Built MENA Office Tall Buildings",
+        "image": "https://images.skyscrapercenter.com/building/NIK_027_050922@Gerry-O'Leary230418-100418.jpg",
+        "description": "The Saudi stock market epicenter in Riyadh, recognized as a major office and tall-building project",
+        "category": "Office"
       },
       {
         "image_alt": "Cool City and Eco-towers concept",
@@ -301,7 +301,7 @@
       },
       {
         "value": "4+",
-        "label": "languages: Arabic, Japanese, English, French"
+        "label": "Languages: Arabic, Japanese, English, French"
       }
     ]
   },
