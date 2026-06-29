@@ -82,17 +82,17 @@
         "category": "Mixed Use / TOD"
       },
       {
-        "image_alt": "New Dubai Skyline residential tower rendering",
+        "image_alt": "Tadawul Tower exterior",
         "meta": [
-          "Dubai, U.A.E."
+          "Riyadh, K.S.A."
         ],
         "featured": false,
-        "url": "https://www.nikken.co.jp/en/projects/residential/new_dubai_skyline.html",
-        "title": "New Dubai Skyline",
-        "tags": "MENA Residential Tall Buildings",
-        "image": "https://www.nikken.co.jp/en/projects/tg1is2000000445u-img/pj0265_00_ogp.jpg",
-        "description": "A high-grade residential tower project conceived under the theme \"Above the Clouds\"",
-        "category": "Residential"
+        "url": "https://www.nikken.co.jp/en/projects/office/tadawul_tower.html",
+        "title": "Tadawul Tower",
+        "tags": "Built MENA Office Tall Buildings",
+        "image": "https://images.skyscrapercenter.com/building/NIK_027_050922@Gerry-O'Leary230418-100418.jpg",
+        "description": "The Saudi stock market epicenter in Riyadh, recognized as a major office and tall-building project",
+        "category": "Office"
       },
       {
         "image_alt": "Futur Camp Nou stadium design",
@@ -121,17 +121,17 @@
         "category": "Education"
       },
       {
-        "image_alt": "Tadawul Tower exterior",
+        "image_alt": "New Dubai Skyline residential tower rendering",
         "meta": [
-          "Riyadh, K.S.A."
+          "Dubai, U.A.E."
         ],
         "featured": false,
-        "url": "https://www.nikken.co.jp/en/projects/office/tadawul_tower.html",
-        "title": "Tadawul Tower",
-        "tags": "Built MENA Office Tall Buildings",
-        "image": "https://images.skyscrapercenter.com/building/NIK_027_050922@Gerry-O'Leary230418-100418.jpg",
-        "description": "The Saudi stock market epicenter in Riyadh, recognized as a major office and tall-building project",
-        "category": "Office"
+        "url": "https://www.nikken.co.jp/en/projects/residential/new_dubai_skyline.html",
+        "title": "New Dubai Skyline",
+        "tags": "MENA Residential Tall Buildings",
+        "image": "https://www.nikken.co.jp/en/projects/tg1is2000000445u-img/pj0265_00_ogp.jpg",
+        "description": "A high-grade residential tower project conceived under the theme \"Above the Clouds\"",
+        "category": "Residential"
       },
       {
         "image_alt": "Cool City and Eco-towers concept",
