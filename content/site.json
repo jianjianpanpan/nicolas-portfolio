@@ -121,6 +121,19 @@
         "category": "Education"
       },
       {
+        "image_alt": "Dubai Maritimes City Landmark Tower Exterior Rendering",
+        "meta": [
+          "Dubai, U.A.E."
+        ],
+        "featured": false,
+        "url": "https://www.nikken.co.jp/en/projects/landscape/dubai_maritimes_city_landmark_tower.html?region=Overseas&refineKey=projCat&refineVal=Mixed%20Use%20%2F%20TOD",
+        "title": "Dubai Maritimes City Landmark Tower",
+        "tags": "MENA Mixed Use / TOD Design",
+        "image": "https://res.cloudinary.com/protenders/image/upload/s--zpniqnzC--/c_limit,d_missing,dpr_1.0,f_auto,fl_progressive:semi,q_auto:eco,w_1100/a9d220332b5c027a74d95ac5824a2a68.jpg",
+        "description": "Embodying Wind, Sail, & Vessel",
+        "category": "Mixed Use / TOD"
+      },
+      {
         "image_alt": "New Dubai Skyline residential tower rendering",
         "meta": [
           "Dubai, U.A.E."
@@ -132,19 +145,6 @@
         "image": "https://www.nikken.co.jp/en/projects/tg1is2000000445u-img/pj0265_00_ogp.jpg",
         "description": "A high-grade residential tower project conceived under the theme \"Above the Clouds\"",
         "category": "Residential"
-      },
-      {
-        "image_alt": "Cool City and Eco-towers concept",
-        "meta": [
-          "Middle East"
-        ],
-        "featured": false,
-        "url": "https://www.nikken.co.jp/en/projects/cool_city_and_eco-towers.html",
-        "title": "Cool City and Eco-towers",
-        "tags": "MENA Master Plan Tall Buildings",
-        "image": "https://www.nikken.co.jp/en/projects/tg1is20000002vuw-img/tg1is20000002vv3.jpg",
-        "description": "A sustainability-focused urban proposal exploring energy savings and architecture at city scale",
-        "category": "Sustainable City"
       },
       {
         "image_alt": "Mongol Tower exterior rendering",
@@ -160,17 +160,17 @@
         "category": "Mixed Use / TOD"
       },
       {
-        "image_alt": "Dubai Maritimes City Landmark Tower Exterior Rendering",
+        "image_alt": "Cool City and Eco-towers concept",
         "meta": [
-          "Dubai, U.A.E."
+          "Middle East"
         ],
         "featured": false,
-        "url": "https://www.nikken.co.jp/en/projects/landscape/dubai_maritimes_city_landmark_tower.html?region=Overseas&refineKey=projCat&refineVal=Mixed%20Use%20%2F%20TOD",
-        "title": "Dubai Maritimes City Landmark Tower",
-        "tags": "MENA Mixed Use / TOD Design",
-        "image": "https://res.cloudinary.com/protenders/image/upload/s--zpniqnzC--/c_limit,d_missing,dpr_1.0,f_auto,fl_progressive:semi,q_auto:eco,w_1100/a9d220332b5c027a74d95ac5824a2a68.jpg",
-        "description": "Embodying Wind, Sail, & Vessel",
-        "category": "Mixed Use / TOD"
+        "url": "https://www.nikken.co.jp/en/projects/cool_city_and_eco-towers.html",
+        "title": "Cool City and Eco-towers",
+        "tags": "MENA Master Plan Tall Buildings",
+        "image": "https://www.nikken.co.jp/en/projects/tg1is20000002vuw-img/tg1is20000002vv3.jpg",
+        "description": "A sustainability-focused urban proposal exploring energy savings and architecture at city scale",
+        "category": "Sustainable City"
       }
     ],
     "resources_heading": "Publications and Brochures",
@@ -268,7 +268,8 @@
           "Camp Nou, Barcelona, Spain",
           "Increasing the Mataf Capacity of the Holy Mosque at Makkah Al Mukarramah, Makkah, K.S.A.",
           "E-JUST Campus, Cairo, Egypt",
-          "Mongol Tower, Ulaanbaatar, Mongolia"
+          "Mongol Tower, Ulaanbaatar, Mongolia",
+          "DMC, Dubai, U.A.E."
         ]
       },
       {
