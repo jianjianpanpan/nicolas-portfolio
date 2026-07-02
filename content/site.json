@@ -176,10 +176,6 @@
     "resources_heading": "Publications and Brochures",
     "resources": [
       {
-        "label": "Nikken Journal 54",
-        "url": "https://www.nikken.jp/ja/dbook/nj202303/html5m.html#page=1"
-      },
-      {
         "label": "One Za'abeel Brochure",
         "url": "https://www.nikken.jp/ja/dbook/one_zaabeel/#page=1"
       },
@@ -202,6 +198,10 @@
       {
         "label": "Hospitality Brochure",
         "url": "https://www.nikken.jp/ja/dbook/hospitality_brochure/html5m.html#page=1"
+      },
+      {
+        "label": "Nikken Journal 54",
+        "url": "https://www.nikken.jp/ja/dbook/nj202303/html5m.html#page=1"
       },
       {
         "label": "Nikken Sekkei Website",
