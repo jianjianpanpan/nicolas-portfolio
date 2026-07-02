@@ -52,7 +52,7 @@
     "headline": "International project & business management across the Middle East, Europe, and Asia",
     "paragraphs": [
       "I am an international project and business management professional with over 20 years of experience delivering complex developments and strategic initiatives across the Middle East, Europe, and Asia",
-      "I have extensive experience leading multinational stakeholders, managing client relationships, negotiating contracts, and coordinating large-scale projects for globally recognized developments including One Za'abeel in Dubai, Tadawul Tower in Riyadh, and Camp Nou in Barcelona",
+      "I have extensive experience leading multinational stakeholders, managing client relationships, negotiating contracts, and coordinating large-scale projects for globally recognized developments including One Za'abeel in Dubai, Tadawul Tower in Riyadh, E-Just Campus in Alexandria and Camp Nou in Barcelona",
       "Beyond project management, I bring proven expertise in international business relations, executive-level stakeholder engagement, public relations, proposal development, and cross-cultural leadership. I have regularly represented Nikken Sekkei in interactions with government officials, royal family representatives, institutional clients, and private investors across multiple regions"
     ],
     "language_heading": "Languages",
@@ -79,7 +79,7 @@
         "tags": "Built MENA Mixed Use Tall Buildings",
         "image": "https://www.nikken.co.jp/en/projects/tg1is20000004r7a-img/pj0288_00_ogp.jpg",
         "description": "An elegant tower development in Dubai, connected by THE LINK and positioned as a new symbol of the city",
-        "category": "Mixed Use / TOD"
+        "category": "Mixed Use I TOD"
       },
       {
         "image_alt": "Tadawul Tower exterior",
@@ -89,7 +89,7 @@
         "featured": false,
         "url": "https://www.nikken.co.jp/en/projects/office/tadawul_tower.html",
         "title": "Tadawul Tower",
-        "tags": "Built MENA Office Tall Buildings",
+        "tags": "Built MENA Office Tall Building",
         "image": "https://images.skyscrapercenter.com/building/NIK_027_050922@Gerry-O'Leary230418-100418.jpg",
         "description": "The Saudi stock market epicenter in Riyadh, recognized as a major office and tall-building project",
         "category": "Office"
@@ -102,7 +102,7 @@
         "featured": false,
         "url": "https://www.nikken.co.jp/en/projects/sports/futur_camp_nou.html",
         "title": "Futur Camp Nou",
-        "tags": "Sports Europe",
+        "tags": "Built Europe Sport Stadium",
         "image": "https://www.nikken.co.jp/en/projects/p4iusj0000001gfr-img/pj0023_00_top.jpg",
         "description": "A stadium remodel concept designed to open the venue to the city and the people",
         "category": "Sport"
@@ -115,9 +115,9 @@
         "featured": false,
         "url": "https://www.nikken.co.jp/en/projects/education/e-just_university_campus.html?cat=Education",
         "title": "E-JUST Campus",
-        "tags": "Built MENA Education",
+        "tags": "Designed MENA Education Campus",
         "image": "https://www.nikken.co.jp/en/projects/tg1is20000003667-img/pj0243_00_ogp.jpg",
-        "description": "The Egypt-Japan University of Science and Technology campus, described as a twin-culture campus",
+        "description": "The Egypt-Japan University of Science and Technology campus in Alexandria, described as a twin-culture campus",
         "category": "Education"
       },
       {
@@ -128,7 +128,7 @@
         "featured": false,
         "url": "https://www.nikken.co.jp/en/projects/residential/new_dubai_skyline.html",
         "title": "New Dubai Skyline",
-        "tags": "MENA Residential Tall Buildings",
+        "tags": "Designed MENA Residential Tall Building",
         "image": "https://www.nikken.co.jp/en/projects/tg1is2000000445u-img/pj0265_00_ogp.jpg",
         "description": "A high-grade residential tower project conceived under the theme \"Above the Clouds\"",
         "category": "Residential"
@@ -141,23 +141,23 @@
         "featured": false,
         "url": "https://www.nikken.co.jp/en/projects/landscape/dubai_maritimes_city_landmark_tower.html?region=Overseas&refineKey=projCat&refineVal=Mixed%20Use%20%2F%20TOD",
         "title": "Dubai Maritimes City Landmark Tower",
-        "tags": "MENA Mixed Use / TOD Design",
+        "tags": "Designed MENA Mixed Use Tall Building",
         "image": "https://res.cloudinary.com/protenders/image/upload/s--zpniqnzC--/c_limit,d_missing,dpr_1.0,f_auto,fl_progressive:semi,q_auto:eco,w_1100/a9d220332b5c027a74d95ac5824a2a68.jpg",
         "description": "Embodying Wind, Sail, & Vessel",
-        "category": "Mixed Use / TOD"
+        "category": "Mixed Use I TOD"
       },
       {
-        "image_alt": "Mongol Tower exterior rendering",
+        "image_alt": "Mongol Tower Design",
         "meta": [
           "Ulaanbaatar, Mongolia"
         ],
         "featured": false,
         "url": "https://www.nikken.co.jp/en/projects/mixed_use/mongol_tower.html",
         "title": "Mongol Tower",
-        "tags": "Mixed Use Tall Buildings",
+        "tags": "Designed Mongolia Mixed Use Tall Building",
         "image": "https://www.nikken.co.jp/en/projects/tg1is200000043ep-img/pj0261_00_ogp.jpg",
         "description": "A mixed-use tower positioned as an icon of modern Mongolia",
-        "category": "Mixed Use / TOD"
+        "category": "Mixed Use I TOD"
       },
       {
         "image_alt": "Cool City and Eco-towers concept",
@@ -170,7 +170,7 @@
         "tags": "MENA Master Plan Tall Buildings",
         "image": "https://www.nikken.co.jp/en/projects/tg1is20000002vuw-img/tg1is20000002vv3.jpg",
         "description": "A sustainability-focused urban proposal exploring energy savings and architecture at city scale",
-        "category": "Sustainable City"
+        "category": "Sustainable Eco City (Case Study)"
       }
     ],
     "resources_heading": "Publications and Brochures",
@@ -244,7 +244,7 @@
             "heading": "Leadership and Delivery",
             "bullets": [
               "Led multidisciplinary project teams throughout design, procurement, construction, and delivery phases",
-              "Directed multidisciplinary teams of 40+ professionals across Japan, the Middle East, and Europe",
+              "Directed multidisciplinary teams of 50+ professionals across Japan, the Middle East, and Europe",
               "Managed project delivery from proposal stage through construction completion"
             ]
           },
@@ -267,7 +267,7 @@
           "Tadawul Tower, Riyadh, K.S.A.",
           "Camp Nou, Barcelona, Spain",
           "Increasing the Mataf Capacity of the Holy Mosque at Makkah Al Mukarramah, Makkah, K.S.A.",
-          "E-JUST Campus, Cairo, Egypt",
+          "E-JUST Campus, Alexandria, Egypt",
           "Mongol Tower, Ulaanbaatar, Mongolia",
           "DMC, Dubai, U.A.E."
         ]
