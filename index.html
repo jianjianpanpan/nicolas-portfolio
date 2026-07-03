@@ -598,32 +598,6 @@
       margin-bottom: 28px;
     }
 
-    .filters {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      justify-content: flex-end;
-    }
-
-    .filter {
-      min-height: 38px;
-      border: 1px solid var(--line);
-      border-radius: 999px;
-      padding: 0 14px;
-      color: var(--muted);
-      background: var(--panel);
-      font: inherit;
-      font-size: 0.88rem;
-      font-weight: 760;
-      cursor: pointer;
-    }
-
-    .filter[aria-pressed="true"] {
-      color: #ffffff;
-      border-color: var(--ink);
-      background: var(--ink);
-    }
-
     .project-grid {
       display: grid;
       grid-template-columns: repeat(12, 1fr);
@@ -870,10 +844,6 @@
       .skill-grid,
       .resource-list {
         grid-template-columns: 1fr;
-      }
-
-      .filters {
-        justify-content: flex-start;
       }
 
       .project-card,
@@ -1168,13 +1138,6 @@
               <h2 spellcheck="true">Public project outcomes and communications materials.</h2>
               <p class="muted" spellcheck="true">These selected public links show project outcomes, brochures, and publications connected to my international project management and overseas public relations work.</p>
             </div>
-            <div class="filters" role="group" aria-label="Filter projects by category">
-              <button class="filter" type="button" data-filter="all" aria-pressed="true">All</button>
-              <button class="filter" type="button" data-filter="Built">Built</button>
-              <button class="filter" type="button" data-filter="MENA">MENA</button>
-              <button class="filter" type="button" data-filter="Master Plan">Master Plan</button>
-              <button class="filter" type="button" data-filter="Sports">Sports</button>
-            </div>
           </div>
 
           <div class="project-grid">
@@ -1387,22 +1350,6 @@
     };
 
     startHeroCarousel();
-
-    const filters = document.querySelectorAll(".filter");
-    const applyProjectFilter = (value) => {
-      document.querySelectorAll(".project-card").forEach((card) => {
-        const visible = value === "all" || card.dataset.tags.includes(value);
-        card.style.display = visible ? "" : "none";
-      });
-    };
-
-    filters.forEach((button) => {
-      button.addEventListener("click", () => {
-        const value = button.dataset.filter;
-        filters.forEach((item) => item.setAttribute("aria-pressed", String(item === button)));
-        applyProjectFilter(value);
-      });
-    });
 
     const editStorageKey = "nicolas-portfolio-text-edits-v2";
     const editToggle = document.querySelector("#editToggle");
@@ -1682,8 +1629,6 @@
         `).join("");
       }
 
-      const activeFilter = document.querySelector('.filter[aria-pressed="true"]')?.dataset.filter || "all";
-      applyProjectFilter(activeFilter);
       startHeroCarousel();
     };
 
