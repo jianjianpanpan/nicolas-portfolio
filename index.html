@@ -27,8 +27,9 @@
       --radius: 8px;
       --section-kicker-size: 0.78rem;
       --hero-heading-size: clamp(1.89rem, 4.9vw, 4.34rem);
-      --hero-heading-mobile-size: clamp(1.05rem, 5.04vw, 1.505rem);
+      --hero-heading-mobile-size: clamp(1.68rem, 8.06vw, 2.41rem);
       --section-heading-size: clamp(1.4rem, 3.08vw, 2.8rem);
+      --section-heading-mobile-size: clamp(1.82rem, 4vw, 3.64rem);
       --section-body-size: 1.08rem;
       --section-card-title-size: 1.22rem;
     }
@@ -939,10 +940,14 @@
       }
 
       h1 {
-        max-width: 100%;
+        max-width: min(100%, 8.8em);
         font-size: var(--hero-heading-mobile-size);
         line-height: 1.08;
-        word-break: break-all;
+        word-break: normal;
+      }
+
+      h2 {
+        font-size: var(--section-heading-mobile-size);
       }
 
       html[lang="ja"] h1 {
@@ -951,6 +956,10 @@
 
       html[lang="ja"] .hero-text {
         max-width: 24em;
+      }
+
+      .hero-text {
+        max-width: min(100%, 22em);
       }
 
       .hero-content {

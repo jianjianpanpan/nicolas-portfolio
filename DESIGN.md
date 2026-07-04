@@ -23,8 +23,11 @@ Single-page executive portfolio for international project leadership. The surfac
 - Body rhythm: 1.55 line-height for readability across English and Japanese.
 - Section kicker: `0.78rem`, uppercase/label style.
 - Hero display heading: `clamp(1.89rem, 4.9vw, 4.34rem)`, reduced 30% from the original hero scale.
-- Hero display heading on mobile: `clamp(1.05rem, 5.04vw, 1.505rem)`.
+- Hero display heading on mobile: `clamp(1.68rem, 8.06vw, 2.41rem)`.
+- Mobile hero heading line length is capped at `8.8em` with natural word wrapping to preserve readable lines.
+- Mobile hero intro copy is capped at `22em` to prevent edge-hugging lines.
 - Section heading: `clamp(1.4rem, 3.08vw, 2.8rem)`, reduced 30% from the original section scale.
+- Section heading on mobile: `clamp(1.82rem, 4vw, 3.64rem)`.
 - Section body copy: `1.08rem`, matching the About Me body standard.
 - Section card title: `1.22rem`, with larger local variants only where hierarchy requires it.
 - Display hero heading is intentionally separate from section typography, but should remain quieter than the first prototype scale.
