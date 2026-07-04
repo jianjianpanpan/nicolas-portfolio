@@ -998,7 +998,7 @@
         <img src="image1.jpg" alt="Portrait of Nicolas Furukawa">
         <div class="identity-copy">
           <strong spellcheck="true">Nicolas Furukawa</strong>
-          <span spellcheck="true"><br>International Business &amp; Project Executive | Tokyo, Japan</span>
+          <span spellcheck="true">International Business &amp; Project Executive<br>Tokyo, Japan</span>
         </div>
         <div class="language-switch" aria-label="Language switch">
           <button type="button" class="language-option active" data-language="en" data-flag="🇬🇧" aria-label="Switch to English" aria-pressed="true">EN</button>
@@ -1664,6 +1664,13 @@
       }
     };
 
+    const renderIdentitySubtitle = (value) => {
+      const element = document.querySelector(".identity span");
+      if (!element || !value) return;
+      const parts = String(value).split(/[|｜]/).map((part) => part.trim()).filter(Boolean);
+      element.innerHTML = parts.map(escapeHtml).join("<br>");
+    };
+
     const renderList = (selector, items, renderer) => {
       const element = document.querySelector(selector);
       if (element && Array.isArray(items)) {
@@ -1706,7 +1713,7 @@
       if (meta && site.description) meta.content = site.description;
 
       setText(".identity strong", site.identity?.name);
-      setText(".identity span", site.identity?.subtitle);
+      renderIdentitySubtitle(site.identity?.subtitle);
       setText(".sidebar-footer span", site.identity?.sidebar_note);
       setHref(".sidebar-footer a", `mailto:${site.identity?.email}`);
       setText(".sidebar-footer a", site.identity?.email);
