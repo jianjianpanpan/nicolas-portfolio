@@ -48,7 +48,7 @@ Single-page executive portfolio for international project leadership. The surfac
 
 - Sidebar identity: portrait, name, subtitle, current section, nav links, footer contact.
 - Language switch: desktop uses a compact segmented control in the sidebar; narrow layouts use a small flag button as the first navigation item before About Me, styled with the same soft capsule language as the nav.
-- Timeline item: two-column desktop card with date rail and role body, collapsing to one column on mobile.
+- Timeline item: two-column desktop card with date rail and role body, collapsing to one column on mobile. Role details always use `.role-block` groups with a label and body list, including single-group roles such as Risk Intelligence Analyst.
 - Project card: image/media header, category label, title, summary, metadata chips, link.
 - Chips/tags: non-clickable metadata treatments; links remain visually distinct as underlined or bordered actions.
 

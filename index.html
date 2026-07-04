@@ -1267,11 +1267,14 @@
               </div>
               <div class="timeline-body">
                 <h3 spellcheck="true">Risk Intelligence Analyst</h3>
-                <ul>
-                  <li spellcheck="true">Conducted geopolitical, security, and natural disaster risk assessments focused on the Middle East and East Asia.</li>
-                  <li spellcheck="true">Delivered strategic intelligence and analytical reports for corporate clients and Japanese government agencies.</li>
-                  <li spellcheck="true">Supported overseas business planning and risk management through cross-border political and environmental risk analysis.</li>
-                </ul>
+                <div class="role-block">
+                  <h4 spellcheck="true">Key Responsibilities</h4>
+                  <ul>
+                    <li spellcheck="true">Conducted geopolitical, security, and natural disaster risk assessments focused on the Middle East and East Asia.</li>
+                    <li spellcheck="true">Delivered strategic intelligence and analytical reports for corporate clients and Japanese government agencies.</li>
+                    <li spellcheck="true">Supported overseas business planning and risk management through cross-border political and environmental risk analysis.</li>
+                  </ul>
+                </div>
               </div>
             </article>
           </div>
@@ -1484,6 +1487,7 @@
         },
         heroPortfolio: "View portfolio",
         heroEmail: "Email me",
+        responsibilitiesHeading: "Key Responsibilities",
         landmarksHeading: "Selected Landmark Projects",
         openProject: "Open project page"
       },
@@ -1500,6 +1504,7 @@
         },
         heroPortfolio: "ポートフォリオを見る",
         heroEmail: "メールする",
+        responsibilitiesHeading: "主な担当業務",
         landmarksHeading: "主なランドマーク案件",
         openProject: "プロジェクトページを開く"
       }
@@ -1828,7 +1833,12 @@
                 <ul>${(section.bullets || []).map((bullet) => `<li>${escapeHtml(bullet)}</li>`).join("")}</ul>
               </div>
             `).join("")}
-            ${(role.bullets || []).length ? `<ul>${role.bullets.map((bullet) => `<li>${escapeHtml(bullet)}</li>`).join("")}</ul>` : ""}
+            ${(role.bullets || []).length ? `
+              <div class="role-block">
+                <h4>${escapeHtml(text.responsibilitiesHeading)}</h4>
+                <ul>${role.bullets.map((bullet) => `<li>${escapeHtml(bullet)}</li>`).join("")}</ul>
+              </div>
+            ` : ""}
             ${(role.landmarks || []).length ? `
               <div class="role-block">
                 <h4>${escapeHtml(text.landmarksHeading)}</h4>

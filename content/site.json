@@ -277,10 +277,15 @@
         "location": "Tokyo, Japan",
         "dates": "Apr 2004 - Mar 2007",
         "title": "Risk Intelligence Analyst",
-        "bullets": [
-          "Conducted geopolitical, security, and natural disaster risk assessments focused on the Middle East and East Asia",
-          "Delivered strategic intelligence and analytical reports for corporate clients and Japanese government agencies",
-          "Supported overseas business planning and risk management through cross-border political and environmental risk analysis"
+        "sections": [
+          {
+            "heading": "Key Responsibilities",
+            "bullets": [
+              "Conducted geopolitical, security, and natural disaster risk assessments focused on the Middle East and East Asia",
+              "Delivered strategic intelligence and analytical reports for corporate clients and Japanese government agencies",
+              "Supported overseas business planning and risk management through cross-border political and environmental risk analysis"
+            ]
+          }
         ]
       }
     ]
