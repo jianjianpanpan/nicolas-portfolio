@@ -29,7 +29,12 @@ Single-page executive portfolio for international project leadership. The surfac
 - Section heading: `clamp(1.4rem, 3.08vw, 2.8rem)`, reduced 30% from the original section scale.
 - Section heading on mobile: `clamp(1.82rem, 4vw, 3.64rem)`.
 - Section body copy: `1.08rem`, matching the About Me body standard.
+- Section body line-height: `1.62`.
 - Section card title: `1.22rem`, with larger local variants only where hierarchy requires it.
+- Section metadata: `0.94rem`.
+- Section label/kicker: `0.78rem`.
+- Section paragraph gap: `18px`.
+- Section card internal gap: `14px`.
 - Display hero heading is intentionally separate from section typography, but should remain quieter than the first prototype scale.
 - No negative letter spacing.
 
