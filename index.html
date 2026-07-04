@@ -2,8 +2,14 @@
 <html lang="en"><head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Nicolas Furukawa | International Project Portfolio</title>
+  <title>Nicolas Furukawa CV &amp; PORTFOLIO</title>
   <meta name="description" content="International project management portfolio for Nicolas Furukawa, organized from CV sections and public project links.">
+  <meta property="og:title" content="Nicolas Furukawa CV &amp; PORTFOLIO">
+  <meta property="og:description" content="International project management portfolio for Nicolas Furukawa, organized from CV sections and public project links.">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Nicolas Furukawa CV &amp; PORTFOLIO">
+  <meta name="twitter:description" content="International project management portfolio for Nicolas Furukawa, organized from CV sections and public project links.">
   <style>
     :root {
       --ink: #11151c;
@@ -35,6 +41,7 @@
       background: var(--paper);
       font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       line-height: 1.55;
+      overflow-x: hidden;
     }
 
     img {
@@ -68,6 +75,7 @@
       box-shadow: 18px 0 60px rgba(17, 21, 28, 0.08);
       backdrop-filter: blur(18px);
       min-width: 0;
+      max-width: 100vw;
     }
 
     .identity {
@@ -75,6 +83,11 @@
       gap: 12px;
       padding-bottom: 20px;
       border-bottom: 1px solid rgba(17, 21, 28, 0.12);
+      min-width: 0;
+    }
+
+    .identity-copy {
+      min-width: 0;
     }
 
     .identity img {
@@ -98,6 +111,71 @@
       color: var(--muted);
       font-size: 0.86rem;
       line-height: 1.35;
+      overflow-wrap: anywhere;
+    }
+
+    .language-switch {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 6px;
+    }
+
+    .language-option {
+      min-height: 34px;
+      border: 1px solid rgba(17, 21, 28, 0.12);
+      border-radius: 999px;
+      color: var(--muted);
+      background: rgba(255, 255, 255, 0.62);
+      font: inherit;
+      font-size: 0.78rem;
+      font-weight: 780;
+      cursor: pointer;
+      transition: color 180ms ease, background 180ms ease, border-color 180ms ease, transform 180ms ease;
+    }
+
+    .language-option:hover {
+      color: var(--ink);
+      border-color: rgba(17, 21, 28, 0.22);
+      transform: translateY(-1px);
+    }
+
+    .language-option.active {
+      color: #ffffff;
+      border-color: var(--ink);
+      background: var(--ink);
+    }
+
+    .language-option::before {
+      content: none;
+    }
+
+    .language-compact {
+      display: none;
+      place-items: center;
+      width: 42px;
+      min-width: 42px;
+      height: 42px;
+      border: 1px solid rgba(17, 21, 28, 0.12);
+      border-radius: 999px;
+      color: var(--ink);
+      background: rgba(255, 255, 255, 0.76);
+      box-shadow: none;
+      font: inherit;
+      font-size: 1.02rem;
+      cursor: pointer;
+      transition: background 180ms ease, border-color 180ms ease, transform 180ms ease;
+    }
+
+    .language-compact:hover {
+      border-color: rgba(17, 21, 28, 0.18);
+      background: rgba(17, 21, 28, 0.06);
+      transform: translateY(-1px);
+    }
+
+    @media (min-width: 1081px) {
+      .language-compact {
+        display: none;
+      }
     }
 
     .section-status {
@@ -177,6 +255,8 @@
 
     .main {
       min-width: 0;
+      max-width: 100vw;
+      overflow-x: hidden;
     }
 
     .section {
@@ -188,6 +268,7 @@
     .section-inner {
       width: min(1120px, 100%);
       margin: 0 auto;
+      min-width: 0;
     }
 
     .section-kicker {
@@ -209,6 +290,7 @@
       max-width: 900px;
       font-size: clamp(2.7rem, 7vw, 6.2rem);
       font-weight: 790;
+      overflow-wrap: anywhere;
     }
 
     h2 {
@@ -784,6 +866,7 @@
       }
 
       .identity {
+        position: relative;
         grid-template-columns: 54px minmax(0, 1fr);
         align-items: center;
         padding-bottom: 12px;
@@ -792,6 +875,24 @@
       .identity img {
         width: 54px;
         height: 54px;
+      }
+
+      .identity-copy {
+        overflow: hidden;
+      }
+
+      .identity span {
+        font-size: 0.78rem;
+        word-break: break-all;
+      }
+
+      .language-switch {
+        display: none;
+      }
+
+      .language-compact {
+        display: inline-grid;
+        place-items: center;
       }
 
       .section-status,
@@ -821,6 +922,25 @@
 
       .hero {
         min-height: 88vh;
+      }
+
+      h1 {
+        max-width: 100%;
+        font-size: clamp(1.5rem, 7.2vw, 2.15rem);
+        line-height: 1.08;
+        word-break: break-all;
+      }
+
+      html[lang="ja"] h1 {
+        max-width: 8.8em;
+      }
+
+      html[lang="ja"] .hero-text {
+        max-width: 24em;
+      }
+
+      .hero-content {
+        gap: 24px;
       }
 
       .metrics,
@@ -876,9 +996,13 @@
     <aside class="sidebar" aria-label="Section navigation">
       <div class="identity">
         <img src="image1.jpg" alt="Portrait of Nicolas Furukawa">
-        <div>
+        <div class="identity-copy">
           <strong spellcheck="true">Nicolas Furukawa</strong>
           <span spellcheck="true"><br>International Business &amp; Project Executive | Tokyo, Japan</span>
+        </div>
+        <div class="language-switch" aria-label="Language switch">
+          <button type="button" class="language-option active" data-language="en" data-flag="🇬🇧" aria-label="Switch to English" aria-pressed="true">EN</button>
+          <button type="button" class="language-option" data-language="ja" data-flag="🇯🇵" aria-label="日本語に切り替え" aria-pressed="false">日本語</button>
         </div>
       </div>
 
@@ -889,6 +1013,7 @@
 
       <nav>
         <ul class="side-nav">
+          <li><button type="button" class="language-compact" aria-label="Switch language" title="Switch language">🇬🇧</button></li>
           <li><a class="" href="#about" data-section-link="about">About Me</a></li>
           <li><a href="#summary" data-section-link="summary" class="">Summary</a></li>
           <li><a href="#achievements" data-section-link="achievements" class="">Core Achievements</a></li>
@@ -1292,6 +1417,47 @@
     const sectionLinks = [...document.querySelectorAll("[data-section-link]")];
     const sectionStatus = document.querySelector("#currentSection");
     const sections = [...document.querySelectorAll("[data-section-name]")];
+    const languageButtons = [...document.querySelectorAll("[data-language]")];
+    const compactLanguageButton = document.querySelector(".language-compact");
+    const contentFiles = {
+      en: "content/site.json",
+      ja: "content/site-ja.json"
+    };
+    const uiText = {
+      en: {
+        htmlLang: "en",
+        sectionStatus: "Current section",
+        nav: {
+          about: "About Me",
+          summary: "Summary",
+          achievements: "Core Achievements",
+          experience: "Professional Experience",
+          education: "Education",
+          portfolio: "Portfolio"
+        },
+        heroPortfolio: "View portfolio",
+        heroEmail: "Email me",
+        landmarksHeading: "Selected Landmark Projects",
+        openProject: "Open project page"
+      },
+      ja: {
+        htmlLang: "ja",
+        sectionStatus: "現在のセクション",
+        nav: {
+          about: "自己紹介",
+          summary: "職務要約",
+          achievements: "主な実績",
+          experience: "職務経歴",
+          education: "学歴",
+          portfolio: "ポートフォリオ"
+        },
+        heroPortfolio: "ポートフォリオを見る",
+        heroEmail: "メールする",
+        landmarksHeading: "主なランドマーク案件",
+        openProject: "プロジェクトページを開く"
+      }
+    };
+    let currentLanguage = "en";
 
     const setActiveSection = (id) => {
       const section = document.querySelector(`#${id}`);
@@ -1505,7 +1671,36 @@
       }
     };
 
+    const renderStaticLanguage = (language) => {
+      const text = uiText[language] || uiText.en;
+      document.documentElement.lang = text.htmlLang;
+      document.querySelector(".section-status span").textContent = text.sectionStatus;
+      sectionLinks.forEach((link) => {
+        const label = text.nav[link.dataset.sectionLink];
+        if (label) link.textContent = label;
+      });
+      sections.forEach((section) => {
+        const label = text.nav[section.id];
+        if (label) section.dataset.sectionName = label;
+      });
+      setText(".hero-actions .primary", text.heroPortfolio);
+      setText(".hero-actions .button:not(.primary)", text.heroEmail);
+      languageButtons.forEach((button) => {
+        const isActive = button.dataset.language === language;
+        button.classList.toggle("active", isActive);
+        button.setAttribute("aria-pressed", String(isActive));
+      });
+      if (compactLanguageButton) {
+        const nextLanguage = language === "ja" ? "en" : "ja";
+        compactLanguageButton.textContent = language === "ja" ? "🇯🇵" : "🇬🇧";
+        compactLanguageButton.dataset.languageTarget = nextLanguage;
+        compactLanguageButton.setAttribute("aria-label", nextLanguage === "ja" ? "日本語に切り替え" : "Switch to English");
+        compactLanguageButton.title = language === "ja" ? "日本語" : "English";
+      }
+    };
+
     const renderSiteContent = (site) => {
+      const text = uiText[currentLanguage] || uiText.en;
       document.title = site.title || document.title;
       const meta = document.querySelector('meta[name="description"]');
       if (meta && site.description) meta.content = site.description;
@@ -1582,7 +1777,7 @@
             ${(role.bullets || []).length ? `<ul>${role.bullets.map((bullet) => `<li>${escapeHtml(bullet)}</li>`).join("")}</ul>` : ""}
             ${(role.landmarks || []).length ? `
               <div class="role-block">
-                <h4>Selected Landmark Projects</h4>
+                <h4>${escapeHtml(text.landmarksHeading)}</h4>
                 <div class="landmarks">${role.landmarks.map((item) => `<span class="chip">${escapeHtml(item)}</span>`).join("")}</div>
               </div>
             ` : ""}
@@ -1613,7 +1808,7 @@
             <h3>${escapeHtml(project.title)}</h3>
             <p>${escapeHtml(project.description)}</p>
             <div class="project-meta">${(project.meta || []).map((item) => `<span class="chip">${escapeHtml(item)}</span>`).join("")}</div>
-            <a class="card-link" href="${escapeHtml(project.url)}" target="_blank" rel="noopener">Open project page</a>
+            <a class="card-link" href="${escapeHtml(project.url)}" target="_blank" rel="noopener">${escapeHtml(text.openProject)}</a>
           </div>
         </article>
       `);
@@ -1632,15 +1827,42 @@
       startHeroCarousel();
     };
 
-    fetch(`content/site.json?v=${Date.now()}`)
-      .then((response) => response.ok ? response.json() : Promise.reject(new Error("Content file not found")))
-      .then((site) => {
-        renderSiteContent(site);
-        updateActiveFromScroll();
-      })
-      .catch(() => {
-        console.info("Using static page content fallback.");
+    const setLanguageInUrl = (language) => {
+      const url = new URL(window.location.href);
+      if (language === "ja") {
+        url.searchParams.set("lang", "ja");
+      } else {
+        url.searchParams.delete("lang");
+      }
+      window.history.replaceState({}, "", url);
+    };
+
+    const loadLanguage = (language, updateUrl = true) => {
+      currentLanguage = contentFiles[language] ? language : "en";
+      renderStaticLanguage(currentLanguage);
+      if (updateUrl) setLanguageInUrl(currentLanguage);
+      fetch(`${contentFiles[currentLanguage]}?v=${Date.now()}`)
+        .then((response) => response.ok ? response.json() : Promise.reject(new Error("Content file not found")))
+        .then((site) => {
+          renderSiteContent(site);
+          updateActiveFromScroll();
+        })
+        .catch(() => {
+          console.info("Using static page content fallback.");
+        });
+    };
+
+    languageButtons.forEach((button) => {
+      button.addEventListener("click", () => {
+        loadLanguage(button.dataset.language);
       });
+    });
+    compactLanguageButton?.addEventListener("click", () => {
+      loadLanguage(compactLanguageButton.dataset.languageTarget || (currentLanguage === "ja" ? "en" : "ja"));
+    });
+
+    const initialLanguage = new URLSearchParams(window.location.search).get("lang") === "ja" ? "ja" : "en";
+    loadLanguage(initialLanguage, false);
   </script>
 
 

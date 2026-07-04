@@ -34,10 +34,10 @@ collections:
     label: "Website Content"
     files:
       - name: "site"
-        label: "Portfolio Page"
+        label: "English Portfolio Page"
         file: "content/site.json"
         format: "json"
-        fields:
+        fields: &site_fields
           - { label: "Browser Title", name: "title", widget: "string" }
           - { label: "Meta Description", name: "description", widget: "text" }
           - label: "Identity"
@@ -189,3 +189,8 @@ collections:
             widget: "list"
             fields:
               - { label: "Image URL", name: "url", widget: "string" }
+      - name: "site_ja"
+        label: "Japanese Portfolio Page"
+        file: "content/site-ja.json"
+        format: "json"
+        fields: *site_fields
