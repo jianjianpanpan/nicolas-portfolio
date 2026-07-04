@@ -6,8 +6,8 @@
   },
   "skills": {
     "kicker": "スキルセット",
-    "headline": "国際事業開発と大規模プロジェクトを推進する実務スキル。",
-    "intro": "戦略・事業開発、プロジェクトマネジメント、ステークホルダー管理、商務交渉を横断し、多国籍・多文化環境における実行力を強みとしています。",
+    "headline": "国際事業開発と大規模プロジェクトを推進する実務スキル",
+    "intro": "戦略・事業開発、プロジェクトマネジメント、ステークホルダー管理、商務交渉を横断し、多国籍・多文化環境における実行力を強みとする",
     "items": [
       "国際市場参入戦略",
       "官民連携プロジェクト設計",
@@ -25,41 +25,41 @@
   },
   "achievements": {
     "kicker": "主な実績",
-    "headline": "世界的ランドマーク案件における定量的なリーダーシップ実績。",
+    "headline": "世界的ランドマーク案件における定量的なリーダーシップ実績",
     "items": [
       {
         "value": "20年以上",
-        "description": "中東・欧州・アジアを跨ぐ国際プロジェクトおよび事業開発のリーダーシップ経験。"
+        "description": "中東・欧州・アジアを跨ぐ国際プロジェクトおよび事業開発のリーダーシップ経験"
       },
       {
         "value": "50億米ドル超",
-        "description": "総プロジェクト規模50億米ドル超のランドマーク開発において、顧客関係構築およびステークホルダー調整を主導。"
+        "description": "総プロジェクト規模50億米ドル超のランドマーク開発において、顧客関係構築およびステークホルダー調整を主導"
       },
       {
         "value": "50名超",
-        "description": "日本・中東・欧州に跨る建築家、エンジニア、コンサルタント等の多分野チームを統括。"
+        "description": "日本・中東・欧州に跨る建築家、エンジニア、コンサルタント等の多分野チームを統括"
       },
       {
         "value": "10件超",
-        "description": "One Za’abeel、Tadawul Tower、Camp Nou、E-JUST Campus等の主要案件においてマネジメントを担当。"
+        "description": "One Za’abeel、Tadawul Tower、Camp Nou、E-JUST Campus等の主要案件においてマネジメントを担当"
       },
       {
         "value": "エグゼクティブリレーション",
-        "description": "王族関係者、政府要人、機関投資家、大手企業とのエグゼクティブレベルの協議に日建設計を代表して参画。"
+        "description": "王族関係者、政府要人、機関投資家、大手企業とのエグゼクティブレベルの協議に日建設計を代表して参画"
       },
       {
         "value": "PRリーダーシップ",
-        "description": "海外広報、アワード応募、企業出版物、プロジェクトマーケティング資料、顧客視察対応を主導。"
+        "description": "海外広報、アワード応募、企業出版物、プロジェクトマーケティング資料、顧客視察対応を主導"
       }
     ]
   },
   "summary": {
     "kicker": "職務要約",
-    "headline": "中東・欧州・アジアを跨ぐ国際プロジェクトおよび事業開発マネジメント。",
+    "headline": "中東・欧州・アジアを跨ぐ国際プロジェクトおよび事業開発マネジメント",
     "paragraphs": [
-      "中東・欧州・アジアを跨ぐ大規模インフラ・都市開発プロジェクトにおいて、20年以上にわたりプロジェクトマネジメントおよび事業開発を主導。日本企業と海外政府・王族・機関投資家を含む多様なステークホルダー間の調整役として、企画・提案から設計・調達・建設・引き渡しまで一貫してプロジェクトを推進。",
-      "総プロジェクト規模は50億米ドル超に達し、One Za’abeel（ドバイ）、Tadawul Tower（リヤド）、E-JUST Campus（アレクサンドリア）、メッカ聖モスク巡礼能力拡張（メッカ）、Camp Nou改修（バルセロナ）など世界的ランドマーク案件に関与。",
-      "戦略立案、契約交渉、アライアンス構築、クロスカルチャーコミュニケーションを強みとし、政府機関、王族、投資家、デベロッパーを含む多様な関係者との合意形成を推進。"
+      "中東・欧州・アジアを跨ぐ大規模インフラ・都市開発プロジェクトにおいて、20年以上にわたりプロジェクトマネジメントおよび事業開発を主導。日本企業と海外政府・王族・機関投資家を含む多様なステークホルダー間の調整役として、企画・提案から設計・調達・建設・引き渡しまで一貫してプロジェクトを推進",
+      "総プロジェクト規模は50億米ドル超に達し、One Za’abeel（ドバイ）、Tadawul Tower（リヤド）、E-JUST Campus（アレクサンドリア）、メッカ聖モスク巡礼能力拡張（メッカ）、Camp Nou改修（バルセロナ）など世界的ランドマーク案件に関与",
+      "戦略立案、契約交渉、アライアンス構築、クロスカルチャーコミュニケーションを強みとし、政府機関、王族、投資家、デベロッパーを含む多様な関係者との合意形成を推進"
     ],
     "language_heading": "語学",
     "languages": [
@@ -71,8 +71,8 @@
   },
   "portfolio": {
     "kicker": "ポートフォリオ",
-    "headline": "公開プロジェクト実績および関連コミュニケーション資料。",
-    "intro": "以下の公開リンクでは、国際プロジェクトマネジメントおよび海外広報業務に関連するプロジェクト成果、ブローシャー、出版物をご覧いただけます。",
+    "headline": "公開プロジェクト実績および関連コミュニケーション資料",
+    "intro": "以下の公開リンクでは、国際プロジェクトマネジメントおよび海外広報業務に関連するプロジェクト成果、ブローシャー、出版物をご覧いただけます",
     "projects": [
       {
         "image_alt": "One Za'abeel towers in Dubai",
@@ -80,11 +80,11 @@
           "ドバイ, アラブ首長国連邦"
         ],
         "featured": true,
-        "url": "https://www.nikken.co.jp/en/projects/mixed_use/one_zaabeel.html",
+        "url": "https://www.nikken.co.jp/ja/projects/mixed_use/one_zaabeel.html?cat=超高層",
         "title": "One Za'abeel",
         "tags": "Built MENA Mixed Use Tall Buildings",
         "image": "https://www.nikken.co.jp/en/projects/tg1is20000004r7a-img/pj0288_00_ogp.jpg",
-        "description": "ドバイにおける優雅なタワー開発。THE LINKにより接続され、都市の新たな象徴として位置づけられるプロジェクト。",
+        "description": "ドバイにおける優雅なタワー開発。THE LINKにより接続され、都市の新たな象徴として位置づけられるプロジェクト",
         "category": "複合用途／TOD"
       },
       {
@@ -93,7 +93,7 @@
           "リヤド、サウジアラビア"
         ],
         "featured": false,
-        "url": "https://www.nikken.co.jp/en/projects/office/tadawul_tower.html",
+        "url": "https://www.nikken.co.jp/ja/projects/office/tadawul_tower.html?cat=超高層",
         "title": "Tadawul Tower",
         "tags": "Built MENA Office Tall Building",
         "image": "https://images.skyscrapercenter.com/building/NIK_027_050922@Gerry-O'Leary230418-100418.jpg",
@@ -106,7 +106,7 @@
           "バルセロナ、スペイン"
         ],
         "featured": false,
-        "url": "https://www.nikken.co.jp/en/projects/sports/futur_camp_nou.html",
+        "url": "https://www.nikken.co.jp/ja/projects/sports/futur_camp_nou.html?subCat=スポーツ施設",
         "title": "Futur Camp Nou",
         "tags": "Built Europe Sport Stadium",
         "image": "https://www.nikken.co.jp/en/projects/p4iusj0000001gfr-img/pj0023_00_top.jpg",
@@ -119,7 +119,7 @@
           "アリクサンドリア、エジプト"
         ],
         "featured": false,
-        "url": "https://www.nikken.co.jp/en/projects/education/e-just_university_campus.html?cat=Education",
+        "url": "https://www.nikken.co.jp/ja/projects/education/e-just_university_campus.html?cat=教育施設",
         "title": "E-JUST Campus",
         "tags": "Designed MENA Education Campus",
         "image": "https://www.nikken.co.jp/en/projects/tg1is20000003667-img/pj0243_00_ogp.jpg",
@@ -132,7 +132,7 @@
           "ドバイ、アラブ首長国連邦"
         ],
         "featured": false,
-        "url": "https://www.nikken.co.jp/en/projects/residential/new_dubai_skyline.html",
+        "url": "https://www.nikken.co.jp/ja/projects/residential/new_dubai_skyline.html?cat=超高層",
         "title": "New Dubai Skyline",
         "tags": "Designed MENA Residential Tall Building",
         "image": "https://www.nikken.co.jp/en/projects/tg1is2000000445u-img/pj0265_00_ogp.jpg",
@@ -145,7 +145,7 @@
           "ドバイ、アラブ首長国連邦"
         ],
         "featured": false,
-        "url": "https://www.nikken.co.jp/en/projects/landscape/dubai_maritimes_city_landmark_tower.html?region=Overseas&refineKey=projCat&refineVal=Mixed%20Use%20%2F%20TOD",
+        "url": "https://www.nikken.co.jp/ja/projects/landscape/dubai_maritimes_city_landmark_tower.html?cat=超高層",
         "title": "Dubai Maritimes City Landmark Tower",
         "tags": "Designed MENA Mixed Use Tall Building",
         "image": "https://res.cloudinary.com/protenders/image/upload/s--zpniqnzC--/c_limit,d_missing,dpr_1.0,f_auto,fl_progressive:semi,q_auto:eco,w_1100/a9d220332b5c027a74d95ac5824a2a68.jpg",
@@ -158,7 +158,7 @@
           "ウランバトール、モンゴル"
         ],
         "featured": false,
-        "url": "https://www.nikken.co.jp/en/projects/mixed_use/mongol_tower.html",
+        "url": "https://www.nikken.co.jp/ja/projects/mixed_use/mongol_tower.html?cat=超高層",
         "title": "Mongol Tower",
         "tags": "Designed Mongolia Mixed Use Tall Building",
         "image": "https://www.nikken.co.jp/en/projects/tg1is200000043ep-img/pj0261_00_ogp.jpg",
@@ -171,7 +171,7 @@
           "中東"
         ],
         "featured": false,
-        "url": "https://www.nikken.co.jp/en/projects/cool_city_and_eco-towers.html",
+        "url": "https://www.nikken.co.jp/ja/projects/highrise/cool_city_and_eco-towers.html?cat=超高層",
         "title": "Cool City and Eco Towers",
         "tags": "MENA Master Plan Tall Buildings",
         "image": "https://www.nikken.co.jp/en/projects/tg1is20000002vuw-img/tg1is20000002vv3.jpg",
@@ -217,7 +217,7 @@
   },
   "education": {
     "kicker": "学歴",
-    "headline": "海洋情報学・海洋生物化学・日本語教育を基盤とする学術的背景。",
+    "headline": "海洋情報学・海洋生物化学・日本語教育を基盤とする学術的背景",
     "items": [
       {
         "title": "海洋情報学修士（衛星プログラミング）",
@@ -238,7 +238,7 @@
   },
   "experience": {
     "kicker": "職務経歴",
-    "headline": "国際プロジェクト推進から地政学リスク分析まで。",
+    "headline": "国際プロジェクト推進から地政学リスク分析まで",
     "roles": [
       {
         "company": "株式会社日建設計",
@@ -249,34 +249,34 @@
           {
             "heading": "大規模国際プロジェクトマネジメント",
             "bullets": [
-              "中東・欧州・アジアにおける大規模都市開発・建築プロジェクトを統括。",
-              "設計・調達・施工フェーズを横断し、企画・提案から引き渡しまでエンドツーエンドでプロジェクトを推進。",
-              "多国籍の専門家チーム（50名以上）をマネジメントし、進捗・コスト・リスクを管理。"
+              "中東・欧州・アジアにおける大規模都市開発・建築プロジェクトを統括",
+              "設計・調達・施工フェーズを横断し、企画・提案から引き渡しまでエンドツーエンドでプロジェクトを推進",
+              "多国籍の専門家チーム（50名以上）をマネジメントし、進捗・コスト・リスクを管理"
             ]
           },
           {
             "heading": "主な成果",
             "bullets": [
-              "One Za’abeel（ドバイ）では複合都市開発プロジェクトの中核PMとして参画し、CR／PM業務を担当。",
-              "Tadawul Tower（リヤド）およびCamp Nou（バルセロナ）では、自力で業務取得の上、CR／PM業務を担当。",
-              "E-JUSTキャンパス（エジプト）では、日埃共同大学キャンパス構築支援に関与。",
-              "世界最大級の不動産系国際イベント Cityscape において大型イベントを企画・開催し、新規案件創出につなげた。"
+              "One Za’abeel（ドバイ）では複合都市開発プロジェクトの中核PMとして参画し、CR／PM業務を担当",
+              "Tadawul Tower（リヤド）およびCamp Nou（バルセロナ）では、自力で業務取得の上、CR／PM業務を担当",
+              "E-JUSTキャンパス（エジプト）では、日埃共同大学キャンパス構築支援に関与",
+              "世界最大級の不動産系国際イベント Cityscape において大型イベントを企画・開催し、新規案件創出につなげた"
             ]
           },
           {
             "heading": "ステークホルダーエンゲージメント／対外交渉",
             "bullets": [
-              "各国政府機関、王族、投資家、デベロッパーとの折衝を担当。",
-              "プロジェクト契約条件の交渉および商務調整を実施。",
-              "経営層・クライアント向け提案およびプレゼンテーションを通じ、多国間ステークホルダーの意思決定を加速。"
+              "各国政府機関、王族、投資家、デベロッパーとの折衝を担当",
+              "プロジェクト契約条件の交渉および商務調整を実施",
+              "経営層・クライアント向け提案およびプレゼンテーションを通じ、多国間ステークホルダーの意思決定を加速"
             ]
           },
           {
             "heading": "ビジネスディベロップメント・広報支援",
             "bullets": [
-              "MENA・ヨーロッパ市場における案件獲得、提案書・コンペティション資料作成、顧客開拓を支援。",
-              "海外向けプロジェクトPR戦略、出版物、プレゼン資料、クライアント向けツアーを企画・実行。",
-              "海外における大型イベントを企画・開催し、企業ブランドおよび新規ビジネス機会の創出に貢献。"
+              "MENA・ヨーロッパ市場における案件獲得、提案書・コンペティション資料作成、顧客開拓を支援",
+              "海外向けプロジェクトPR戦略、出版物、プレゼン資料、クライアント向けツアーを企画・実行",
+              "海外における大型イベントを企画・開催し、企業ブランドおよび新規ビジネス機会の創出に貢献"
             ]
           }
         ],
@@ -296,17 +296,17 @@
         "dates": "2004年4月 - 2007年3月",
         "title": "リスクインテリジェンスアナリスト",
         "bullets": [
-          "中東・東アジアにおける地政学リスク、災害・治安・政治リスク評価レポートを作成。",
-          "日本企業・政府機関向けに、海外事業展開および進出判断に資する戦略レポートを提供。",
-          "海外事業計画におけるリスク管理支援を実施。"
+          "中東・東アジアにおける地政学リスク、災害・治安・政治リスク評価レポートを作成",
+          "日本企業・政府機関向けに、海外事業展開および進出判断に資する戦略レポートを提供",
+          "海外事業計画におけるリスク管理支援を実施"
         ]
       }
     ]
   },
   "about": {
     "kicker": "自己紹介",
-    "headline": "日本企業と中東・欧州のステークホルダーをつなぐ架け橋。",
-    "intro": "アラビア語を母語とし、日本および海外で20年以上の実務経験を有する国際プロジェクト・事業開発のプロフェッショナルとして、日本企業と中東・欧州の政府機関、投資家、民間企業をつなぐ役割を担当。",
+    "headline": "日本企業と中東・欧州のステークホルダーをつなぐ架け橋",
+    "intro": "アラビア語を母語とし、日本および海外で20年以上の実務経験を有する国際プロジェクト・事業開発のプロフェッショナルとして、日本企業と中東・欧州の政府機関、投資家、民間企業をつなぐ役割を担当",
     "metrics": [
       {
         "value": "20+",
@@ -327,7 +327,7 @@
     ]
   },
   "title": "Nicolas Furukawa CV & PORTFOLIO",
-  "description": "古川ニコラの国際プロジェクトマネジメント、事業開発、職務経歴および公開プロジェクト実績をまとめたポートフォリオ。",
+  "description": "古川ニコラの国際プロジェクトマネジメント、事業開発、職務経歴および公開プロジェクト実績をまとめたポートフォリオ",
   "hero_images": [
     {
       "url": "https://www.nikken.co.jp/en/projects/tg1is20000004r7a-img/pj0288_00_ogp.jpg"
@@ -352,7 +352,7 @@
     "name": "古川ニコラ",
     "subtitle": "国際事業・プロジェクトエグゼクティブ｜東京、日本",
     "portrait": "image1.jpg",
-    "sidebar_note": "国際プロジェクトリーダーシップ、ステークホルダー対応、事業開発領域でのご相談に対応可能。",
+    "sidebar_note": "国際プロジェクトリーダーシップ、ステークホルダー対応、事業開発領域でのご相談に対応可能",
     "email": "paris.nick.25@gmail.com"
   }
 }
