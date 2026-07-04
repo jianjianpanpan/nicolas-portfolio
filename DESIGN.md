@@ -22,10 +22,12 @@ Single-page executive portfolio for international project leadership. The surfac
 - Font stack: Inter, system UI, Segoe UI, sans-serif.
 - Body rhythm: 1.55 line-height for readability across English and Japanese.
 - Section kicker: `0.78rem`, uppercase/label style.
+- Hero display heading: `clamp(1.89rem, 4.9vw, 4.34rem)`, reduced 30% from the original hero scale.
+- Hero display heading on mobile: `clamp(1.05rem, 5.04vw, 1.505rem)`.
 - Section heading: `clamp(1.4rem, 3.08vw, 2.8rem)`, reduced 30% from the original section scale.
 - Section body copy: `1.08rem`, matching the About Me body standard.
 - Section card title: `1.22rem`, with larger local variants only where hierarchy requires it.
-- Display hero heading is intentionally separate from section typography.
+- Display hero heading is intentionally separate from section typography, but should remain quieter than the first prototype scale.
 - No negative letter spacing.
 
 ## Layout
