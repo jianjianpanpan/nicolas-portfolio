@@ -93,11 +93,11 @@
           "リヤド、サウジアラビア"
         ],
         "featured": false,
-        "url": "https://www.nikken.co.jp/ja/projects/office/tadawul_tower.html?cat=超高層",
+        "url": "https://www.nikken.co.jp/ja/projects/office/tadawul_tower.html?cat=オフィス",
         "title": "Tadawul Tower",
         "tags": "Built MENA Office Tall Building",
         "image": "https://images.skyscrapercenter.com/building/NIK_027_050922@Gerry-O'Leary230418-100418.jpg",
-        "description": "リヤドにおけるサウジ証券取引所の中核拠点として位置づけられる、主要なオフィス・超高層建築プロジェクト。",
+        "description": "リヤドにおけるサウジ証券取引所の中核拠点として位置づけられる、主要なオフィス・超高層建築プロジェクト",
         "category": "オフィス"
       },
       {
@@ -110,7 +110,7 @@
         "title": "Futur Camp Nou",
         "tags": "Built Europe Sport Stadium",
         "image": "https://www.nikken.co.jp/en/projects/p4iusj0000001gfr-img/pj0023_00_top.jpg",
-        "description": "スタジアムを都市と市民に開くことを目指した、Camp Nou改修コンセプト。",
+        "description": "スタジアムを都市と市民に開くことを目指した、Camp Nou改修コンセプト",
         "category": "スポーツ"
       },
       {
@@ -123,7 +123,7 @@
         "title": "E-JUST Campus",
         "tags": "Designed MENA Education Campus",
         "image": "https://www.nikken.co.jp/en/projects/tg1is20000003667-img/pj0243_00_ogp.jpg",
-        "description": "エジプト日本科学技術大学のキャンパス。二つの文化を融合する「ツインカルチャー・キャンパス」として計画。",
+        "description": "エジプト日本科学技術大学のキャンパス。二つの文化を融合する「ツインカルチャー・キャンパス」として計画",
         "category": "教育施設"
       },
       {
@@ -136,7 +136,7 @@
         "title": "New Dubai Skyline",
         "tags": "Designed MENA Residential Tall Building",
         "image": "https://www.nikken.co.jp/en/projects/tg1is2000000445u-img/pj0265_00_ogp.jpg",
-        "description": "「Above the Clouds」をテーマに構想された、ドバイの高品質住宅タワープロジェクト。",
+        "description": "「Above the Clouds」をテーマに構想された、ドバイの高品質住宅タワープロジェクト",
         "category": "住宅"
       },
       {
@@ -149,7 +149,7 @@
         "title": "Dubai Maritimes City Landmark Tower",
         "tags": "Designed MENA Mixed Use Tall Building",
         "image": "https://res.cloudinary.com/protenders/image/upload/s--zpniqnzC--/c_limit,d_missing,dpr_1.0,f_auto,fl_progressive:semi,q_auto:eco,w_1100/a9d220332b5c027a74d95ac5824a2a68.jpg",
-        "description": "「風・帆・船」を体現する、Dubai Maritime Cityのランドマークタワー計画。",
+        "description": "「風・帆・船」を体現する、Dubai Maritime Cityのランドマークタワー計画",
         "category": "複合用途／TOD"
       },
       {
@@ -162,7 +162,7 @@
         "title": "Mongol Tower",
         "tags": "Designed Mongolia Mixed Use Tall Building",
         "image": "https://www.nikken.co.jp/en/projects/tg1is200000043ep-img/pj0261_00_ogp.jpg",
-        "description": "現代モンゴルを象徴するアイコンとして位置づけられる複合用途タワー。",
+        "description": "現代モンゴルを象徴するアイコンとして位置づけられる複合用途タワー",
         "category": "複合用途／TOD"
       },
       {
@@ -175,7 +175,7 @@
         "title": "Cool City and Eco Towers",
         "tags": "MENA Master Plan Tall Buildings",
         "image": "https://www.nikken.co.jp/en/projects/tg1is20000002vuw-img/tg1is20000002vv3.jpg",
-        "description": "都市スケールで省エネルギーと建築のあり方を探求する、サステナビリティ重視の都市提案。",
+        "description": "都市スケールで省エネルギーと建築のあり方を探求する、サステナビリティ重視の都市提案",
         "category": "サステナブル・エコシティ（ケーススタディ）"
       }
     ],
@@ -231,7 +231,7 @@
       },
       {
         "title": "文部省国費留学生",
-        "institution": "東京外国語大学にて外国人留学生として日本語一級相当を取得（府中、 日本）",
+        "institution": "東京外国語大学にて外国人留学生として日本語一級相当を取得（府中、日本）",
         "dates": "1996年4月 - 1997年3月"
       }
     ]
