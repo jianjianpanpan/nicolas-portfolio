@@ -85,7 +85,7 @@
         "tags": "Built MENA Mixed Use Tall Buildings",
         "image": "https://www.nikken.co.jp/en/projects/tg1is20000004r7a-img/pj0288_00_ogp.jpg",
         "description": "ドバイにおける優雅なタワー開発。THE LINKにより接続され、都市の新たな象徴として位置づけられるプロジェクト",
-        "category": "複合用途／TOD"
+        "category": "複合施設"
       },
       {
         "image_alt": "Tadawul Tower Exterior",
@@ -111,7 +111,7 @@
         "tags": "Built Europe Sport Stadium",
         "image": "https://www.nikken.co.jp/en/projects/p4iusj0000001gfr-img/pj0023_00_top.jpg",
         "description": "スタジアムを都市と市民に開くことを目指した、Camp Nou改修コンセプト",
-        "category": "スポーツ"
+        "category": "スポーツ施設"
       },
       {
         "image_alt": "E-JUST campus architecture",
@@ -137,7 +137,7 @@
         "tags": "Designed MENA Residential Tall Building",
         "image": "https://www.nikken.co.jp/en/projects/tg1is2000000445u-img/pj0265_00_ogp.jpg",
         "description": "「Above the Clouds」をテーマに構想された、ドバイの高品質住宅タワープロジェクト",
-        "category": "住宅"
+        "category": "住宅（超高層）"
       },
       {
         "image_alt": "Dubai Maritimes City Landmark Tower Exterior Rendering",
@@ -150,7 +150,7 @@
         "tags": "Designed MENA Mixed Use Tall Building",
         "image": "https://res.cloudinary.com/protenders/image/upload/s--zpniqnzC--/c_limit,d_missing,dpr_1.0,f_auto,fl_progressive:semi,q_auto:eco,w_1100/a9d220332b5c027a74d95ac5824a2a68.jpg",
         "description": "「風・帆・船」を体現する、Dubai Maritime Cityのランドマークタワー計画",
-        "category": "複合用途／TOD"
+        "category": "複合施設"
       },
       {
         "image_alt": "Mongol Tower Design",
@@ -163,7 +163,7 @@
         "tags": "Designed Mongolia Mixed Use Tall Building",
         "image": "https://www.nikken.co.jp/en/projects/tg1is200000043ep-img/pj0261_00_ogp.jpg",
         "description": "現代モンゴルを象徴するアイコンとして位置づけられる複合用途タワー",
-        "category": "複合用途／TOD"
+        "category": "複合施設"
       },
       {
         "image_alt": "Cool City and Eco-towers Concept",
