@@ -38,7 +38,7 @@
         "description": "Played key management roles in One Za'abeel, Tadawul Tower, Grand Extension of Al Haram Mosque, Camp Nou Stadium, and E-JUST Campus"
       },
       {
-        "value": "Executive relations",
+        "value": "Executive relation",
         "description": "Represented Nikken Sekkei in engagements involving royal family representatives, government leaders, institutional investors, and major corporate stakeholders"
       },
       {
@@ -79,7 +79,7 @@
         "tags": "Mixed Use Tall Building",
         "image": "https://www.nikken.co.jp/en/projects/tg1is20000004r7a-img/pj0288_00_ogp.jpg",
         "description": "An elegant tower development in Dubai, connected by THE LINK and positioned as a new symbol of the city",
-        "category": "Mixed Use I TOD"
+        "category": "Mixed Use Tall Building"
       },
       {
         "image_alt": "Tadawul Tower exterior",
@@ -92,7 +92,7 @@
         "tags": "Office Tall Building",
         "image": "https://images.skyscrapercenter.com/building/NIK_027_050922@Gerry-O'Leary230418-100418.jpg",
         "description": "The Saudi stock market epicenter in Riyadh, recognized as a major office and tall-building project",
-        "category": "Office"
+        "category": "Office Tall Building"
       },
       {
         "image_alt": "Futur Camp Nou stadium design",
@@ -105,7 +105,7 @@
         "tags": "Sport Facilities",
         "image": "https://www.nikken.co.jp/en/projects/p4iusj0000001gfr-img/pj0023_00_top.jpg",
         "description": "A stadium remodel concept designed to open the venue to the city and the people",
-        "category": "Sport"
+        "category": "Sport Facilities"
       },
       {
         "image_alt": "E-JUST campus architecture",
@@ -118,7 +118,7 @@
         "tags": "Education Facilities",
         "image": "https://www.nikken.co.jp/en/projects/tg1is20000003667-img/pj0243_00_ogp.jpg",
         "description": "The Egypt-Japan University of Science and Technology campus in Alexandria, described as a twin-culture campus",
-        "category": "Education"
+        "category": "Education Facilities"
       },
       {
         "image_alt": "New Dubai Skyline residential tower rendering",
@@ -131,7 +131,7 @@
         "tags": "Residential Tall Building",
         "image": "https://www.nikken.co.jp/en/projects/tg1is2000000445u-img/pj0265_00_ogp.jpg",
         "description": "A high-grade residential tower project conceived under the theme \"Above the Clouds\"",
-        "category": "Residential"
+        "category": "Residential Tall Building"
       },
       {
         "image_alt": "Dubai Maritimes City Landmark Tower Exterior Rendering",
@@ -144,7 +144,7 @@
         "tags": "Mixed Use Tall Building",
         "image": "https://res.cloudinary.com/protenders/image/upload/s--zpniqnzC--/c_limit,d_missing,dpr_1.0,f_auto,fl_progressive:semi,q_auto:eco,w_1100/a9d220332b5c027a74d95ac5824a2a68.jpg",
         "description": "Embodying Wind, Sail, & Vessel",
-        "category": "Mixed Use I TOD"
+        "category": "Mixed Use Tall Building"
       },
       {
         "image_alt": "Mongol Tower Design",
@@ -157,7 +157,7 @@
         "tags": "Mixed Use Tall Building",
         "image": "https://www.nikken.co.jp/en/projects/tg1is200000043ep-img/pj0261_00_ogp.jpg",
         "description": "A mixed-use tower positioned as an icon of modern Mongolia",
-        "category": "Mixed Use I TOD"
+        "category": "Mixed Use Tall Building"
       },
       {
         "image_alt": "Cool City and Eco-towers concept",
@@ -167,10 +167,10 @@
         "featured": false,
         "url": "https://www.nikken.co.jp/en/projects/cool_city_and_eco-towers.html",
         "title": "Cool City and Eco Towers",
-        "tags": "Master Plan",
+        "tags": "Sustainable Eco City (Master Plan Case Study)",
         "image": "https://www.nikken.co.jp/en/projects/tg1is20000002vuw-img/tg1is20000002vv3.jpg",
         "description": "A sustainability-focused urban proposal exploring energy savings and architecture at city scale",
-        "category": "Sustainable Eco City (Case Study)"
+        "category": "Sustainable Eco City (Master Plan Case Study)"
       }
     ],
     "resources_heading": "Publications and Brochures",
