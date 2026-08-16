@@ -7,7 +7,7 @@
   "skills": {
     "kicker": "Skills",
     "headline": "International project leadership with cross-cultural execution",
-    "intro": "My work combines international project leadership, strategic relationship management, business development, executive stakeholder engagement, and cross-cultural communication",
+    "intro": "My work combines international project leadership, strategic relationship management, business development, executive stakeholder engagement, and cross-cultural communication.",
     "items": [
       "International Project Leadership",
       "Strategic Relationship Management",
@@ -19,54 +19,54 @@
   },
   "achievements": {
     "kicker": "Core Achievements",
-    "headline": "Measurable leadership across landmark international developments",
+    "headline": "Demonstrating measurable leadership across landmark international developments",
     "items": [
       {
         "value": "20+ years",
-        "description": "International leadership experience across the Middle East, North Africa, Europe and Asia"
+        "description": "International leadership experience across the Middle East, North Africa, Europe and East Asia."
       },
       {
         "value": "USD 5B+",
-        "description": "Led stakeholder engagement and client relationships on landmark developments with combined project values exceeding USD 5 billion"
+        "description": "Led stakeholder engagement and client relationships for landmark developments, with a combined project value exceeding $5 billion."
       },
       {
         "value": "50+ experts",
-        "description": "Directed multidisciplinary teams of architects, engineers, consultants, and specialists from proposal development to construction completion"
+        "description": "Led multidisciplinary teams of architects, engineers, consultants, and specialists from proposal development through construction completion."
       },
       {
-        "value": "10+ landmarks",
-        "description": "Played key management roles in One Za'abeel, Tadawul Tower, Grand Extension of Al Haram Mosque, Camp Nou Stadium, and E-JUST Campus"
+        "value": "15+ landmarks",
+        "description": "Played key management roles in the following projects: One Za'abeel, Tadawul Tower, the Grand Extension of the Al Haram Mosque, the Camp Nou Stadium, and the E-JUST Campus."
       },
       {
         "value": "Executive relation",
-        "description": "Represented Nikken Sekkei in engagements involving royal family representatives, government leaders, institutional investors, and major corporate stakeholders"
+        "description": "Represented Nikken Sekkei in engagements with royal family representatives, government leaders, institutional investors, and major corporate stakeholders."
       },
       {
         "value": "PR leadership",
-        "description": "Led overseas public relations initiatives, including award submissions, corporate publications, project marketing materials, Comprehensive Support for Opening Multiple Overseas Offices and executive client tours"
+        "description": "Led overseas public relations initiatives, including award submissions, corporate publications, and marketing materials. Provided comprehensive support for opening multiple overseas offices and executive client tours."
       }
     ]
   },
   "summary": {
     "kicker": "Summary",
-    "headline": "International project & business management across the MENA, Europe and East Asia",
+    "headline": "International project & business management across the MENA region, Europe and East Asia",
     "paragraphs": [
-      "I am an international project and business management professional with over 20 years of experience delivering complex developments and strategic initiatives across the Middle East, North Africa, Europe, and Asia",
-      "I have extensive experience leading multinational stakeholders, managing client relationships, negotiating contracts, and coordinating large-scale projects for globally recognized developments including Increasing the Mataf Capacity of the Holy Mosque in Makkah, One Za'abeel in Dubai, Tadawul Tower in Riyadh, E-Just Campus in Alexandria and Camp Nou Stadium in Barcelona",
-      "Beyond project management, I bring proven expertise in international business relations, executive-level stakeholder engagement, public relations, proposal development, and cross-cultural leadership. I have regularly represented Nikken Sekkei in interactions with government officials, royal family representatives, institutional clients, and private investors across multiple regions"
+      "I am a professional in international project and business management with over 20 years of experience delivering complex developments and strategic initiatives in the Middle East, North Africa, Europe, and East Asia.",
+      "I have extensive experience leading multinational stakeholders, managing client relationships, negotiating contracts, and coordinating large-scale projects for globally recognized developments, including the grand expansion of the the Holy Mosque in Makkah, the One Za'abeel development in Dubai, the Tadawul Tower in Riyadh, the E-Just campus in Alexandria, and the Camp Nou stadium in Barcelona.",
+      "In addition to project management, I have proven expertise in international business relations, executive-level stakeholder engagement, public relations, proposal development, and cross-cultural leadership. I have consistently represented Nikken Sekkei in interactions with government officials, royal family representatives, institutional clients, and private investors in various regions."
     ],
     "language_heading": "Languages",
     "languages": [
       "Arabic (Native)",
-      "Japanese (Fluent)",
-      "English (Fluent)",
-      "French (Fluent)"
+      "Japanese (High-Level Business)",
+      "English (High-Level Business)",
+      "French (High-Level Business)"
     ]
   },
   "portfolio": {
     "kicker": "Portfolio",
     "headline": "Public project management outcomes and communication materials",
-    "intro": "These selected public links show project outcomes, brochures, and publications connected to my international project management and overseas public relations work",
+    "intro": "These selected public links showcase the outcomes of my international project management and overseas public relations work, as well as related brochures and publications.",
     "projects": [
       {
         "image_alt": "One Za'abeel towers in Dubai",
@@ -78,8 +78,8 @@
         "title": "One Za'abeel",
         "tags": "Mixed Use Tall Building",
         "image": "https://www.nikken.co.jp/en/projects/tg1is20000004r7a-img/pj0288_00_ogp.jpg",
-        "description": "An elegant tower development in Dubai, connected by THE LINK and positioned as a new symbol of the city",
-        "category": "Mixed Use Tall Building"
+        "description": "An elegant tower development in Dubai is connected by THE LINK and positioned as a new symbol of the city.",
+        "category": "Mixed Use (Tall Building)"
       },
       {
         "image_alt": "Tadawul Tower exterior",
@@ -91,8 +91,8 @@
         "title": "Tadawul Tower",
         "tags": "Office Tall Building",
         "image": "https://images.skyscrapercenter.com/building/NIK_027_050922@Gerry-O'Leary230418-100418.jpg",
-        "description": "The Saudi stock market epicenter in Riyadh, recognized as a major office and tall-building project",
-        "category": "Office Tall Building"
+        "description": "The Saudi stock market epicenter in Riyadh is recognized as a major office and tall-building project.",
+        "category": "Office (Tall Building)"
       },
       {
         "image_alt": "Futur Camp Nou stadium design",
@@ -104,7 +104,7 @@
         "title": "Futur Camp Nou Stadium",
         "tags": "Sport Facilities",
         "image": "https://www.nikken.co.jp/en/projects/p4iusj0000001gfr-img/pj0023_00_top.jpg",
-        "description": "A stadium remodel concept designed to open the venue to the city and the people",
+        "description": "A stadium remodel concept designed to open the venue to the city and the people.",
         "category": "Sport Facilities"
       },
       {
@@ -117,7 +117,7 @@
         "title": "E-JUST Campus",
         "tags": "Education Facilities",
         "image": "https://www.nikken.co.jp/en/projects/tg1is20000003667-img/pj0243_00_ogp.jpg",
-        "description": "The Egypt-Japan University of Science and Technology campus in Alexandria, described as a twin-culture campus",
+        "description": "The Egypt-Japan University of Science and Technology campus in Alexandria is described as a twin-culture campus.",
         "category": "Education Facilities"
       },
       {
@@ -130,8 +130,8 @@
         "title": "New Dubai Skyline",
         "tags": "Residential Tall Building",
         "image": "https://www.nikken.co.jp/en/projects/tg1is2000000445u-img/pj0265_00_ogp.jpg",
-        "description": "A high-grade residential tower project conceived under the theme \"Above the Clouds\"",
-        "category": "Residential Tall Building"
+        "description": "A high-grade residential tower project conceived under the theme \"Above the Clouds\".",
+        "category": "Residential (Tall Building)"
       },
       {
         "image_alt": "Dubai Maritimes City Landmark Tower Exterior Rendering",
@@ -144,7 +144,7 @@
         "tags": "Mixed Use Tall Building",
         "image": "https://res.cloudinary.com/protenders/image/upload/s--zpniqnzC--/c_limit,d_missing,dpr_1.0,f_auto,fl_progressive:semi,q_auto:eco,w_1100/a9d220332b5c027a74d95ac5824a2a68.jpg",
         "description": "Embodying Wind, Sail, & Vessel",
-        "category": "Mixed Use Tall Building"
+        "category": "Mixed Use (Tall Building)"
       },
       {
         "image_alt": "Mongol Tower Design",
@@ -156,8 +156,8 @@
         "title": "Mongol Tower",
         "tags": "Mixed Use Tall Building",
         "image": "https://www.nikken.co.jp/en/projects/tg1is200000043ep-img/pj0261_00_ogp.jpg",
-        "description": "A mixed-use tower positioned as an icon of modern Mongolia",
-        "category": "Mixed Use Tall Building"
+        "description": "A mixed-use tower positioned as an icon of modern Mongolia.",
+        "category": "Mixed Use (Tall Building)"
       },
       {
         "image_alt": "Cool City and Eco-towers concept",
@@ -169,7 +169,7 @@
         "title": "Cool City and Eco Towers",
         "tags": "Sustainable Eco City (Master Plan Case Study)",
         "image": "https://www.nikken.co.jp/en/projects/tg1is20000002vuw-img/tg1is20000002vv3.jpg",
-        "description": "A sustainability-focused urban proposal exploring energy savings and architecture at city scale",
+        "description": "A sustainability-focused urban proposal exploring energy savings and architecture at city scale.",
         "category": "Sustainable Eco City (Master Plan Case Study)"
       }
     ],
@@ -243,22 +243,28 @@
           {
             "heading": "Leadership and Delivery",
             "bullets": [
-              "Led multidisciplinary project teams throughout design, procurement, site supervision and delivery phases",
-              "Directed multidisciplinary teams of 50+ professionals across Japan, the Middle East, North Africa and Europe",
-              "Managed project delivery from proposal stage through construction completion"
+              "Overseeing large-scale urban development and site supervision projects in the Middle East, North Africa, Europe, and East Asia.",
+              "Drive international projects from start to finish, overseeing the design, procurement, and construction phases. Take charge of every step, from planning and proposal development to on-site management.",
+              "Led multidisciplinary teams of over 50 professionals in Japan, the Middle East, North Africa, East Asia and Europe."
             ]
           },
           {
             "heading": "Commercial and Client Management",
             "bullets": [
-              "Negotiated contracts and managed commercial administration for major international developments",
-              "Supported business development initiatives and client acquisition efforts across MENA and Europe markets"
+              "Managed commercial administration and negotiated contracts for major international developments.",
+              "Supported business development initiatives and client acquisition efforts in the MENA region and European markets."
             ]
           },
           {
-            "heading": "Executive Relations and Representation",
+            "heading": "Executive Relations, Representation, Business Development, and Public Relations Support",
             "bullets": [
-              "Represented Nikken Sekkei in engagements involving royal family representatives, government leaders, and institutional investors"
+              "Responsibilities include negotiating with government agencies, royal families, investors, and developers in various countries.",
+              "Negotiated project contract terms and handled commercial disputes.",
+              "Speed up the decision-making process among multinational stakeholders by presenting proposals to senior management and clients.",
+              "Provide support for securing projects, preparing proposals and competitive bid materials, and developing new clients in markets in the Middle East, North Africa, Europe, and East Asia.",
+              "Responsibilities include planning and executing PR strategies, publications, presentation materials, and client tours for overseas projects.",
+              "Enhance corporate brands and create new business opportunities by planning and hosting large-scale events overseas.",
+              "Provide comprehensive support for establishing multiple overseas offices."
             ]
           }
         ],
@@ -266,11 +272,12 @@
           "One Za'abeel, Dubai, U.A.E.",
           "Tadawul Tower, Riyadh, K.S.A.",
           "Camp Nou Stadium, Barcelona, Spain",
-          "Increasing the Mataf Capacity of the Holy Mosque at Makkah Al Mukarramah, Makkah, K.S.A.",
+          "Increasing the Capacity of the Holy Mosque at Makkah, Makkah, K.S.A.",
           "E-JUST Campus, Alexandria, Egypt",
           "Mongol Tower, Ulaanbaatar, Mongolia",
           "Dubai Maritime City, Dubai, U.A.E."
-        ]
+        ],
+        "bullets": []
       },
       {
         "company": "Tokio Marine & Nichido Risk Consulting Co., Ltd.",
@@ -281,9 +288,9 @@
           {
             "heading": "Key Responsibilities",
             "bullets": [
-              "Conducted geopolitical, security, and natural disaster risk assessments focused on the Middle East and East Asia",
-              "Delivered strategic intelligence and analytical reports for corporate clients and Japanese government agencies",
-              "Supported overseas business planning and risk management through cross-border political and environmental risk analysis"
+              "Conducted geopolitical, security, and natural disaster risk assessments, focusing on the Middle East and East Asia.",
+              "Provided strategic intelligence and analytical reports to corporate clients and Japanese government agencies.",
+              "Supported overseas businesses with planning and risk management by conducting cross-border political and environmental risk analyses."
             ]
           }
         ]
@@ -292,8 +299,8 @@
   },
   "about": {
     "kicker": "About Me",
-    "headline": "I bridge Japanese organizations with MENA, East Asian & European stakeholders",
-    "intro": "As a native Arabic speaker, I am a professional in international projects and business development, with over 20 years' experience in Japan and overseas. I serves as a liaison between Japanese companies, government agencies, investors and private companies in the Middle East, Europe and East Asia ",
+    "headline": "I bridge Japanese organizations with stakeholders in the MENA region, East Asia, and Europe.",
+    "intro": "As a native Arabic speaker, I am a seasoned professional in international projects and business development with over 20 years of experience in Japan and abroad. I serve as a liaison between Japanese companies, government agencies, and private companies in the Middle East, Europe, and East Asia. ",
     "metrics": [
       {
         "value": "20+",
@@ -339,7 +346,7 @@
     "name": "Nicolas Furukawa",
     "subtitle": "International Business & Project Executives | Tokyo, Japan",
     "portrait": "image1.jpg",
-    "sidebar_note": "Available for international project leadership, stakeholder engagement, and business development roles",
+    "sidebar_note": "Available for international project leadership, stakeholder engagement, and business development roles.",
     "email": "paris.nick.25@gmail.com"
   }
 }
