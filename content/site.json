@@ -63,10 +63,10 @@
     ],
     "language_heading": "Languages",
     "languages": [
+      "Arabic (Native)　　　　　　　　　",
       "Japanese (High-Level Business)",
       "English (High-Level Business)",
-      "French (High-Level Business)",
-      "Arabic (Native)"
+      "French (High-Level Business)"
     ]
   },
   "portfolio": {
@@ -305,8 +305,8 @@
   },
   "about": {
     "kicker": "About Me",
-    "headline": "Bridge Japanese organizations with stakeholders in MENA region, East Asia, and Europe.",
-    "intro": "As a native Arabic speaker, I am a seasoned professional in international projects and business development with over 20 years of experience in Japan and abroad. I serve as a liaison between Japanese companies, government agencies, and private companies in the Middle East, Europe, and East Asia. ",
+    "headline": "I bridge Japanese organizations with stakeholders in MENA region, East Asia, and Europe.",
+    "intro": "As a native Arabic speaker, I am a seasoned professional in international projects and business development with over 20 years of experience in Japan and abroad. I serve as a liaison between Japanese companies, government agencies, and private companies in the Middle East, North Africa, Europe and East Asia.",
     "metrics": [
       {
         "value": "20+",
