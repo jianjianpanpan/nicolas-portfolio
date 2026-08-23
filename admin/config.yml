@@ -127,9 +127,20 @@ collections:
                     required: false
                     fields:
                       - { label: "Heading", name: "heading", widget: "string" }
+                      - label: "Overview Bullets"
+                        name: "overview_bullets"
+                        widget: "list"
+                        required: false
+                        field: { label: "Overview Bullet", name: "overview_bullet", widget: "text" }
+                      - label: "Key Achievement Bullets"
+                        name: "key_achievement_bullets"
+                        widget: "list"
+                        required: false
+                        field: { label: "Key Achievement Bullet", name: "key_achievement_bullet", widget: "text" }
                       - label: "Bullets"
                         name: "bullets"
                         widget: "list"
+                        required: false
                         field: { label: "Bullet", name: "bullet", widget: "text" }
                   - label: "Bullets"
                     name: "bullets"

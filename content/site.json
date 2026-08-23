@@ -250,15 +250,12 @@
         "sections": [
           {
             "heading": "Large-Scale International Project Management",
-            "bullets": [
+            "overview_bullets": [
               "Overseeing large-scale urban development and site supervision projects in the Middle East, North Africa, Europe, and East Asia.",
               "Execute projects from start to finish, spanning the design, procurement, and construction phases.",
               "Manage a multinational team of experts (50+ members)."
-            ]
-          },
-          {
-            "heading": "Key Achievements",
-            "bullets": [
+            ],
+            "key_achievement_bullets": [
               "One Za’abeel (Dubai): Served as the core project manager for this mixed-use urban development project. Served as CR/PM after the project was recognized by Guinness World Records as the world’s longest cantilever.",
               "Tadawul Tower (Riyadh): Led the development of the Saudi Stock Exchange headquarters, secured the project independently, and served as CR/PM.",
               "Camp Nou Stadium (Barcelona): Led the project management of the stadium redevelopment plan. Secured the project independently and served as CR/PM.",
@@ -269,30 +266,24 @@
           },
           {
             "heading": "Stakeholder Engagement / External Negotiations",
-            "bullets": [
+            "overview_bullets": [
               "Negotiations with government agencies, royal families, investors, and developers in various countries.",
               "Negotiation of project contract terms and commercial coordination.",
               "Proposals and presentations for executive management and clients."
-            ]
-          },
-          {
-            "heading": "Key Achievements",
-            "bullets": [
+            ],
+            "key_achievement_bullets": [
               "Accelerated decision-making among multinational stakeholders.",
               "Facilitated consensus-building on large-scale projects."
             ]
           },
           {
             "heading": "Business Development Support / Overseas Public Relation & Branding Support",
-            "bullets": [
+            "overview_bullets": [
               "Support for securing projects in the MENA and European markets.",
               "Support for preparing proposals, competitive bid materials, and presentation materials.",
               "Customer acquisition and relationship-building activities."
-            ]
-          },
-          {
-            "heading": "Key Achievements",
-            "bullets": [
+            ],
+            "key_achievement_bullets": [
               "Public relations and branding support.",
               "Planning and execution of PR strategies for overseas projects.",
               "Production of project publications, materials, and presentation materials.",
