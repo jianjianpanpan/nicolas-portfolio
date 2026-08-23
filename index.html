@@ -1308,18 +1308,20 @@
               <div class="timeline-body">
                 <h3 spellcheck="true">Risk Intelligence Analyst</h3>
                 <div class="role-block">
-                  <h4 spellcheck="true">Overview</h4>
-                  <ul>
-                    <li spellcheck="true">Provided corporations and government agencies with various risk management, research, and consulting services regarding natural disasters, disaster prevention, business continuity planning (BCP), environmental issues, cybersecurity, reducing automobile accidents, and transportation safety management.</li>
-                  </ul>
-                </div>
-                <div class="role-block">
-                  <h4 spellcheck="true">Key Responsibilities</h4>
-                  <ul>
-                    <li spellcheck="true">Conducted geopolitical, security, and natural disaster risk assessments focused on the Middle East and East Asia.</li>
-                    <li spellcheck="true">Delivered strategic intelligence and analytical reports for corporate clients and Japanese government agencies.</li>
-                    <li spellcheck="true">Supported overseas business planning and risk management through cross-border political and environmental risk analysis.</li>
-                  </ul>
+                  <div class="role-subsection">
+                    <strong spellcheck="true">Overview</strong>
+                    <ul>
+                      <li spellcheck="true">Provided corporations and government agencies with various risk management, research, and consulting services regarding natural disasters, disaster prevention, business continuity planning (BCP), environmental issues, cybersecurity, reducing automobile accidents, and transportation safety management.</li>
+                    </ul>
+                  </div>
+                  <div class="role-subsection">
+                    <strong spellcheck="true">Key Responsibilities</strong>
+                    <ul>
+                      <li spellcheck="true">Conducted geopolitical, security, and natural disaster risk assessments focused on the Middle East and East Asia.</li>
+                      <li spellcheck="true">Delivered strategic intelligence and analytical reports for corporate clients and Japanese government agencies.</li>
+                      <li spellcheck="true">Supported overseas business planning and risk management through cross-border political and environmental risk analysis.</li>
+                    </ul>
+                  </div>
                 </div>
               </div>
             </article>
@@ -1780,7 +1782,7 @@
 
     const renderBullets = (items = []) => `<ul>${items.map((bullet) => `<li>${escapeHtml(bullet)}</li>`).join("")}</ul>`;
 
-    const renderRoleSection = (section, text) => {
+    const renderRoleSection = (section, text, options = {}) => {
       const overviewBullets = section.overview_bullets || section.overview || [];
       const keyAchievementBullets = section.key_achievement_bullets || section.key_achievements || [];
       const legacyBullets = section.bullets || [];
@@ -1801,6 +1803,15 @@
                 ${renderBullets(keyAchievementBullets)}
               </div>
             ` : ""}
+          </div>
+        `;
+      }
+
+      if (options.legacyAsSubsection) {
+        return `
+          <div class="role-subsection">
+            <strong>${escapeHtml(section.heading)}</strong>
+            ${renderBullets(legacyBullets)}
           </div>
         `;
       }
@@ -1910,7 +1921,11 @@
           </div>
           <div class="timeline-body">
             <h3>${escapeHtml(role.title)}</h3>
-            ${(role.sections || []).map((section) => renderRoleSection(section, text)).join("")}
+            ${role.company?.includes("Tokio Marine") || role.company?.includes("東京海上") ? `
+              <div class="role-block">
+                ${(role.sections || []).map((section) => renderRoleSection(section, text, { legacyAsSubsection: true })).join("")}
+              </div>
+            ` : (role.sections || []).map((section) => renderRoleSection(section, text)).join("")}
             ${(role.bullets || []).length ? `
               <div class="role-block">
                 <h4>${escapeHtml(text.responsibilitiesHeading)}</h4>
