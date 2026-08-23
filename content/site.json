@@ -292,15 +292,6 @@
             ]
           }
         ],
-        "landmarks": [
-          "One Za'abeel, Dubai, U.A.E.",
-          "Tadawul Tower, Riyadh, K.S.A.",
-          "Camp Nou Stadium, Barcelona, Spain",
-          "Increasing the Capacity of the Holy Mosque at Makkah, Makkah, K.S.A.",
-          "E-JUST Campus, Alexandria, Egypt",
-          "Mongol Tower, Ulaanbaatar, Mongolia",
-          "Dubai Maritime City, Dubai, U.A.E."
-        ],
         "bullets": []
       },
       {
@@ -309,6 +300,12 @@
         "dates": "Apr 2003 - Mar 2007",
         "title": "Risk Intelligence Analyst",
         "sections": [
+          {
+            "heading": "Overview",
+            "bullets": [
+              "Provided corporations and government agencies with various risk management, research, and consulting services regarding natural disasters, disaster prevention, business continuity planning (BCP), environmental issues, cybersecurity, reducing automobile accidents, and transportation safety management."
+            ]
+          },
           {
             "heading": "Key Responsibilities",
             "bullets": [

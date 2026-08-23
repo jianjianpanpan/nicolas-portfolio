@@ -655,7 +655,11 @@
     }
 
     .role-block h4 {
+      display: inline-block;
+      width: fit-content;
       margin: 0;
+      padding-bottom: 4px;
+      border-bottom: 1px solid color-mix(in srgb, var(--teal) 48%, transparent);
       color: var(--teal);
       font-size: var(--section-label-size);
       line-height: 1.25;
@@ -685,13 +689,6 @@
       color: var(--muted);
       font-size: var(--section-body-size);
       line-height: var(--section-body-line-height);
-    }
-
-    .landmarks {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      margin-top: 2px;
     }
 
     .education-card {
@@ -1299,15 +1296,6 @@
                     </ul>
                   </div>
                 </div>
-                <div class="role-block">
-                  <h4 spellcheck="true">Selected Landmark Projects</h4>
-                  <div class="landmarks">
-                    <span class="chip" spellcheck="true">One Za'abeel, Dubai</span>
-                    <span class="chip" spellcheck="true">Tadawul Tower, Riyadh</span>
-                    <span class="chip" spellcheck="true">Camp Nou, Barcelona</span>
-                    <span class="chip" spellcheck="true">E-JUST Campus, Egypt</span>
-                  </div>
-                </div>
               </div>
             </article>
 
@@ -1319,6 +1307,12 @@
               </div>
               <div class="timeline-body">
                 <h3 spellcheck="true">Risk Intelligence Analyst</h3>
+                <div class="role-block">
+                  <h4 spellcheck="true">Overview</h4>
+                  <ul>
+                    <li spellcheck="true">Provided corporations and government agencies with various risk management, research, and consulting services regarding natural disasters, disaster prevention, business continuity planning (BCP), environmental issues, cybersecurity, reducing automobile accidents, and transportation safety management.</li>
+                  </ul>
+                </div>
                 <div class="role-block">
                   <h4 spellcheck="true">Key Responsibilities</h4>
                   <ul>
@@ -1542,7 +1536,6 @@
         overviewHeading: "Overview",
         keyAchievementsHeading: "Key Achievements",
         responsibilitiesHeading: "Key Responsibilities",
-        landmarksHeading: "Selected Landmark Projects",
         openProject: "Open project page"
       },
       ja: {
@@ -1561,7 +1554,6 @@
         overviewHeading: "概要",
         keyAchievementsHeading: "主な成果",
         responsibilitiesHeading: "主な担当業務",
-        landmarksHeading: "主なランドマーク案件",
         openProject: "プロジェクトページを開く"
       }
     };
@@ -1923,12 +1915,6 @@
               <div class="role-block">
                 <h4>${escapeHtml(text.responsibilitiesHeading)}</h4>
                 ${renderBullets(role.bullets)}
-              </div>
-            ` : ""}
-            ${(role.landmarks || []).length ? `
-              <div class="role-block">
-                <h4>${escapeHtml(text.landmarksHeading)}</h4>
-                <div class="landmarks">${role.landmarks.map((item) => `<span class="chip">${escapeHtml(item)}</span>`).join("")}</div>
               </div>
             ` : ""}
           </div>

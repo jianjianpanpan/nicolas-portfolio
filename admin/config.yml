@@ -147,11 +147,6 @@ collections:
                     widget: "list"
                     required: false
                     field: { label: "Bullet", name: "bullet", widget: "text" }
-                  - label: "Landmark Projects"
-                    name: "landmarks"
-                    widget: "list"
-                    required: false
-                    field: { label: "Project", name: "project", widget: "string" }
           - label: "Education"
             name: "education"
             widget: "object"
