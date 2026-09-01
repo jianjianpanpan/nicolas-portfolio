@@ -192,16 +192,12 @@
         "url": "https://www.nikken.jp/ja/dbook/tadawul_tower/#page=1"
       },
       {
-        "label": "MENA ブローシャー",
-        "url": "https://www.nikken.co.jp/en/about/tg1is200000002uf-att/MENA_Brochure_2017.pdf"
+        "label": "India ブローシャー",
+        "url": "https://www.nikken.co.jp/ja/dbook/india_brochure/html5m.html#page=1"
       },
       {
         "label": "Vietnam ブローシャー",
         "url": "https://www.nikken.jp/ja/dbook/vietnam_brochure/#page=1"
-      },
-      {
-        "label": "住宅 ブローシャー",
-        "url": "https://www.nikken.co.jp/en/about/tg1is20000003n57-att/Residential_Brochure.pdf"
       },
       {
         "label": "ホスピタリティ ブローシャー",
@@ -212,8 +208,12 @@
         "url": "https://www.nikken.jp/ja/dbook/nj202303/html5m.html#page=1"
       },
       {
-        "label": "日建設計ウェブサイト（ニコラの顔写真が掲載）",
-        "url": "https://www.nikken.co.jp/en/about/index.html"
+        "label": "日建設計『アーバニズム・ブック』",
+        "url": "https://www.nikken.co.jp/ja/dbook/udbook/html5.html#page=1"
+      },
+      {
+        "label": "日建設計『コーポレート・ブック』",
+        "url": "https://ja.nikken-comms.com/books/?pk=69"
       }
     ]
   },
