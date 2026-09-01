@@ -347,7 +347,7 @@
   "description": "International project management CV & Portfolio for Nicolas Furukawa, organized from CV sections and public project links",
   "hero_images": [
     {
-      "url": "https://www.wsp.com/-/media/project/global/image/2025/one-zaabeel/bnr-1920x750.png"
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP7Fi4EJkjbkgtorHk25_-fUN1XAc_9ZMCUKUBLOXxsM95WBfhio3GLgs&s=10"
     },
     {
       "url": "https://www.nikken.co.jp/en/projects/p4iusj0000001gfr-img/pj0023_00_top.jpg"
@@ -357,6 +357,12 @@
     },
     {
       "url": "https://s3.amazonaws.com/assets.cvu.org/wp-content/uploads/2023/04/19012756/NIK_027_050922%40Gerry-OLeary_resized.jpg"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6YTkCrVl-SM8-ixMcQgKCYODvzTfxXGimUMeIZPaJqGQCPb81PhVWwyR&s=10"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRenY9CQLzE4WB3FghUZ5R8-2QtsppQHiVc9tPEupv8NQ&s=10"
     }
   ],
   "identity": {
