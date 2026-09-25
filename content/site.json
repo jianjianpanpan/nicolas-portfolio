@@ -6,28 +6,28 @@
   },
   "skills": {
     "kicker": "Skills",
-    "headline": "International project leadership with cross-cultural execution",
+    "headline": "International project management, business development, and stakeholder engagement",
     "intro": "My work combines international project leadership, strategic relationship management, business development, executive stakeholder engagement, and cross-cultural communication.",
     "items": [
-      "Strategies for Entering International Markets",
-      "Project Management for Public-Private Partnership Projects",
-      "Large-Scale Alliance Establishment",
-      "Management for Large-Scale Infrastructure & Urban Development Projects",
-      "Multinational Team Management",
-      "Progress, Cost, and Risk Management",
-      "Government, Royal Family, and Investor Liaison",
+      "International Market Entry Strategy",
+      "Public–Private Partnership Project Management",
+      "Strategic Alliance Development",
+      "Infrastructure and Urban Development Project Management",
+      "Multinational Team Leadership",
+      "Schedule, Cost, and Risk Management",
+      "Government, Royal Family, and Investor Relations",
       "Executive-Level Negotiations",
       "Consensus Building and Stakeholder Coordination",
       "Cross-Cultural Communication",
-      "Commercial Contract Negotiations",
-      "Overseas corporate branding initiatives",
-      "Strategic international public relations",
-      "Proficiency in Japanese, English, French and Arabic"
+      "Commercial Contract Negotiation",
+      "International Corporate Branding",
+      "Strategic International Public Relations",
+      "Japanese, English, French, and Arabic"
     ]
   },
   "achievements": {
     "kicker": "Core Achievements",
-    "headline": "Demonstrating measurable leadership across landmark international developments",
+    "headline": "Selected achievements across international projects and business development",
     "items": [
       {
         "value": "20+ years",
@@ -43,40 +43,40 @@
       },
       {
         "value": "15+ landmarks",
-        "description": "Played key management roles in the following projects: One Za'abeel, Tadawul Tower, the Grand Extension of the Al Haram Mosque, the Camp Nou Stadium, and the E-JUST Campus."
+        "description": "Held key management roles on projects including One Za’abeel, Tadawul Tower, the Grand Mosque expansion in Mecca, Futur Camp Nou, and E-JUST."
       },
       {
-        "value": "Executive relation",
+        "value": "Executive Relations",
         "description": "Represented Nikken Sekkei in engagements with royal family representatives, government leaders, institutional investors, and major corporate stakeholders."
       },
       {
         "value": "PR leadership",
-        "description": "Led overseas public relations initiatives, including award submissions, corporate publications, and marketing materials. Comprehensive support was also provided for multiple overseas expansions and associated office openings."
+        "description": "Led international PR initiatives, including award submissions, corporate publications, and marketing materials, and supported overseas expansion and office openings."
       }
     ]
   },
   "summary": {
     "kicker": "Summary",
-    "headline": "International project & business management across MENA, East Asia and Europe",
+    "headline": "International project management and business development across MENA, East Asia, and Europe",
     "paragraphs": [
-      "I am an experienced professional in international projects and business development, with over 20 years' experience in Japan and overseas. I am a senior project manager who serves as a liaison between Japanese companies and government agencies, as well as private companies in the Middle East, North Africa, East Asia and Europe. My experience extends beyond project delivery to supporting overseas corporate branding initiatives and strategic PR activities, which I believe complement an executive leadership role.",
-      "At Nikken Sekkei Ltd., I spearheaded business development initiatives for nearly two decades as a senior project manager on large-scale infrastructure and urban development projects across the aforementioned regions. In this role, I managed projects from start to finish, including planning, proposal development, design, procurement, and site management, as a liaison between Japanese companies and various stakeholders, including overseas governments, royal families, and institutional investors.",
-      "The total project value exceeded $5 billion. I was involved in several world-renowned landmark projects, including the One Za’abeel Tower in Dubai, the Tadawul Tower in Riyadh, the E-JUST campus in Alexandria, the expansion of the Grand Mosque’s pilgrimage capacity in Mecca, and the redesign of the Camp Nou stadium in Barcelona.",
-      "As a member of the international public relations team, I led overseas public relations activities, including award submissions, corporate publications, project marketing materials, and client inspection tours for senior executives. Comprehensive support was also provided for multiple overseas expansions and associated office openings.",
-      "At the risk consulting firm, Tokio Marine & Nichido Risk Consulting Co., Ltd., I worked as a risk intelligence analyst and gained experience producing reports that assessed geopolitical, disaster, security, and political risks in the Middle East and East Asia. I provided strategic reports to Japanese companies and government agencies to help them make decisions about overseas business expansion and market entry. I also supported risk management in their overseas business plans."
+      "My experience spans international project management, business development, and risk intelligence. I have worked with Japanese organizations and overseas government agencies, investors, and private-sector clients to develop opportunities and coordinate complex international projects.",
+      "At Nikken Sekkei, where I worked from April 2007 to August 2026, my responsibilities included business development, project management, and stakeholder coordination. I worked across planning, proposals, design, procurement, and site coordination, bringing together clients, consultants, and multidisciplinary teams.",
+      "The projects in which I was involved had a combined value exceeding USD 5 billion. They included One Za’abeel in Dubai, Tadawul Tower in Riyadh, the E-JUST campus in Egypt, the Grand Mosque expansion in Mecca, and the Futur Camp Nou redevelopment proposal in Barcelona.",
+      "I also led international public relations activities, including award submissions, corporate publications, project marketing materials, and client site visits involving senior executives. I supported overseas expansion and the establishment of international offices.",
+      "Earlier, at Tokio Marine & Nichido Risk Consulting, I assessed geopolitical, security, and natural disaster risks in the Middle East and East Asia. I prepared reports for Japanese companies and government agencies to support market entry, overseas business planning, and risk management."
     ],
     "language_heading": "Languages Level",
     "languages": [
-      "Japanese (Business)",
-      " English (Business) ",
-      "French (Business)",
-      "Arabic (Business)"
+      "Japanese (Business proficiency)",
+      "English (Business proficiency)",
+      "French (Business proficiency)",
+      "Arabic (Business proficiency)"
     ]
   },
   "portfolio": {
     "kicker": "Portfolio",
-    "headline": "Public project management outcomes and communication materials",
-    "intro": "These selected public links showcase projects for which I was directly responsible. My responsibilities included international project management, general oversight, client coordination, and overseas public relations. This includes the brochures and publications that I worked on for these and other projects.",
+    "headline": "Selected projects, publications, and communications materials",
+    "intro": "This selection presents projects and publications connected to my work in international project management, client coordination, and overseas public relations. My responsibilities varied by assignment; the linked pages provide project information and published materials.",
     "projects": [
       {
         "image_alt": "One Za'abeel towers in Dubai",
@@ -88,8 +88,8 @@
         "title": "One Za'abeel",
         "tags": "Mixed Use Tall Building",
         "image": "https://static.dezeen.com/uploads/2024/09/one-zaabeel-nikken-sekkei-dubai-cantilever-hero_dezeen_2364_col_0.jpg",
-        "description": "An elegant tower development in Dubai is connected by THE LINK and positioned as a new symbol of the city.",
-        "category": "Mixed Use (Tall Building)"
+        "description": "A mixed-use development in Dubai featuring two towers connected by THE LINK.",
+        "category": "Mixed Use (Tall Building) | Dubai, U.A.E."
       },
       {
         "image_alt": "Tadawul Tower exterior",
@@ -101,8 +101,8 @@
         "title": "Tadawul Tower",
         "tags": "Office Tall Building",
         "image": "https://images.skyscrapercenter.com/building/NIK_027_050922@Gerry-O'Leary230418-100418.jpg",
-        "description": "The Saudi stock market epicenter in Riyadh is recognized as a major office and tall-building project.",
-        "category": "Office (Tall Building)"
+        "description": "A high-rise office development in Riyadh serving as the Saudi Stock Exchange headquarters.",
+        "category": "Office (Tall Building) | Riyadh, K.S.A."
       },
       {
         "image_alt": "Futur Camp Nou stadium design",
@@ -114,8 +114,8 @@
         "title": "Futur Camp Nou Stadium",
         "tags": "Sport Facilities",
         "image": "https://www.nikken.co.jp/ja/projects/p4iusj0000001gfr-img/pj0023_04.jpg",
-        "description": "A stadium remodel concept designed to open the venue to the city and the people.",
-        "category": "Sport Facilities"
+        "description": "A redevelopment proposal for FC Barcelona’s stadium, conceived to strengthen its connection with the surrounding city.",
+        "category": "Sports Facilities | Barcelona, Spain"
       },
       {
         "image_alt": "E-JUST campus architecture",
@@ -127,8 +127,8 @@
         "title": "E-JUST Campus",
         "tags": "Education Facilities",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6td4eniJ_KQvAfFd-npCDUGqkTeTw0DcyUO90RjkWlaVD_CkuL0rxRzw&s=10",
-        "description": "The Egypt-Japan University of Science and Technology campus in Alexandria is described as a twin-culture campus.",
-        "category": "Education Facilities"
+        "description": "A campus for the Egypt-Japan University of Science and Technology, bringing together Egyptian and Japanese educational cultures.",
+        "category": "Educational Facilities | Alexandria, Egypt"
       },
       {
         "image_alt": "New Dubai Skyline residential tower rendering",
@@ -140,8 +140,8 @@
         "title": "New Dubai Skyline",
         "tags": "Residential Tall Building",
         "image": "https://www.nikken.co.jp/ja/projects/pj4urv0000004t2p-img/pj0265_00_ogp.jpg",
-        "description": "A high-grade residential tower project conceived under the theme \"Above the Clouds\".",
-        "category": "Residential (Tall Building)"
+        "description": "A residential tower concept in Dubai developed around the theme “Above the Clouds”.",
+        "category": "Residential (Tall Building) | Dubai, U.A.E."
       },
       {
         "image_alt": "Dubai Maritimes City Landmark Tower Exterior Rendering",
@@ -153,8 +153,8 @@
         "title": "Dubai Maritimes City Landmark Tower",
         "tags": "Mixed Use Tall Building",
         "image": "https://res.cloudinary.com/protenders/image/upload/s--zpniqnzC--/c_limit,d_missing,dpr_1.0,f_auto,fl_progressive:semi,q_auto:eco,w_1100/a9d220332b5c027a74d95ac5824a2a68.jpg",
-        "description": "Embodying Wind, Sail, & Vessel",
-        "category": "Mixed Use (Tall Building)"
+        "description": "A landmark tower proposal inspired by wind, sails, and ships.",
+        "category": "Mixed Use (Tall Building) | Dubai, U.A.E."
       },
       {
         "image_alt": "Mongol Tower Design",
@@ -166,8 +166,8 @@
         "title": "Mongol Tower",
         "tags": "Mixed Use Tall Building",
         "image": "https://www.nikken.co.jp/en/projects/tg1is200000043ep-img/pj0261_00_ogp.jpg",
-        "description": "A mixed-use tower positioned as an icon of modern Mongolia.",
-        "category": "Mixed Use (Tall Building)"
+        "description": "A mixed-use tower concept for Ulaanbaatar, combining hospitality, residential, office, and commercial functions.",
+        "category": "Mixed Use (Tall Building) | Ulaanbaatar, Mongolia"
       },
       {
         "image_alt": "Cool City and Eco-towers concept",
@@ -179,8 +179,8 @@
         "title": "Cool City and Eco Towers",
         "tags": "Sustainable Eco City (Master Plan Case Study)",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOrcA5jO1mcUyKixbRDYKGHbhQSEuUoOwpQ8j1cvH7vD-fbjbR6aYDBhs&s=10",
-        "description": "A sustainability-focused urban proposal exploring energy savings and architecture at city scale.",
-        "category": "Sustainable Eco-Cities (Case Studies)"
+        "description": "An urban design concept exploring energy-efficient buildings and sustainable city development.",
+        "category": "Sustainable Eco-Cities (Case Studies) | Middle East"
       }
     ],
     "resources_heading": "Publications and Brochures",
@@ -221,20 +221,20 @@
   },
   "education": {
     "kicker": "Education",
-    "headline": "Academic foundation in oceanography, biochemistry, and Japanese language study",
+    "headline": "Academic foundation in oceanography, biochemistry, and Japanese language study\n",
     "items": [
       {
-        "title": "Master in Environmental Science & Oceanography (Environment Monitoring & Satellite Programming)",
+        "title": "Master’s Degree in Environmental Science and Oceanography (Environmental Monitoring and Satellite Programming)",
         "institution": "Division of Marine Science and Technology, Nagasaki University, Nagasaki, Japan",
         "dates": "Apr 2001 - Mar 2003"
       },
       {
-        "title": "Bachelor in Ocean Biochemistry",
+        "title": "Bachelor’s Degree in Marine Biochemistry",
         "institution": "Division of Marine Science and Technology, Nagasaki University, Nagasaki, Japan",
         "dates": "Apr 1997 - Mar 2001"
       },
       {
-        "title": "MEXT Monbusho Scholarship (A fully-funded Japanese government program for international students)",
+        "title": "Japanese Government (Monbusho) Scholarship",
         "institution": "Acquired first-level certificate in Japanese language as a foreign student, Tokyo University of Foreign Studies, Fuchu, Japan",
         "dates": "Apr 1996 - Mar 1997"
       }
@@ -242,7 +242,7 @@
   },
   "experience": {
     "kicker": "Professional Experience",
-    "headline": "From international project delivery to geopolitical risk intelligence",
+    "headline": "Experience in international project delivery, business development, and risk intelligence",
     "roles": [
       {
         "company": "Nikken Sekkei Ltd.",
@@ -253,25 +253,25 @@
           {
             "heading": "Large-Scale International Project Management",
             "overview_bullets": [
-              "Overseeing large-scale urban development and site supervision projects in the Middle East, North Africa, Europe, and East Asia.",
-              "Execute projects from start to finish, spanning the design, procurement, and construction phases.",
-              "Manage a multinational team of experts (50+ members)."
+              "Oversaw large-scale urban development projects and coordinated site supervision across the Middle East, North Africa, Europe, and East Asia.",
+              "Managed project activities across design, procurement, and construction.",
+              "Led multinational teams of more than 50 specialists."
             ],
             "key_achievement_bullets": [
-              "One Za’abeel (Dubai): Served as the core project manager for this mixed-use urban development project. Served as CR/PM after the project was recognized by Guinness World Records as the world’s longest cantilever.",
-              "Tadawul Tower (Riyadh): Led the development of the Saudi Stock Exchange headquarters, secured the project independently, and served as CR/PM.",
-              "Camp Nou Stadium (Barcelona): Led the project management of the stadium redevelopment plan. Secured the project independently and served as CR/PM.",
-              "E-JUST Campus (Egypt): Supported the design of a joint Japanese-Egyptian university campus.",
-              "Cityscape (the world’s largest international real estate event): Developed and executed a comprehensive proposal and organized the event. Following its success, secured a new project.",
-              "Provide comprehensive support for establishing multiple overseas offices."
+              "One Za’abeel (Dubai): Served as a core project manager, overseeing client relations and project coordination on this mixed-use development. Its THE LINK structure holds the Guinness World Records title for the longest cantilevered building.",
+              "Tadawul Tower (Riyadh): Led client communications and presentations that helped secure the Saudi Stock Exchange headquarters project, and managed client relations and project coordination.",
+              "Futur Camp Nou (Barcelona): Led client communications and presentations that helped secure the stadium redevelopment project, and managed client relations and project coordination for the proposal.",
+              "E-JUST Campus (Egypt): Supported the design of the Egypt-Japan University of Science and Technology campus.",
+              "Cityscape: Developed proposals and coordinated the company’s participation in the international real estate event, helping secure a subsequent project.",
+              "Supported the establishment of multiple overseas offices."
             ]
           },
           {
             "heading": "Stakeholder Engagement / External Negotiations",
             "overview_bullets": [
-              "Negotiations with government agencies, royal families, investors, and developers in various countries.",
-              "Negotiation of project contract terms and commercial coordination.",
-              "Proposals and presentations for executive management and clients."
+              "Negotiated with government agencies, royal family representatives, investors, and developers.",
+              "Negotiated contract terms and coordinated commercial matters.",
+              "Prepared proposals and presentations for senior management and clients."
             ],
             "key_achievement_bullets": [
               "Accelerated decision-making among multinational stakeholders.",
@@ -279,18 +279,18 @@
             ]
           },
           {
-            "heading": "Business Development Support / Overseas Public Relation & Branding Support",
+            "heading": "Business Development / International Public Relations and Branding",
             "overview_bullets": [
-              "Support for securing projects in the MENA and European markets.",
-              "Support for preparing proposals, competitive bid materials, and presentation materials.",
-              "Customer acquisition and relationship-building activities."
+              "Supported project acquisition in MENA and Europe.",
+              "Prepared proposals, competitive bids, and presentation materials.",
+              "Developed prospective client relationships and maintained existing accounts."
             ],
             "key_achievement_bullets": [
-              "Public relations and branding support.",
-              "Planning and execution of PR strategies for overseas projects.",
-              "Production of project publications, materials, and presentation materials.",
-              "Organization of client tours and support for executive visits.",
-              "Comprehensive support for multiple overseas expansions and associated office openings."
+              "Supported international corporate branding and public relations.",
+              "Planned and implemented PR strategies for overseas projects.",
+              "Produced project publications, marketing materials, and presentations.",
+              "Organized client tours and supported executive visits.",
+              "Supported overseas expansion and office openings."
             ]
           }
         ],
@@ -305,17 +305,17 @@
           {
             "heading": "Overview",
             "bullets": [
-              "Provided corporations and government agencies with various risk management, research, and consulting services regarding natural disasters, disaster prevention, business continuity planning (BCP), environmental issues, cybersecurity, reducing automobile accidents, and transportation safety management."
+              "Provided risk research and consulting services to corporate and government clients across areas including natural hazards, disaster preparedness, business continuity, environmental risk, cybersecurity, road safety, and transport safety management."
             ]
           },
           {
             "heading": "Key Responsibilities",
             "bullets": [
-              "Geopolitical risk analysis in the Middle East and East Asia.",
-              "Preparation of reports assessing disaster, public safety, and political risks.",
-              "Support for risk management in overseas business expansion.",
-              "Provision of strategic reports for Japanese companies and government agencies.",
-              "Analytical support to assist in decision-making regarding overseas expansion."
+              "Analyzed geopolitical risks in the Middle East and East Asia.",
+              "Prepared assessments of natural disaster, security, and political risks.",
+              "Supported risk management for overseas business expansion.",
+              "Delivered strategic reports to Japanese companies and government agencies.",
+              "Provided analysis to inform overseas investment and market-entry decisions."
             ]
           }
         ]
@@ -324,12 +324,12 @@
   },
   "about": {
     "kicker": "About Me",
-    "headline": "I bridge Japanese organizations with stakeholders in MENA  　East Asia and Europe",
-    "intro": "An international senior project manager and business development professional of Western Mediterranean origin, with over 20 years’ practical experience of multilingual operations in Japan and overseas. To date,  responsible for liaising between Japanese companies and government bodies, investors and private enterprises in the Middle East, North Africa, East Asia and Europe. My experience extends beyond project delivery to supporting overseas corporate branding initiatives and strategic international public relations activities, which I believe complement an executive leadership role. \"I want to continue applying the experience I’ve gained from driving major projects around the world to the overseas expansion efforts of Japanese companies.\"",
+    "headline": "Connecting Japanese organizations with partners across MENA, East Asia, and Europe",
+    "intro": "I am an international project management and business development professional from the western Mediterranean, with more than 20 years of experience in Japan and overseas. I connect Japanese organizations with government agencies, investors, and private-sector partners across the Middle East, North Africa, East Asia, and Europe. My work combines major project delivery, relationship management, and international communications.",
     "metrics": [
       {
         "value": "20+",
-        "label": "years of international leadership"
+        "label": "years of international professional experience"
       },
       {
         "value": "USD 5B+",
@@ -371,7 +371,7 @@
     "name": "Nicolas Furukawa",
     "subtitle": "International Project Management & Business Development Executive | Tokyo, Japan",
     "portrait": "image1.jpg",
-    "sidebar_note": "Available for international project leadership, stakeholder engagement, and business development roles.",
+    "sidebar_note": "For professional enquiries, please contact me by email.",
     "email": "paris.nick.25@gmail.com"
   }
 }
