@@ -80,9 +80,7 @@
     "projects": [
       {
         "image_alt": "One Za'abeel towers in Dubai",
-        "meta": [
-          "Dubai, U.A.E."
-        ],
+        "meta": [],
         "featured": true,
         "url": "https://www.nikken.co.jp/en/projects/mixed_use/one_zaabeel.html",
         "title": "One Za'abeel",
@@ -93,9 +91,7 @@
       },
       {
         "image_alt": "Tadawul Tower exterior",
-        "meta": [
-          "Riyadh, K.S.A."
-        ],
+        "meta": [],
         "featured": false,
         "url": "https://www.nikken.co.jp/en/projects/office/tadawul_tower.html",
         "title": "Tadawul Tower",
@@ -106,9 +102,7 @@
       },
       {
         "image_alt": "Futur Camp Nou stadium design",
-        "meta": [
-          "Barcelona, Spain"
-        ],
+        "meta": [],
         "featured": false,
         "url": "https://www.nikken.co.jp/en/projects/sports/futur_camp_nou.html",
         "title": "Futur Camp Nou Stadium",
@@ -119,9 +113,7 @@
       },
       {
         "image_alt": "E-JUST campus architecture",
-        "meta": [
-          "Alexandria, Egypt"
-        ],
+        "meta": [],
         "featured": false,
         "url": "https://www.nikken.co.jp/en/projects/education/e-just_university_campus.html?cat=Education",
         "title": "E-JUST Campus",
@@ -132,9 +124,7 @@
       },
       {
         "image_alt": "New Dubai Skyline residential tower rendering",
-        "meta": [
-          "Dubai, U.A.E."
-        ],
+        "meta": [],
         "featured": false,
         "url": "https://www.nikken.co.jp/en/projects/residential/new_dubai_skyline.html",
         "title": "New Dubai Skyline",
@@ -145,9 +135,7 @@
       },
       {
         "image_alt": "Dubai Maritimes City Landmark Tower Exterior Rendering",
-        "meta": [
-          "Dubai, U.A.E."
-        ],
+        "meta": [],
         "featured": false,
         "url": "https://www.nikken.co.jp/en/projects/landscape/dubai_maritimes_city_landmark_tower.html?region=Overseas&refineKey=projCat&refineVal=Mixed%20Use%20%2F%20TOD",
         "title": "Dubai Maritimes City Landmark Tower",
@@ -158,9 +146,7 @@
       },
       {
         "image_alt": "Mongol Tower Design",
-        "meta": [
-          "Ulaanbaatar, Mongolia"
-        ],
+        "meta": [],
         "featured": false,
         "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfTruR84QllysBvCXmltccs_3GN9_R1xQW4jgs_7sWug&s=10",
         "title": "Mongol Tower",
@@ -171,9 +157,7 @@
       },
       {
         "image_alt": "Cool City and Eco-towers concept",
-        "meta": [
-          "Middle East"
-        ],
+        "meta": [],
         "featured": false,
         "url": "https://www.nikken.co.jp/en/projects/cool_city_and_eco-towers.html",
         "title": "Cool City and Eco Towers",
@@ -224,7 +208,7 @@
     "headline": "Academic foundation in oceanography, biochemistry, and Japanese language study\n",
     "items": [
       {
-        "title": "Master’s Degree in Environmental Science and Oceanography (Environmental Monitoring and Satellite Programming)",
+        "title": "Master’s Degree in Environmental Science and Oceanography (Environmental Monitoring & Satellite Programming)",
         "institution": "Division of Marine Science and Technology, Nagasaki University, Nagasaki, Japan",
         "dates": "Apr 2001 - Mar 2003"
       },
@@ -325,7 +309,7 @@
   "about": {
     "kicker": "About Me",
     "headline": "Connecting Japanese organizations with partners across MENA, East Asia, and Europe",
-    "intro": "I am an international project management and business development professional from the western Mediterranean, with more than 20 years of experience in Japan and overseas. I connect Japanese organizations with government agencies, investors, and private-sector partners across the Middle East, North Africa, East Asia, and Europe. My work combines major project delivery, relationship management, and international communications.",
+    "intro": "I am an international project management and business development professional from the western Mediterranean, with more than 20 years of experience in Japan & overseas. I connect Japanese organizations with government agencies, investors, and private-sector partners across the Middle East, North Africa, East Asia, and Europe. My work combines major project delivery, relationship management, and international communications.",
     "metrics": [
       {
         "value": "20+",
