@@ -118,7 +118,7 @@
         "url": "https://www.nikken.co.jp/ja/projects/education/e-just_university_campus.html?cat=教育施設",
         "title": "E-JUST Campus",
         "tags": "Designed MENA Education Campus",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6td4eniJ_KQvAfFd-npCDUGqkTeTw0DcyUO90RjkWlaVD_CkuL0rxRzw&s=10",
+        "image": "https://www.nikken.jp/ja/projects/pj4urv0000004ku3-img/pj0243_00_ogp.jpg",
         "description": "エジプトと日本の教育文化を融合する、エジプト日本科学技術大学のキャンパス。",
         "category": "教育施設｜アレクサンドリア、エジプト"
       },
@@ -140,7 +140,7 @@
         "url": "https://www.nikken.co.jp/ja/projects/landscape/dubai_maritimes_city_landmark_tower.html?cat=超高層",
         "title": "Dubai Maritimes City Landmark Tower",
         "tags": "Designed MENA Mixed Use Tall Building",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJEcB_yciAbs63AeAAuaSPwrhyg214beXyiHERcao6pzosSkDcV5ydkVd&s=10",
+        "image": "https://www.nikken.jp/ja/projects/pj4urv0000004w9a-img/pj0266_00_ogp.jpg",
         "description": "風・帆・船をモチーフとしたランドマークタワーの提案。",
         "category": "複合施設（超高層）｜ドバイ、アラブ首長国連邦"
       },
@@ -151,7 +151,7 @@
         "url": "https://www.nikken.co.jp/ja/projects/mixed_use/mongol_tower.html?cat=超高層",
         "title": "Mongol Tower",
         "tags": "Designed Mongolia Mixed Use Tall Building",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni-iVeh-mPW3urBlbZ2aJ3vQbaQHAv8b3Mf_udqoBHnsQPMhWqp67Uav1&s=10",
+        "image": "https://www.nikken.jp/ja/projects/pj4urv0000004rbm-img/pj0261_00_ogp.jpg",
         "description": "ホテル、住宅、オフィス、商業施設を組み合わせた、ウランバトールの複合タワー構想。",
         "category": "複合施設（超高層）｜ウランバトール、モンゴル"
       },
@@ -164,7 +164,7 @@
         "url": "https://www.nikken.co.jp/ja/projects/highrise/cool_city_and_eco-towers.html?cat=超高層",
         "title": "Cool City and Eco Towers",
         "tags": "MENA Master Plan Tall Buildings",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOrcA5jO1mcUyKixbRDYKGHbhQSEuUoOwpQ8j1cvH7vD-fbjbR6aYDBhs&s=10",
+        "image": "https://www.nikken.jp/ja/projects/pj4urv0000004ekm-img/pj0251_00_ogp.jpg",
         "description": "省エネルギー建築と持続可能な都市開発の可能性を探る都市計画構想。",
         "category": "持続可能なエコシティ（ケーススタディ）｜中東"
       }
@@ -306,7 +306,7 @@
   "about": {
     "kicker": "自己紹介",
     "headline": "日本企業と中東・北アフリカ・東アジア・欧州のパートナーをつなぐ",
-    "intro": "地中海西部出身。日本および海外で20年以上の実務経験を持ち、国際プロジェクトマネジメントと事業開発に携わってきました。日本企業と中東・北アフリカ・東アジア・欧州の政府機関、投資家、民間企業をつなぎ、協業の調整とプロジェクトの推進を担っています。大規模プロジェクトの遂行、関係構築、国際的なコミュニケーションを組み合わせた業務を強みとしています。",
+    "intro": "日本および海外で20年以上の実務経験を持つ、地中海西部出身の国際プロジェクトマネジメント・事業開発の専門家です。日本企業と中東・北アフリカ・東アジア・欧州の政府機関、投資家、民間企業をつなぎ、協業の調整とプロジェクトの推進を担っています。大規模プロジェクトの遂行、関係構築、国際的なコミュニケーションを組み合わせた業務を強みとしています。",
     "metrics": [
       {
         "value": "20年以上",
@@ -326,8 +326,8 @@
       }
     ]
   },
-  "title": "Nicolas Furukawa CV & PORTFOLIO",
-  "description": "古川ニコラの国際プロジェクト・マネジメント、事業開発、職務経歴および公開プロジェクト実績をまとめたポートフォリオ",
+  "title": "古川 ニコラ｜職務経歴書・ポートフォリオ",
+  "description": "古川ニコラの国際プロジェクトマネジメントと事業開発における職務経歴、主な実績、関連刊行物を紹介するポートフォリオ。",
   "hero_images": [
     {
       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP7Fi4EJkjbkgtorHk25_-fUN1XAc_9ZMCUKUBLOXxsM95WBfhio3GLgs&s=10"
@@ -349,7 +349,7 @@
     }
   ],
   "identity": {
-    "name": "古川　ニコラ",
+    "name": "古川 ニコラ",
     "subtitle": "国際プロジェクトマネジメント・事業開発エグゼクティブ｜東京、日本",
     "portrait": "image1.jpg",
     "sidebar_note": "お問い合わせ、ご提案、ご相談などございましたら、お気軽にメールでご連絡ください。",
