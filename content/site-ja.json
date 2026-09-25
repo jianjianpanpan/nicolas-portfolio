@@ -75,99 +75,85 @@
   },
   "portfolio": {
     "kicker": "ポートフォリオ",
-    "headline": "公開プロジェクト・マネジメント実績及び関連コミュニケーション資料",
-    "intro": "ここに掲載している公開リンクは、直接担当したプロジェクトを紹介するものです。担当業務には、海外プロジェクトのマネジメント・統括・クライアントとの調整および海外広報活動が含まれています。また、これらのプロジェクトやその他のプロジェクトに関連して制作されたパンフレットや刊行物も含まれています。",
+    "headline": "主なプロジェクト・刊行物・広報資料",
+    "intro": "国際プロジェクトマネジメント、顧客調整、海外広報に関わるプロジェクトと刊行物を紹介します。担当範囲は案件ごとに異なります。各リンクから、公開されているプロジェクト情報や関連資料をご覧いただけます。",
     "projects": [
       {
         "image_alt": "One Za'abeel towers in Dubai",
-        "meta": [
-          "ドバイ, アラブ首長国連邦"
-        ],
+        "meta": [],
         "featured": true,
         "url": "https://www.nikken.co.jp/ja/projects/mixed_use/one_zaabeel.html?cat=超高層",
         "title": "One Za'abeel",
         "tags": "Built MENA Mixed Use Tall Buildings",
         "image": "https://static.dezeen.com/uploads/2024/09/one-zaabeel-nikken-sekkei-dubai-cantilever-hero_dezeen_2364_col_0.jpg",
-        "description": "ドバイの優雅なタワー開発。THE LINKで接続され、都市の新たな象徴となるプロジェクト。",
-        "category": "複合施設（超高層）"
+        "description": "THE LINKで結ばれた2棟のタワーを中心とする、ドバイの複合開発。",
+        "category": "複合施設（超高層）｜ドバイ、アラブ首長国連邦"
       },
       {
         "image_alt": "Tadawul Tower Exterior",
-        "meta": [
-          "リヤド、サウジアラビア"
-        ],
+        "meta": [],
         "featured": false,
         "url": "https://www.nikken.co.jp/ja/projects/office/tadawul_tower.html?cat=オフィス",
         "title": "Tadawul Tower",
         "tags": "Built MENA Office Tall Building",
         "image": "https://images.skyscrapercenter.com/building/NIK_027_050922@Gerry-O'Leary230418-100418.jpg",
-        "description": "リヤドに位置する、サウジ証券取引所の中核拠点となる主要なオフィスおよび超高層建築プロジェクト。",
-        "category": "オフィス（超高層）"
+        "description": "サウジ証券取引所の本部となる、リヤドの超高層オフィス開発。",
+        "category": "オフィス（超高層）｜リヤド、サウジアラビア"
       },
       {
         "image_alt": "Futur Camp Nou Stadium Design",
-        "meta": [
-          "バルセロナ、スペイン"
-        ],
+        "meta": [],
         "featured": false,
         "url": "https://www.nikken.co.jp/ja/projects/sports/futur_camp_nou.html?subCat=スポーツ施設",
         "title": "Futur Camp Nou",
         "tags": "Built Europe Sport Stadium",
         "image": "https://www.nikken.co.jp/ja/projects/p4iusj0000001gfr-img/pj0023_04.jpg",
-        "description": "スタジアムを都市と市民に開くことを目指したCamp Nouの改修コンセプト。",
-        "category": "スポーツ施設"
+        "description": "周辺市街地とのつながりを重視した、FCバルセロナの本拠地スタジアム改修提案。",
+        "category": "スポーツ施設｜バルセロナ、スペイン"
       },
       {
         "image_alt": "E-JUST campus architecture",
-        "meta": [
-          "アリクサンドリア、エジプト"
-        ],
+        "meta": [],
         "featured": false,
         "url": "https://www.nikken.co.jp/ja/projects/education/e-just_university_campus.html?cat=教育施設",
         "title": "E-JUST Campus",
         "tags": "Designed MENA Education Campus",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6td4eniJ_KQvAfFd-npCDUGqkTeTw0DcyUO90RjkWlaVD_CkuL0rxRzw&s=10",
-        "description": "エジプト日本科学技術大学のキャンパスは、2つの文化を融合した「ツインカルチャー・キャンパス」として計画。",
-        "category": "教育施設"
+        "description": "エジプトと日本の教育文化を融合する、エジプト日本科学技術大学のキャンパス。",
+        "category": "教育施設｜アレクサンドリア、エジプト"
       },
       {
         "image_alt": "New Dubai Skyline residential tower rendering",
-        "meta": [
-          "ドバイ、アラブ首長国連邦"
-        ],
+        "meta": [],
         "featured": false,
         "url": "https://www.nikken.co.jp/ja/projects/residential/new_dubai_skyline.html?cat=超高層",
         "title": "New Dubai Skyline",
         "tags": "Designed MENA Residential Tall Building",
         "image": "https://www.nikken.co.jp/ja/projects/pj4urv0000004t2p-img/pj0265_00_ogp.jpg",
-        "description": "「Above the Clouds」をテーマに構想された、ドバイの高品質な住宅タワープロジェクト。",
-        "category": "住宅（超高層）"
+        "description": "「Above the Clouds」をテーマとする、ドバイの住宅タワー構想。",
+        "category": "住宅（超高層）｜ドバイ、アラブ首長国連邦"
       },
       {
         "image_alt": "Dubai Maritimes City Landmark Tower Exterior Rendering",
-        "meta": [
-          "ドバイ、アラブ首長国連邦"
-        ],
+        "meta": [],
         "featured": false,
         "url": "https://www.nikken.co.jp/ja/projects/landscape/dubai_maritimes_city_landmark_tower.html?cat=超高層",
         "title": "Dubai Maritimes City Landmark Tower",
         "tags": "Designed MENA Mixed Use Tall Building",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJEcB_yciAbs63AeAAuaSPwrhyg214beXyiHERcao6pzosSkDcV5ydkVd&s=10",
-        "description": "「風・帆・船」を体現する、ドバイ・マリーナ・シティのランドマークタワー計画。",
-        "category": "複合施設（超高層）"
+        "description": "風・帆・船をモチーフとしたランドマークタワーの提案。",
+        "category": "複合施設（超高層）｜ドバイ、アラブ首長国連邦"
       },
       {
         "image_alt": "Mongol Tower Design",
-        "meta": [
-          "ウランバトール、モンゴル"
-        ],
+        "meta": [],
         "featured": false,
         "url": "https://www.nikken.co.jp/ja/projects/mixed_use/mongol_tower.html?cat=超高層",
         "title": "Mongol Tower",
         "tags": "Designed Mongolia Mixed Use Tall Building",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni-iVeh-mPW3urBlbZ2aJ3vQbaQHAv8b3Mf_udqoBHnsQPMhWqp67Uav1&s=10",
-        "description": "現代モンゴルを象徴するアイコンとして位置づけられる複合用途タワー。",
-        "category": "複合施設（超高層）"
+        "description": "ホテル、住宅、オフィス、商業施設を組み合わせた、ウランバトールの複合タワー構想。",
+        "category": "複合施設（超高層）｜ウランバトール、モンゴル"
       },
       {
         "image_alt": "Cool City and Eco-towers Concept",
@@ -179,30 +165,30 @@
         "title": "Cool City and Eco Towers",
         "tags": "MENA Master Plan Tall Buildings",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOrcA5jO1mcUyKixbRDYKGHbhQSEuUoOwpQ8j1cvH7vD-fbjbR6aYDBhs&s=10",
-        "description": "都市スケールで省エネルギーと建築のあり方を追求する、サステナビリティを重視した都市計画。",
-        "category": "サステナブル・エコシティ（ケース・スタディ）"
+        "description": "省エネルギー建築と持続可能な都市開発の可能性を探る都市計画構想。",
+        "category": "持続可能なエコシティ（ケーススタディ）｜中東"
       }
     ],
     "resources_heading": "出版物・ブローシャー等",
     "resources": [
       {
-        "label": "One Za’abeel ブローシャー",
+        "label": "One Za’abeel パンフレット",
         "url": "https://www.nikken.jp/ja/dbook/one_zaabeel/#page=1"
       },
       {
-        "label": "Tadawul Tower ブローシャー",
+        "label": "Tadawul Tower パンフレット",
         "url": "https://www.nikken.jp/ja/dbook/tadawul_tower/#page=1"
       },
       {
-        "label": "India ブローシャー",
+        "label": "インド事業紹介パンフレット",
         "url": "https://www.nikken.co.jp/ja/dbook/india_brochure/html5m.html#page=1"
       },
       {
-        "label": "Vietnam ブローシャー",
+        "label": "ベトナム事業紹介パンフレット",
         "url": "https://www.nikken.jp/ja/dbook/vietnam_brochure/#page=1"
       },
       {
-        "label": "ホスピタリティ ブローシャー",
+        "label": "ホスピタリティ分野紹介パンフレット",
         "url": "https://www.nikken.jp/ja/dbook/hospitality_brochure/html5m.html#page=1"
       },
       {
@@ -210,32 +196,32 @@
         "url": "https://www.nikken.jp/ja/dbook/nj202303/html5m.html#page=1"
       },
       {
-        "label": "日建設計『アーバニズム・ブック』",
+        "label": "日建設計 アーバニズム・ブック",
         "url": "https://www.nikken.co.jp/ja/dbook/udbook/html5.html#page=1"
       },
       {
-        "label": "日建設計『コーポレート・ブック』",
+        "label": "日建設計 コーポレート・ブック",
         "url": "https://ja.nikken-comms.com/books/?pk=69"
       }
     ]
   },
   "education": {
     "kicker": "学歴",
-    "headline": "海洋情報学・海洋生物化学・日本語教育を基盤とする学術的背景",
+    "headline": "海洋学・生化学・日本語学習を通じて培った学術的基盤",
     "items": [
       {
-        "title": "環境科学・海洋情報学 修士（環境モニタリングと衛生プログラミング）",
-        "institution": "長崎大学 水産学研究科 海洋情報学科専攻（長崎、日本）",
+        "title": "環境科学・海洋学 修士　環境モニタリング・衛星プログラミング",
+        "institution": "長崎大学　水産学部　海洋科学技術分野（長崎、日本）",
         "dates": "2001年4月 - 2003年3月"
       },
       {
-        "title": "海洋生物化学 学士",
-        "institution": "長崎大学 水産学部 海洋生物学科専攻（長崎、日本）",
+        "title": "海洋生化学 学士",
+        "institution": "長崎大学　水産学部　海洋科学技術分野（長崎、日本）",
         "dates": "1997年4月 - 2001年3月"
       },
       {
-        "title": "文部省国費留学生",
-        "institution": "東京外国語大学にて外国人留学生として日本語一級相当を取得（府中、日本）",
+        "title": "日本政府（文部省）国費留学生",
+        "institution": "東京外国語大学に留学生として在籍し、日本語の第1級資格を取得（府中、日本）",
         "dates": "1996年4月 - 1997年3月"
       }
     ]
@@ -260,37 +246,33 @@
             "key_achievement_bullets": [
               "Tadawul Tower（リヤド）：顧客との折衝・プレゼンテーションを主導し、サウジ証券取引所本部の案件獲得に貢献。その後、顧客との関係管理とプロジェクト調整を担当。",
               "Futur Camp Nou（バルセロナ）：顧客との折衝・プレゼンテーションを主導し、スタジアム改修案件の獲得に貢献。その後、改修提案における顧客対応とプロジェクト調整を担当。",
-              "国際的なステークホルダー間の合意形成を促進し、複雑なプロジェクトの意思決定を支援。",
-              "E-JUSTキャンパス（エジプト）：日埃共同大学キャンパス構築支援",
-              "毎年、世界最大不動産系の国際イベント（City Scape）：全面提案・開催。成功の上、新案件に結べつけた。"
+              "国際的なステークホルダー間の合意形成を促進し、複雑なプロジェクトの意思決定を支援。"
             ]
           },
           {
-            "heading": "ステークホルダーエンゲージメント／対外交渉",
+            "heading": "大規模国際プロジェクトマネジメント",
             "overview_bullets": [
-              "各国政府機関・王族・投資家・デベロッパーとの折衝。",
-              "プロジェクト契約条件の交渉および商務調整。",
-              "経営層やお客様向けの提案やプレゼンテーションを通じて、多国間のステークホルダーの意思決定を加速。"
+              "中東・北アフリカ・欧州・東アジアのインフラ、都市開発、建築プロジェクトを管理。",
+              "企画・提案、設計、調達、施工の各段階でプロジェクト業務を調整。",
+              "建築家、エンジニア、コンサルタントなどの多国籍チームを統括し、工程、コスト、リスク、顧客要件を調整。"
             ],
             "key_achievement_bullets": [
-              "多国籍ステークホルダー間の意思決定を加速。",
-              "大規模プロジェクトにおける合意形成を促進。"
+              "One Za’abeel（ドバイ）：大規模複合開発の中核プロジェクトマネージャーとして、顧客との関係管理とプロジェクト調整を担当。",
+              "E-JUSTキャンパス（エジプト）：エジプト日本科学技術大学のキャンパス設計を支援。",
+              "国際案件において、50名を超える多分野の専門家チームを統括。"
             ]
           },
           {
-            "heading": "ビジネスディベロップメント・広報支援",
+            "heading": "海外広報・ブランディング・海外展開",
             "overview_bullets": [
-              "中東、北アフリカ、欧州、東アジア市場における案件獲得、提案書やコンペティション資料の作成、顧客開拓を支援。",
-              "海外向けプロジェクトのPR戦略・出版物・プレゼン資料・クライアント向けツアーの企画・実行。",
-              "顧客獲得および関係構築活動。"
+              "プロジェクトの認知向上と事業開発を支える海外向け広報・マーケティング資料を制作。",
+              "各種賞への応募、企業刊行物、プロジェクトパンフレット、経営層向けプレゼンテーションの準備・制作を調整。",
+              "顧客の現地視察を企画・運営し、経営層の訪問と海外拠点の開設を支援。"
             ],
             "key_achievement_bullets": [
-              "広報・ブランディング支援。",
-              "海外プロジェクト向けPR戦略の企画・実行。",
-              "プロジェクト出版物、資料、プレゼンテーション資料の制作。",
-              "クライアントツアーの企画およびエグゼクティブ訪問の支援。",
-              "海外での大型イベントの企画・開催を通じて、企業ブランドの向上と新規ビジネス機会の創出に貢献。",
-              "複数の海外進出およびそれに伴うオフィスの開設についても、包括的な支援。"
+              "Cityscape：国際不動産イベントへの参加に向けた提案と出展調整を担当し、その後の新規案件獲得に貢献。",
+              "主要プロジェクトと自社の専門性を発信する海外広報活動を主導。",
+              "海外事業の展開と複数の海外拠点開設を支援。"
             ]
           }
         ]
@@ -299,20 +281,22 @@
         "company": "東京海上日動リスクコンサルティング株式会社",
         "location": "東京, 日本",
         "dates": "2003年4月 - 2007年3月",
-        "title": "リスクインテリジェンスアナリスト",
+        "title": "リスクインテリジェンス・アナリスト",
         "sections": [
           {
             "heading": "概要",
             "bullets": [
-              "自然災害、防災、事業継続計画（BCP）、環境問題、サイバーセキュリティ、自動車事故削減、運輸安全マネジメントに関して、企業および官公庁向けに各種リスクマネジメント、調査、コンサルティングサービスを提供。"
+              "中東・東アジアを中心にリスク調査・分析を行い、日本企業や政府機関の海外市場参入、事業計画、リスク管理を支援。"
             ]
           },
           {
             "heading": "主な担当業務",
             "bullets": [
-              "中東・東アジアにおける地政学リスク、災害・治安・政治リスク評価レポートを作成。",
-              "日本企業や政府機関向けに、海外事業展開や進出判断に役立つ戦略レポートを提供。",
-              "海外事業計画におけるリスク管理支援。"
+              "地政学、政治、治安、自然災害に関するリスクを評価。",
+              "現地情勢と海外事業への影響を分析するレポートを作成。",
+              "日本企業や政府機関に、戦略判断に資する情報・分析を提供。",
+              "国・市場別のリスク分析を通じて、海外進出の意思決定を支援。",
+              "国際事業におけるリスク管理計画の策定に貢献。"
             ]
           }
         ]
